@@ -9,3 +9,8 @@
 - **Thời gian:** `2026-09-07 10:45:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(survey): thiết kế bảng câu hỏi khảo sát thói quen tập luyện của học viên
+
+### [2026-09-07] docs(survey): thiết kế phiếu phỏng vấn dành cho huấn luyện viên cá nhân PT
+- **Thời gian:** `2026-09-07 14:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(survey): thiết kế phiếu phỏng vấn dành cho huấn luyện viên cá nhân PT
