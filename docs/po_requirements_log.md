@@ -14,3 +14,8 @@
 - **Thời gian:** `2026-09-07 14:15:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(survey): thiết kế phiếu phỏng vấn dành cho huấn luyện viên cá nhân PT
+
+### [2026-09-07] docs(interview): thực hiện phỏng vấn 5 huấn luyện viên và ghi chép ý kiến
+- **Thời gian:** `2026-09-07 16:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(interview): thực hiện phỏng vấn 5 huấn luyện viên và ghi chép ý kiến
