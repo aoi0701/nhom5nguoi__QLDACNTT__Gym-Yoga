@@ -4,3 +4,8 @@
 - **Thời gian:** `2026-09-07 08:30:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** chore(frontend): khảo sát các xu hướng thiết kế UI/UX ứng dụng fitness hiện đại
+
+### [2026-09-07] chore(frontend): phân tích trải nghiệm người dùng của các app Nike Training, MyFitnessPal
+- **Thời gian:** `2026-09-07 10:45:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** chore(frontend): phân tích trải nghiệm người dùng của các app Nike Training, MyFitnessPal
