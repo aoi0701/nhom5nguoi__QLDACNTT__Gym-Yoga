@@ -14,3 +14,8 @@
 - **Thời gian:** `2026-09-07 14:15:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(charter): xác định ngân sách dự án 90 triệu và tiêu chí thành công cốt lõi
+
+### [2026-09-07] docs(charter): hoàn thiện văn bản Project Charter và phê duyệt bởi Project Manager
+- **Thời gian:** `2026-09-07 16:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(charter): hoàn thiện văn bản Project Charter và phê duyệt bởi Project Manager
