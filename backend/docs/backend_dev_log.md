@@ -14,3 +14,8 @@
 - **Thời gian:** `2026-09-07 14:15:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** chore(docker): xây dựng Dockerfile tối ưu cho ứng dụng Django REST Framework
+
+### [2026-09-07] chore(docker): viết tệp cấu hình docker-compose.yml kết nối PostgreSQL, Redis và Backend
+- **Thời gian:** `2026-09-07 16:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** chore(docker): viết tệp cấu hình docker-compose.yml kết nối PostgreSQL, Redis và Backend
