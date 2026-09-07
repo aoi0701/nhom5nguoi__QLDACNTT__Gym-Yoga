@@ -14,3 +14,8 @@
 - **Thời gian:** `2026-09-07 14:15:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** chore(init): khởi tạo dự án Frontend với React 18 và Vite cho tốc độ build tối ưu
+
+### [2026-09-07] chore(tailwind): cài đặt và cấu hình Tailwind CSS cho toàn bộ dự án
+- **Thời gian:** `2026-09-07 16:50:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** chore(tailwind): cài đặt và cấu hình Tailwind CSS cho toàn bộ dự án
