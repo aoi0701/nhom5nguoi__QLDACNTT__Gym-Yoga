@@ -24,3 +24,8 @@
 - **Thời gian:** `2026-09-08 09:10:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** build(deps): thiết lập tệp pyproject.toml và quản lý các phụ thuộc qua uv/pip
+
+### [2026-09-08] feat(config): cấu hình Django settings hỗ trợ nạp cấu hình từ biến môi trường .env
+- **Thời gian:** `2026-09-08 11:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(config): cấu hình Django settings hỗ trợ nạp cấu hình từ biến môi trường .env
