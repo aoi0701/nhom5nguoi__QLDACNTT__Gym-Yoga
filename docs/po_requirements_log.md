@@ -29,3 +29,8 @@
 - **Thời gian:** `2026-09-08 11:20:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(requirements): tổng hợp các vấn đề cốt lõi của người tập: thiếu lộ trình rõ ràng
+
+### [2026-09-08] docs(requirements): xác định nhu cầu phân loại bài tập theo nhóm cơ và mức độ khó
+- **Thời gian:** `2026-09-08 13:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(requirements): xác định nhu cầu phân loại bài tập theo nhóm cơ và mức độ khó
