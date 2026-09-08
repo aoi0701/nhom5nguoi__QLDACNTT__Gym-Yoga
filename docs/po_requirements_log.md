@@ -34,3 +34,8 @@
 - **Thời gian:** `2026-09-08 13:50:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(requirements): xác định nhu cầu phân loại bài tập theo nhóm cơ và mức độ khó
+
+### [2026-09-08] docs(requirements): phân tích yêu cầu tích hợp trí tuệ nhân tạo để cá nhân hóa giáo án
+- **Thời gian:** `2026-09-08 17:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(requirements): phân tích yêu cầu tích hợp trí tuệ nhân tạo để cá nhân hóa giáo án
