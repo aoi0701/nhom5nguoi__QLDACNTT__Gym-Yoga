@@ -24,3 +24,8 @@
 - **Thời gian:** `2026-09-08 09:10:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** style(theme): thiết lập bảng màu chủ đạo: Cam năng động (Orange/Amber) và Đen thể thao
+
+### [2026-09-08] style(fonts): cấu hình font chữ Inter hiển thị sắc nét và dễ đọc
+- **Thời gian:** `2026-09-08 11:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** style(fonts): cấu hình font chữ Inter hiển thị sắc nét và dễ đọc
