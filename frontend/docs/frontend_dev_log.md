@@ -34,3 +34,8 @@
 - **Thời gian:** `2026-09-08 13:50:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(router): cài đặt react-router-dom v6 và cấu hình BrowserRouter
+
+### [2026-09-08] feat(layout): xây dựng khung Header điều hướng sticky top với logo GYM-YOGA AI
+- **Thời gian:** `2026-09-08 17:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(layout): xây dựng khung Header điều hướng sticky top với logo GYM-YOGA AI
