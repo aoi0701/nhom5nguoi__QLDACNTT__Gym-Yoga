@@ -19,3 +19,8 @@
 - **Thời gian:** `2026-09-07 16:50:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(charter): hoàn thiện văn bản Project Charter và phê duyệt bởi Project Manager
+
+### [2026-09-08] docs(scope): khởi tạo tài liệu phát biểu phạm vi Scope Statement ban đầu
+- **Thời gian:** `2026-09-08 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(scope): khởi tạo tài liệu phát biểu phạm vi Scope Statement ban đầu
