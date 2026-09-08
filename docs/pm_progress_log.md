@@ -34,3 +34,8 @@
 - **Thời gian:** `2026-09-08 13:50:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(scope): liệt kê các tính năng ngoài phạm vi để kiểm soát tránh Scope Creep
+
+### [2026-09-08] docs(scope): hoàn thiện tài liệu Scope Statement chuẩn PMBOK
+- **Thời gian:** `2026-09-08 17:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(scope): hoàn thiện tài liệu Scope Statement chuẩn PMBOK
