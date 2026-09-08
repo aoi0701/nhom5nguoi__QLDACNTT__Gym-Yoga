@@ -19,3 +19,8 @@
 - **Thời gian:** `2026-09-07 16:50:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** chore(tailwind): cài đặt và cấu hình Tailwind CSS cho toàn bộ dự án
+
+### [2026-09-08] style(theme): thiết lập bảng màu chủ đạo: Cam năng động (Orange/Amber) và Đen thể thao
+- **Thời gian:** `2026-09-08 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** style(theme): thiết lập bảng màu chủ đạo: Cam năng động (Orange/Amber) và Đen thể thao
