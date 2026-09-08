@@ -29,3 +29,8 @@
 - **Thời gian:** `2026-09-08 11:20:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(scope): xác định ranh giới chức năng trong phạm vi hệ thống Gym-Yoga AI
+
+### [2026-09-08] docs(scope): liệt kê các tính năng ngoài phạm vi để kiểm soát tránh Scope Creep
+- **Thời gian:** `2026-09-08 13:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(scope): liệt kê các tính năng ngoài phạm vi để kiểm soát tránh Scope Creep
