@@ -19,3 +19,8 @@
 - **Thời gian:** `2026-09-07 16:50:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** chore(docker): viết tệp cấu hình docker-compose.yml kết nối PostgreSQL, Redis và Backend
+
+### [2026-09-08] build(deps): thiết lập tệp pyproject.toml và quản lý các phụ thuộc qua uv/pip
+- **Thời gian:** `2026-09-08 09:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** build(deps): thiết lập tệp pyproject.toml và quản lý các phụ thuộc qua uv/pip
