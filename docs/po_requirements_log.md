@@ -24,3 +24,8 @@
 - **Thời gian:** `2026-09-08 09:10:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(interview): thực hiện khảo sát 20 hội viên về nhu cầu gợi ý bài tập tự động
+
+### [2026-09-08] docs(requirements): tổng hợp các vấn đề cốt lõi của người tập: thiếu lộ trình rõ ràng
+- **Thời gian:** `2026-09-08 11:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(requirements): tổng hợp các vấn đề cốt lõi của người tập: thiếu lộ trình rõ ràng
