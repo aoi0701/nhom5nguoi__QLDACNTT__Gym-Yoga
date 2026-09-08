@@ -29,3 +29,8 @@
 - **Thời gian:** `2026-09-08 11:20:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** style(fonts): cấu hình font chữ Inter hiển thị sắc nét và dễ đọc
+
+### [2026-09-08] feat(router): cài đặt react-router-dom v6 và cấu hình BrowserRouter
+- **Thời gian:** `2026-09-08 13:50:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(router): cài đặt react-router-dom v6 và cấu hình BrowserRouter
