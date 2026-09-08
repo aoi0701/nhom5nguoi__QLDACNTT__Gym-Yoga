@@ -34,3 +34,8 @@
 - **Thời gian:** `2026-09-08 13:50:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(testplan): xác định mục tiêu kiểm thử, phạm vi chức năng và phi chức năng
+
+### [2026-09-08] docs(testplan): lựa chọn công cụ kiểm thử: Pytest cho Backend, Vitest cho Frontend, Postman
+- **Thời gian:** `2026-09-08 17:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(testplan): lựa chọn công cụ kiểm thử: Pytest cho Backend, Vitest cho Frontend, Postman
