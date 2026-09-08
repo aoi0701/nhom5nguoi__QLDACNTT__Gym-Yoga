@@ -24,3 +24,8 @@
 - **Thời gian:** `2026-09-08 09:10:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(erd): phân tích các mối quan hệ 1-1, 1-N và N-N giữa các bảng
+
+### [2026-09-08] docs(testplan): khởi tạo tài liệu Kế hoạch Kiểm thử Tổng thể Master Test Plan v1.0
+- **Thời gian:** `2026-09-08 11:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(testplan): khởi tạo tài liệu Kế hoạch Kiểm thử Tổng thể Master Test Plan v1.0
