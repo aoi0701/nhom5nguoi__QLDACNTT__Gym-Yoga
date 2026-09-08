@@ -29,3 +29,8 @@
 - **Thời gian:** `2026-09-08 11:20:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(config): cấu hình Django settings hỗ trợ nạp cấu hình từ biến môi trường .env
+
+### [2026-09-08] feat(config): thiết lập cấu hình cơ sở dữ liệu kết nối an toàn với PostgreSQL
+- **Thời gian:** `2026-09-08 13:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(config): thiết lập cấu hình cơ sở dữ liệu kết nối an toàn với PostgreSQL
