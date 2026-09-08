@@ -19,3 +19,8 @@
 - **Thời gian:** `2026-09-07 16:50:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(interview): thực hiện phỏng vấn 5 huấn luyện viên và ghi chép ý kiến
+
+### [2026-09-08] docs(interview): thực hiện khảo sát 20 hội viên về nhu cầu gợi ý bài tập tự động
+- **Thời gian:** `2026-09-08 09:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(interview): thực hiện khảo sát 20 hội viên về nhu cầu gợi ý bài tập tự động
