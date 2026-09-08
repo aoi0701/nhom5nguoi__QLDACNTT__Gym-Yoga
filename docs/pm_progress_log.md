@@ -24,3 +24,8 @@
 - **Thời gian:** `2026-09-08 09:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(scope): khởi tạo tài liệu phát biểu phạm vi Scope Statement ban đầu
+
+### [2026-09-08] docs(scope): xác định ranh giới chức năng trong phạm vi hệ thống Gym-Yoga AI
+- **Thời gian:** `2026-09-08 11:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(scope): xác định ranh giới chức năng trong phạm vi hệ thống Gym-Yoga AI
