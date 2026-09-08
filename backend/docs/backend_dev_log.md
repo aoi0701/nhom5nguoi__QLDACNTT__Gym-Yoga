@@ -34,3 +34,8 @@
 - **Thời gian:** `2026-09-08 13:50:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(config): thiết lập cấu hình cơ sở dữ liệu kết nối an toàn với PostgreSQL
+
+### [2026-09-08] feat(config): cấu hình Redis Cache cho phiên làm việc và bộ nhớ đệm
+- **Thời gian:** `2026-09-08 17:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(config): cấu hình Redis Cache cho phiên làm việc và bộ nhớ đệm
