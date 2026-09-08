@@ -29,3 +29,8 @@
 - **Thời gian:** `2026-09-08 11:20:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(testplan): khởi tạo tài liệu Kế hoạch Kiểm thử Tổng thể Master Test Plan v1.0
+
+### [2026-09-08] docs(testplan): xác định mục tiêu kiểm thử, phạm vi chức năng và phi chức năng
+- **Thời gian:** `2026-09-08 13:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(testplan): xác định mục tiêu kiểm thử, phạm vi chức năng và phi chức năng
