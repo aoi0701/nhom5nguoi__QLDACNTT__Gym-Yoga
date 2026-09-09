@@ -44,3 +44,8 @@
 - **Thời gian:** `2026-09-09 08:45:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US01: Đăng ký tài khoản người dùng mới
+
+### [2026-09-09] feat(stories): soạn thảo User Story US02: Đăng nhập hệ thống và cấp phát JWT token
+- **Thời gian:** `2026-09-09 10:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US02: Đăng nhập hệ thống và cấp phát JWT token
