@@ -54,3 +54,8 @@
 - **Thời gian:** `2026-09-09 14:40:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US03: Quản lý thông tin hồ sơ cá nhân
+
+### [2026-09-09] feat(stories): soạn thảo User Story US04: Cập nhật chỉ số chiều cao, cân nặng và tính BMI
+- **Thời gian:** `2026-09-09 18:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US04: Cập nhật chỉ số chiều cao, cân nặng và tính BMI
