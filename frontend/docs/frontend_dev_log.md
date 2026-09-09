@@ -49,3 +49,8 @@
 - **Thời gian:** `2026-09-09 10:30:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(layout): xây dựng khung Footer hiển thị thông tin bản quyền và dự án
+
+### [2026-09-09] feat(pages): khởi tạo component trang chủ HomeView hiển thị banner giới thiệu
+- **Thời gian:** `2026-09-09 14:40:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(pages): khởi tạo component trang chủ HomeView hiển thị banner giới thiệu
