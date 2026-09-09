@@ -39,3 +39,8 @@
 - **Thời gian:** `2026-09-08 17:10:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(layout): xây dựng khung Header điều hướng sticky top với logo GYM-YOGA AI
+
+### [2026-09-09] feat(layout): thiết kế thanh điều hướng Navbar với các liên kết chính
+- **Thời gian:** `2026-09-09 08:45:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(layout): thiết kế thanh điều hướng Navbar với các liên kết chính
