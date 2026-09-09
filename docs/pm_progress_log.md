@@ -54,3 +54,8 @@
 - **Thời gian:** `2026-09-09 14:40:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(wbs): chi tiết hóa từ điển WBS cho gói thiết kế kiến trúc và CSDL
+
+### [2026-09-09] docs(wbs): chi tiết hóa từ điển WBS cho gói phát triển backend và AI
+- **Thời gian:** `2026-09-09 18:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(wbs): chi tiết hóa từ điển WBS cho gói phát triển backend và AI
