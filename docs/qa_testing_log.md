@@ -49,3 +49,8 @@
 - **Thời gian:** `2026-09-09 10:30:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(testplan): xác định tiêu chuẩn bắt đầu và tiêu chuẩn kết thúc kiểm thử (Entry/Exit Criteria)
+
+### [2026-09-09] database(init): soạn thảo kịch bản SQL khởi tạo cơ sở dữ liệu trên PostgreSQL
+- **Thời gian:** `2026-09-09 14:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(init): soạn thảo kịch bản SQL khởi tạo cơ sở dữ liệu trên PostgreSQL
