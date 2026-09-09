@@ -39,3 +39,8 @@
 - **Thời gian:** `2026-09-08 17:10:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(requirements): phân tích yêu cầu tích hợp trí tuệ nhân tạo để cá nhân hóa giáo án
+
+### [2026-09-09] feat(stories): soạn thảo User Story US01: Đăng ký tài khoản người dùng mới
+- **Thời gian:** `2026-09-09 08:45:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US01: Đăng ký tài khoản người dùng mới
