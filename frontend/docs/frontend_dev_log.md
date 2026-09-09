@@ -54,3 +54,8 @@
 - **Thời gian:** `2026-09-09 14:40:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(pages): khởi tạo component trang chủ HomeView hiển thị banner giới thiệu
+
+### [2026-09-09] feat(pages): khởi tạo component trang danh mục bài tập ExerciseCatalogView
+- **Thời gian:** `2026-09-09 18:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(pages): khởi tạo component trang danh mục bài tập ExerciseCatalogView
