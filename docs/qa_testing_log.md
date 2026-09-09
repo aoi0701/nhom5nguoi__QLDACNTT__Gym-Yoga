@@ -39,3 +39,8 @@
 - **Thời gian:** `2026-09-08 17:10:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(testplan): lựa chọn công cụ kiểm thử: Pytest cho Backend, Vitest cho Frontend, Postman
+
+### [2026-09-09] docs(testplan): định nghĩa các cấp độ kiểm thử: Unit Test, Integration Test, System Test
+- **Thời gian:** `2026-09-09 08:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(testplan): định nghĩa các cấp độ kiểm thử: Unit Test, Integration Test, System Test
