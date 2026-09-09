@@ -49,3 +49,8 @@
 - **Thời gian:** `2026-09-09 10:30:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US02: Đăng nhập hệ thống và cấp phát JWT token
+
+### [2026-09-09] feat(stories): soạn thảo User Story US03: Quản lý thông tin hồ sơ cá nhân
+- **Thời gian:** `2026-09-09 14:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US03: Quản lý thông tin hồ sơ cá nhân
