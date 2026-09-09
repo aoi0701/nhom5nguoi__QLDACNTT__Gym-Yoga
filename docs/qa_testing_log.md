@@ -44,3 +44,8 @@
 - **Thời gian:** `2026-09-09 08:45:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(testplan): định nghĩa các cấp độ kiểm thử: Unit Test, Integration Test, System Test
+
+### [2026-09-09] docs(testplan): xác định tiêu chuẩn bắt đầu và tiêu chuẩn kết thúc kiểm thử (Entry/Exit Criteria)
+- **Thời gian:** `2026-09-09 10:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(testplan): xác định tiêu chuẩn bắt đầu và tiêu chuẩn kết thúc kiểm thử (Entry/Exit Criteria)
