@@ -49,3 +49,8 @@
 - **Thời gian:** `2026-09-09 10:30:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(middleware): cấu hình hệ thống logging tập trung ghi log ra console và file
+
+### [2026-09-09] feat(middleware): viết middleware xử lý ngoại lệ toàn cục Global Exception Handler
+- **Thời gian:** `2026-09-09 14:40:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(middleware): viết middleware xử lý ngoại lệ toàn cục Global Exception Handler
