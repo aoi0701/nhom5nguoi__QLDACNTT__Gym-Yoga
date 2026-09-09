@@ -54,3 +54,8 @@
 - **Thời gian:** `2026-09-09 14:40:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(init): soạn thảo kịch bản SQL khởi tạo cơ sở dữ liệu trên PostgreSQL
+
+### [2026-09-09] database(users): thiết kế bảng users lưu trữ thông tin tài khoản và mật khẩu mã hóa
+- **Thời gian:** `2026-09-09 18:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(users): thiết kế bảng users lưu trữ thông tin tài khoản và mật khẩu mã hóa
