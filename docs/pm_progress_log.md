@@ -39,3 +39,8 @@
 - **Thời gian:** `2026-09-08 17:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(scope): hoàn thiện tài liệu Scope Statement chuẩn PMBOK
+
+### [2026-09-09] docs(wbs): phân rã cấu trúc công việc WBS thành 6 gói công việc chính
+- **Thời gian:** `2026-09-09 08:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(wbs): phân rã cấu trúc công việc WBS thành 6 gói công việc chính
