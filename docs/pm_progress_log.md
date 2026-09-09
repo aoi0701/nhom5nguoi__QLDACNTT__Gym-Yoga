@@ -49,3 +49,8 @@
 - **Thời gian:** `2026-09-09 10:30:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(wbs): chi tiết hóa từ điển WBS cho gói khảo sát và đặc tả yêu cầu
+
+### [2026-09-09] docs(wbs): chi tiết hóa từ điển WBS cho gói thiết kế kiến trúc và CSDL
+- **Thời gian:** `2026-09-09 14:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(wbs): chi tiết hóa từ điển WBS cho gói thiết kế kiến trúc và CSDL
