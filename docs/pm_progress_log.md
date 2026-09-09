@@ -44,3 +44,8 @@
 - **Thời gian:** `2026-09-09 08:45:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(wbs): phân rã cấu trúc công việc WBS thành 6 gói công việc chính
+
+### [2026-09-09] docs(wbs): chi tiết hóa từ điển WBS cho gói khảo sát và đặc tả yêu cầu
+- **Thời gian:** `2026-09-09 10:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(wbs): chi tiết hóa từ điển WBS cho gói khảo sát và đặc tả yêu cầu
