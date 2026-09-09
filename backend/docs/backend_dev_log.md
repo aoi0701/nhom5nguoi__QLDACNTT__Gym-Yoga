@@ -44,3 +44,8 @@
 - **Thời gian:** `2026-09-09 08:45:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(middleware): thiết lập middleware xử lý CORS Headers cho phép kết nối từ Frontend
+
+### [2026-09-09] feat(middleware): cấu hình hệ thống logging tập trung ghi log ra console và file
+- **Thời gian:** `2026-09-09 10:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(middleware): cấu hình hệ thống logging tập trung ghi log ra console và file
