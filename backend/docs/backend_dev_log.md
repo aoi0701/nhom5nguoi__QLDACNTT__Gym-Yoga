@@ -39,3 +39,8 @@
 - **Thời gian:** `2026-09-08 17:10:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(config): cấu hình Redis Cache cho phiên làm việc và bộ nhớ đệm
+
+### [2026-09-09] feat(middleware): thiết lập middleware xử lý CORS Headers cho phép kết nối từ Frontend
+- **Thời gian:** `2026-09-09 08:45:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(middleware): thiết lập middleware xử lý CORS Headers cho phép kết nối từ Frontend
