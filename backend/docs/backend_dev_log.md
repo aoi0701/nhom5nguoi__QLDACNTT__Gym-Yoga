@@ -74,3 +74,8 @@
 - **Thời gian:** `2026-09-10 14:10:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(models): tích hợp các model cơ bản của wger và kiểm tra tính tương thích
+
+### [2026-09-10] feat(migrations): tạo và thực thi các tệp migration ban đầu cho cơ sở dữ liệu
+- **Thời gian:** `2026-09-10 16:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(migrations): tạo và thực thi các tệp migration ban đầu cho cơ sở dữ liệu
