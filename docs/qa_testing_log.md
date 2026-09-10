@@ -69,3 +69,8 @@
 - **Thời gian:** `2026-09-10 11:40:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(profiles): thiết kế bảng user_profiles lưu trữ chiều cao, cân nặng và thể trạng
+
+### [2026-09-10] database(docker): cấu hình Docker container PostgreSQL 15 cho môi trường dev và test
+- **Thời gian:** `2026-09-10 14:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(docker): cấu hình Docker container PostgreSQL 15 cho môi trường dev và test
