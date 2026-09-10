@@ -64,3 +64,8 @@
 - **Thời gian:** `2026-09-10 09:20:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(pages): khởi tạo component trang khảo sát AIWizardView
+
+### [2026-09-10] feat(pages): khởi tạo component trang quản trị AdminRBACView
+- **Thời gian:** `2026-09-10 11:40:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(pages): khởi tạo component trang quản trị AdminRBACView
