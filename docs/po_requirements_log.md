@@ -69,3 +69,8 @@
 - **Thời gian:** `2026-09-10 11:40:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US06: Khảo sát tiền sử chấn thương và vùng cơ cần tránh
+
+### [2026-09-10] feat(stories): soạn thảo User Story US07: Lựa chọn mục tiêu rèn luyện: Giảm mỡ, tăng cơ, dẻo dai
+- **Thời gian:** `2026-09-10 14:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US07: Lựa chọn mục tiêu rèn luyện: Giảm mỡ, tăng cơ, dẻo dai
