@@ -69,3 +69,8 @@
 - **Thời gian:** `2026-09-10 11:40:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(pages): khởi tạo component trang quản trị AdminRBACView
+
+### [2026-09-10] feat(pages): khởi tạo component trang đăng nhập LoginView
+- **Thời gian:** `2026-09-10 14:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(pages): khởi tạo component trang đăng nhập LoginView
