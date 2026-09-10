@@ -74,3 +74,8 @@
 - **Thời gian:** `2026-09-10 14:10:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(docker): cấu hình Docker container PostgreSQL 15 cho môi trường dev và test
+
+### [2026-09-10] database(connection): kiểm tra kết nối CSDL từ client psql và pgAdmin
+- **Thời gian:** `2026-09-10 16:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(connection): kiểm tra kết nối CSDL từ client psql và pgAdmin
