@@ -64,3 +64,8 @@
 - **Thời gian:** `2026-09-10 09:20:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(roles): thiết kế bảng roles và permissions phục vụ phân quyền RBAC
+
+### [2026-09-10] database(profiles): thiết kế bảng user_profiles lưu trữ chiều cao, cân nặng và thể trạng
+- **Thời gian:** `2026-09-10 11:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(profiles): thiết kế bảng user_profiles lưu trữ chiều cao, cân nặng và thể trạng
