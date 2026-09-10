@@ -69,3 +69,8 @@
 - **Thời gian:** `2026-09-10 11:40:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(wbs): chi tiết hóa từ điển WBS cho gói kiểm thử QA và nghiệm thu bàn giao
+
+### [2026-09-10] docs(raci): xây dựng ma trận phân nhiệm trách nhiệm RACI cho 5 thành viên
+- **Thời gian:** `2026-09-10 14:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(raci): xây dựng ma trận phân nhiệm trách nhiệm RACI cho 5 thành viên
