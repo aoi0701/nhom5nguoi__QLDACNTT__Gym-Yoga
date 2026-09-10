@@ -69,3 +69,8 @@
 - **Thời gian:** `2026-09-10 11:40:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(api): xây dựng endpoint kiểm tra sức khỏe hệ thống /api/v2/healthcheck/
+
+### [2026-09-10] feat(models): tích hợp các model cơ bản của wger và kiểm tra tính tương thích
+- **Thời gian:** `2026-09-10 14:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(models): tích hợp các model cơ bản của wger và kiểm tra tính tương thích
