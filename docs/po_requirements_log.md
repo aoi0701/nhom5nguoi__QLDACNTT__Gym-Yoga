@@ -74,3 +74,8 @@
 - **Thời gian:** `2026-09-10 14:10:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US07: Lựa chọn mục tiêu rèn luyện: Giảm mỡ, tăng cơ, dẻo dai
+
+### [2026-09-10] feat(stories): soạn thảo User Story US08: Khai báo thiết bị tập luyện sẵn có tại nhà hoặc phòng gym
+- **Thời gian:** `2026-09-10 16:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US08: Khai báo thiết bị tập luyện sẵn có tại nhà hoặc phòng gym
