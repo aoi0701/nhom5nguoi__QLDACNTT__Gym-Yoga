@@ -74,3 +74,8 @@
 - **Thời gian:** `2026-09-10 14:10:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(pages): khởi tạo component trang đăng nhập LoginView
+
+### [2026-09-10] style(hero): thiết kế Hero Section trang chủ với gradient nổi bật và lời kêu gọi hành động
+- **Thời gian:** `2026-09-10 16:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** style(hero): thiết kế Hero Section trang chủ với gradient nổi bật và lời kêu gọi hành động
