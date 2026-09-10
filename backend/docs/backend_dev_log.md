@@ -64,3 +64,8 @@
 - **Thời gian:** `2026-09-10 09:20:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(api): cấu hình phân trang mặc định PageNumberPagination 20 phần tử mỗi trang
+
+### [2026-09-10] feat(api): xây dựng endpoint kiểm tra sức khỏe hệ thống /api/v2/healthcheck/
+- **Thời gian:** `2026-09-10 11:40:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(api): xây dựng endpoint kiểm tra sức khỏe hệ thống /api/v2/healthcheck/
