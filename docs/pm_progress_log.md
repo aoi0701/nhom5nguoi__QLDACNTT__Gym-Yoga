@@ -74,3 +74,8 @@
 - **Thời gian:** `2026-09-10 14:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(raci): xây dựng ma trận phân nhiệm trách nhiệm RACI cho 5 thành viên
+
+### [2026-09-10] docs(raci): rà soát và đồng thuận vai trò trách nhiệm của từng cá nhân
+- **Thời gian:** `2026-09-10 16:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(raci): rà soát và đồng thuận vai trò trách nhiệm của từng cá nhân
