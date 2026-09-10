@@ -59,3 +59,8 @@
 - **Thời gian:** `2026-09-09 18:15:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(users): thiết kế bảng users lưu trữ thông tin tài khoản và mật khẩu mã hóa
+
+### [2026-09-10] database(roles): thiết kế bảng roles và permissions phục vụ phân quyền RBAC
+- **Thời gian:** `2026-09-10 09:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(roles): thiết kế bảng roles và permissions phục vụ phân quyền RBAC
