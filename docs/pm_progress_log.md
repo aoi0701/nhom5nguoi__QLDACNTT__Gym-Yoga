@@ -59,3 +59,8 @@
 - **Thời gian:** `2026-09-09 18:15:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(wbs): chi tiết hóa từ điển WBS cho gói phát triển backend và AI
+
+### [2026-09-10] docs(wbs): chi tiết hóa từ điển WBS cho gói phát triển frontend UI/UX
+- **Thời gian:** `2026-09-10 09:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(wbs): chi tiết hóa từ điển WBS cho gói phát triển frontend UI/UX
