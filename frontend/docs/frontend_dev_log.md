@@ -59,3 +59,8 @@
 - **Thời gian:** `2026-09-09 18:15:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(pages): khởi tạo component trang danh mục bài tập ExerciseCatalogView
+
+### [2026-09-10] feat(pages): khởi tạo component trang khảo sát AIWizardView
+- **Thời gian:** `2026-09-10 09:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(pages): khởi tạo component trang khảo sát AIWizardView
