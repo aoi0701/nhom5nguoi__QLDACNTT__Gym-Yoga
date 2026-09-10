@@ -64,3 +64,8 @@
 - **Thời gian:** `2026-09-10 09:20:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US05: Khảo sát bệnh lý tim mạch, huyết áp, xương khớp
+
+### [2026-09-10] feat(stories): soạn thảo User Story US06: Khảo sát tiền sử chấn thương và vùng cơ cần tránh
+- **Thời gian:** `2026-09-10 11:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US06: Khảo sát tiền sử chấn thương và vùng cơ cần tránh
