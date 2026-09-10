@@ -59,3 +59,8 @@
 - **Thời gian:** `2026-09-09 18:15:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(api): khởi tạo bộ định tuyến API REST v2 gốc tại đường dẫn /api/v2/
+
+### [2026-09-10] feat(api): cấu hình phân trang mặc định PageNumberPagination 20 phần tử mỗi trang
+- **Thời gian:** `2026-09-10 09:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(api): cấu hình phân trang mặc định PageNumberPagination 20 phần tử mỗi trang
