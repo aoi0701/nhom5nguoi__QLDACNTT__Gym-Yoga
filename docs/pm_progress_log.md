@@ -64,3 +64,8 @@
 - **Thời gian:** `2026-09-10 09:20:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(wbs): chi tiết hóa từ điển WBS cho gói phát triển frontend UI/UX
+
+### [2026-09-10] docs(wbs): chi tiết hóa từ điển WBS cho gói kiểm thử QA và nghiệm thu bàn giao
+- **Thời gian:** `2026-09-10 11:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(wbs): chi tiết hóa từ điển WBS cho gói kiểm thử QA và nghiệm thu bàn giao
