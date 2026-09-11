@@ -84,3 +84,8 @@
 - **Thời gian:** `2026-09-11 08:50:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(gitflow): soạn thảo quy ước phân nhánh GitFlow và tiêu chuẩn đặt tên commit
+
+### [2026-09-11] chore(gitflow): quy định quy trình review Pull Request và nguyên tắc merge code
+- **Thời gian:** `2026-09-11 10:25:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(gitflow): quy định quy trình review Pull Request và nguyên tắc merge code
