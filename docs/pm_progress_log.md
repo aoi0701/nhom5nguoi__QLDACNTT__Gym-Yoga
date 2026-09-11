@@ -94,3 +94,8 @@
 - **Thời gian:** `2026-09-11 13:30:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(templates): cấu hình mẫu Issue báo cáo lỗi Bug Report trên GitHub
+
+### [2026-09-11] chore(templates): cấu hình mẫu Issue đề xuất tính năng Feature Request
+- **Thời gian:** `2026-09-11 15:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(templates): cấu hình mẫu Issue đề xuất tính năng Feature Request
