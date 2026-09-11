@@ -79,3 +79,8 @@
 - **Thời gian:** `2026-09-10 16:30:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(migrations): tạo và thực thi các tệp migration ban đầu cho cơ sở dữ liệu
+
+### [2026-09-11] feat(auth): nghiên cứu cơ chế xác thực JWT và lựa chọn djangorestframework-simplejwt
+- **Thời gian:** `2026-09-11 08:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(auth): nghiên cứu cơ chế xác thực JWT và lựa chọn djangorestframework-simplejwt
