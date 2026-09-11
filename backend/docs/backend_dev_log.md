@@ -84,3 +84,8 @@
 - **Thời gian:** `2026-09-11 08:50:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(auth): nghiên cứu cơ chế xác thực JWT và lựa chọn djangorestframework-simplejwt
+
+### [2026-09-11] feat(auth): cài đặt và đăng ký ứng dụng rest_framework_simplejwt vào settings
+- **Thời gian:** `2026-09-11 10:25:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(auth): cài đặt và đăng ký ứng dụng rest_framework_simplejwt vào settings
