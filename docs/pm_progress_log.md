@@ -79,3 +79,8 @@
 - **Thời gian:** `2026-09-10 16:30:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(raci): rà soát và đồng thuận vai trò trách nhiệm của từng cá nhân
+
+### [2026-09-11] chore(gitflow): soạn thảo quy ước phân nhánh GitFlow và tiêu chuẩn đặt tên commit
+- **Thời gian:** `2026-09-11 08:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(gitflow): soạn thảo quy ước phân nhánh GitFlow và tiêu chuẩn đặt tên commit
