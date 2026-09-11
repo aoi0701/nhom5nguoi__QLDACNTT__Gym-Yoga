@@ -99,3 +99,8 @@
 - **Thời gian:** `2026-09-11 15:45:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(auth): lập danh sách kịch bản kiểm thử cho phân hệ Đăng nhập
+
+### [2026-09-11] test(auth): viết 10 Test Cases kiểm thử chức năng Đăng nhập và xác thực mật khẩu
+- **Thời gian:** `2026-09-11 19:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(auth): viết 10 Test Cases kiểm thử chức năng Đăng nhập và xác thực mật khẩu
