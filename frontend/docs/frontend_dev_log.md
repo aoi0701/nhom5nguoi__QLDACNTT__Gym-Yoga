@@ -84,3 +84,8 @@
 - **Thời gian:** `2026-09-11 08:50:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(figma): khởi tạo file thiết kế Figma và thiết lập hệ thống Design System
+
+### [2026-09-11] feat(figma): xây dựng bảng màu, typography, khoảng cách spacing trên Figma
+- **Thời gian:** `2026-09-11 10:25:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(figma): xây dựng bảng màu, typography, khoảng cách spacing trên Figma
