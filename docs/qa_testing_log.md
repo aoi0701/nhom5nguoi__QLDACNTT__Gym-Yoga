@@ -89,3 +89,8 @@
 - **Thời gian:** `2026-09-11 10:25:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(auth): lập danh sách kịch bản kiểm thử (Test Scenarios) cho phân hệ Đăng ký
+
+### [2026-09-11] test(auth): viết 10 Test Cases kiểm thử chức năng Đăng ký tài khoản (hợp lệ và không hợp lệ)
+- **Thời gian:** `2026-09-11 13:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(auth): viết 10 Test Cases kiểm thử chức năng Đăng ký tài khoản (hợp lệ và không hợp lệ)
