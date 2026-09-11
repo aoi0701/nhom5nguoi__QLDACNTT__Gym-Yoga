@@ -79,3 +79,8 @@
 - **Thời gian:** `2026-09-10 16:30:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US08: Khai báo thiết bị tập luyện sẵn có tại nhà hoặc phòng gym
+
+### [2026-09-11] feat(stories): soạn thảo User Story US09: Chọn số buổi tập có thể tham gia mỗi tuần
+- **Thời gian:** `2026-09-11 08:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US09: Chọn số buổi tập có thể tham gia mỗi tuần
