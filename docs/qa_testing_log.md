@@ -84,3 +84,8 @@
 - **Thời gian:** `2026-09-11 08:50:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(setup): thiết lập môi trường chạy kiểm thử tự động với Pytest
+
+### [2026-09-11] test(auth): lập danh sách kịch bản kiểm thử (Test Scenarios) cho phân hệ Đăng ký
+- **Thời gian:** `2026-09-11 10:25:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(auth): lập danh sách kịch bản kiểm thử (Test Scenarios) cho phân hệ Đăng ký
