@@ -89,3 +89,8 @@
 - **Thời gian:** `2026-09-11 10:25:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(auth): cài đặt và đăng ký ứng dụng rest_framework_simplejwt vào settings
+
+### [2026-09-11] feat(auth): cấu hình thời gian sống của Access Token (60 phút) và Refresh Token (7 ngày)
+- **Thời gian:** `2026-09-11 13:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(auth): cấu hình thời gian sống của Access Token (60 phút) và Refresh Token (7 ngày)
