@@ -99,3 +99,8 @@
 - **Thời gian:** `2026-09-11 15:45:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(templates): cấu hình mẫu Issue đề xuất tính năng Feature Request
+
+### [2026-09-11] chore(templates): cấu hình mẫu Issue công việc Task tiêu chuẩn
+- **Thời gian:** `2026-09-11 19:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(templates): cấu hình mẫu Issue công việc Task tiêu chuẩn
