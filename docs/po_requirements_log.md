@@ -94,3 +94,8 @@
 - **Thời gian:** `2026-09-11 13:30:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US11 đến US20 cho các tùy chọn nâng cao về thể trạng
+
+### [2026-09-11] feat(stories): soạn thảo User Story US21 đến US30 cho luồng gửi yêu cầu AI gợi ý giáo án
+- **Thời gian:** `2026-09-11 15:45:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US21 đến US30 cho luồng gửi yêu cầu AI gợi ý giáo án
