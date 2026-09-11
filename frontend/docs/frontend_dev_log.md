@@ -94,3 +94,8 @@
 - **Thời gian:** `2026-09-11 13:30:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(figma): thiết kế Wireframe màn hình Đăng ký và Đăng nhập
+
+### [2026-09-11] feat(figma): thiết kế Wireframe màn hình Thư viện bài tập Gym và Yoga
+- **Thời gian:** `2026-09-11 15:45:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(figma): thiết kế Wireframe màn hình Thư viện bài tập Gym và Yoga
