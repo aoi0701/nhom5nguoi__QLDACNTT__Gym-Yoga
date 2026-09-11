@@ -99,3 +99,8 @@
 - **Thời gian:** `2026-09-11 15:45:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(figma): thiết kế Wireframe màn hình Thư viện bài tập Gym và Yoga
+
+### [2026-09-11] feat(figma): thiết kế Wireframe màn hình Khảo sát thể trạng AI Wizard
+- **Thời gian:** `2026-09-11 19:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(figma): thiết kế Wireframe màn hình Khảo sát thể trạng AI Wizard
