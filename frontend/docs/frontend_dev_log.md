@@ -89,3 +89,8 @@
 - **Thời gian:** `2026-09-11 10:25:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(figma): xây dựng bảng màu, typography, khoảng cách spacing trên Figma
+
+### [2026-09-11] feat(figma): thiết kế Wireframe màn hình Đăng ký và Đăng nhập
+- **Thời gian:** `2026-09-11 13:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(figma): thiết kế Wireframe màn hình Đăng ký và Đăng nhập
