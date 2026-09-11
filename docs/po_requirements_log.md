@@ -84,3 +84,8 @@
 - **Thời gian:** `2026-09-11 08:50:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US09: Chọn số buổi tập có thể tham gia mỗi tuần
+
+### [2026-09-11] feat(stories): soạn thảo User Story US10: Chọn thời lượng tối đa cho mỗi buổi tập (30-60 phút)
+- **Thời gian:** `2026-09-11 10:25:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US10: Chọn thời lượng tối đa cho mỗi buổi tập (30-60 phút)
