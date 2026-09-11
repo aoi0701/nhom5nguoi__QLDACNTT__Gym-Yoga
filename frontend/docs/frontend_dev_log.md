@@ -79,3 +79,8 @@
 - **Thời gian:** `2026-09-10 16:30:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** style(hero): thiết kế Hero Section trang chủ với gradient nổi bật và lời kêu gọi hành động
+
+### [2026-09-11] feat(figma): khởi tạo file thiết kế Figma và thiết lập hệ thống Design System
+- **Thời gian:** `2026-09-11 08:50:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(figma): khởi tạo file thiết kế Figma và thiết lập hệ thống Design System
