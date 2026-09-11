@@ -94,3 +94,8 @@
 - **Thời gian:** `2026-09-11 13:30:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(auth): cấu hình thời gian sống của Access Token (60 phút) và Refresh Token (7 ngày)
+
+### [2026-09-11] feat(docs): tích hợp thư viện drf-spectacular tự động sinh OpenAPI Swagger 3.0
+- **Thời gian:** `2026-09-11 15:45:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(docs): tích hợp thư viện drf-spectacular tự động sinh OpenAPI Swagger 3.0
