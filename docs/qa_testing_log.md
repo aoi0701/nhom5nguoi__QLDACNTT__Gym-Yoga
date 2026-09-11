@@ -79,3 +79,8 @@
 - **Thời gian:** `2026-09-10 16:30:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(connection): kiểm tra kết nối CSDL từ client psql và pgAdmin
+
+### [2026-09-11] test(setup): thiết lập môi trường chạy kiểm thử tự động với Pytest
+- **Thời gian:** `2026-09-11 08:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(setup): thiết lập môi trường chạy kiểm thử tự động với Pytest
