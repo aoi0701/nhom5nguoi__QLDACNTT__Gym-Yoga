@@ -99,3 +99,8 @@
 - **Thời gian:** `2026-09-11 15:45:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(docs): tích hợp thư viện drf-spectacular tự động sinh OpenAPI Swagger 3.0
+
+### [2026-09-11] feat(docs): cấu hình endpoint Swagger UI tại /api/schema/swagger-ui/
+- **Thời gian:** `2026-09-11 19:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(docs): cấu hình endpoint Swagger UI tại /api/schema/swagger-ui/
