@@ -124,3 +124,8 @@
 - **Thời gian:** `2026-09-12 16:20:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** test(backend): viết test case kiểm tra cấu hình kết nối CSDL và Redis
+
+### [2026-09-12] style(code): cấu hình ruff linter và formatter kiểm tra mã nguồn tự động
+- **Thời gian:** `2026-09-12 18:40:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** style(code): cấu hình ruff linter và formatter kiểm tra mã nguồn tự động
