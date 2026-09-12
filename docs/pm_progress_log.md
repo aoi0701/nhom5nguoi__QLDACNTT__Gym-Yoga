@@ -109,3 +109,8 @@
 - **Thời gian:** `2026-09-12 09:15:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(templates): thiết lập mẫu Pull Request Template chuẩn hóa nội dung kiểm tra
+
+### [2026-09-12] ci(github): tạo tệp workflow GitHub Actions CI kiểm tra mã nguồn tự động
+- **Thời gian:** `2026-09-12 11:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** ci(github): tạo tệp workflow GitHub Actions CI kiểm tra mã nguồn tự động
