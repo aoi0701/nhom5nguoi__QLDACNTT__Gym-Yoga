@@ -124,3 +124,8 @@
 - **Thời gian:** `2026-09-12 16:20:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** chore(eslint): thiết lập quy tắc kiểm tra mã nguồn ESLint và Prettier
+
+### [2026-09-12] test(fe): viết test case kiểm tra việc render trang chủ không bị lỗi
+- **Thời gian:** `2026-09-12 18:40:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** test(fe): viết test case kiểm tra việc render trang chủ không bị lỗi
