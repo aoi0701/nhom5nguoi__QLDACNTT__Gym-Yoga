@@ -104,3 +104,8 @@
 - **Thời gian:** `2026-09-11 19:20:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(auth): viết 10 Test Cases kiểm thử chức năng Đăng nhập và xác thực mật khẩu
+
+### [2026-09-12] test(profile): lập danh sách kịch bản kiểm thử cho chức năng nhập thể trạng và tính BMI
+- **Thời gian:** `2026-09-12 09:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(profile): lập danh sách kịch bản kiểm thử cho chức năng nhập thể trạng và tính BMI
