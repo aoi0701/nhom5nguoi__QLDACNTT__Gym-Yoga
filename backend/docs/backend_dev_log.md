@@ -114,3 +114,8 @@
 - **Thời gian:** `2026-09-12 11:10:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** chore(scripts): viết script khởi tạo tài khoản superuser mẫu cho môi trường dev
+
+### [2026-09-12] test(backend): viết test case kiểm tra hoạt động của healthcheck endpoint
+- **Thời gian:** `2026-09-12 14:00:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** test(backend): viết test case kiểm tra hoạt động của healthcheck endpoint
