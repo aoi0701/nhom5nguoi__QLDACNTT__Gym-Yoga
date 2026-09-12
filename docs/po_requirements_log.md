@@ -109,3 +109,8 @@
 - **Thời gian:** `2026-09-12 09:15:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(srs): khởi tạo tài liệu Đặc tả Yêu cầu Phần mềm Software Requirements Specification (SRS)
+
+### [2026-09-12] docs(srs): viết chương 1: Giới thiệu dự án, phạm vi nghiệp vụ và đối tượng sử dụng
+- **Thời gian:** `2026-09-12 11:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(srs): viết chương 1: Giới thiệu dự án, phạm vi nghiệp vụ và đối tượng sử dụng
