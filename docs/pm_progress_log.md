@@ -114,3 +114,8 @@
 - **Thời gian:** `2026-09-12 11:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** ci(github): tạo tệp workflow GitHub Actions CI kiểm tra mã nguồn tự động
+
+### [2026-09-12] chore(jira): khởi tạo dự án Scrum trên Jira Software và cấu hình board
+- **Thời gian:** `2026-09-12 14:00:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(jira): khởi tạo dự án Scrum trên Jira Software và cấu hình board
