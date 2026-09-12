@@ -104,3 +104,8 @@
 - **Thời gian:** `2026-09-11 19:20:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(figma): thiết kế Wireframe màn hình Khảo sát thể trạng AI Wizard
+
+### [2026-09-12] feat(figma): thiết kế Wireframe màn hình Bảng điều khiển Quản trị viên RBAC
+- **Thời gian:** `2026-09-12 09:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(figma): thiết kế Wireframe màn hình Bảng điều khiển Quản trị viên RBAC
