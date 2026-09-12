@@ -119,3 +119,8 @@
 - **Thời gian:** `2026-09-12 14:00:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(qa): xây dựng ma trận phân loại mức độ nghiêm trọng của lỗi (Bug Severity Matrix)
+
+### [2026-09-12] docs(qa): thiết lập quy trình báo cáo và theo dõi vòng đời của lỗi (Bug Life Cycle)
+- **Thời gian:** `2026-09-12 16:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(qa): thiết lập quy trình báo cáo và theo dõi vòng đời của lỗi (Bug Life Cycle)
