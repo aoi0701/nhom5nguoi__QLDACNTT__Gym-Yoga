@@ -104,3 +104,8 @@
 - **Thời gian:** `2026-09-11 19:20:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(docs): cấu hình endpoint Swagger UI tại /api/schema/swagger-ui/
+
+### [2026-09-12] feat(docs): cấu hình endpoint ReDoc tại /api/schema/redoc/
+- **Thời gian:** `2026-09-12 09:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(docs): cấu hình endpoint ReDoc tại /api/schema/redoc/
