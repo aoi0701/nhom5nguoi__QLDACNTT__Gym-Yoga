@@ -124,3 +124,8 @@
 - **Thời gian:** `2026-09-12 16:20:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(jira): thiết lập quy trình làm việc Kanban và các cột trạng thái
+
+### [2026-09-12] docs(kickoff): tổ chức cuộc họp Kickoff Sprint 1 và ghi biên bản họp
+- **Thời gian:** `2026-09-12 18:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(kickoff): tổ chức cuộc họp Kickoff Sprint 1 và ghi biên bản họp
