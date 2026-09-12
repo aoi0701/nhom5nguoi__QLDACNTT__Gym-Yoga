@@ -119,3 +119,8 @@
 - **Thời gian:** `2026-09-12 14:00:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** test(backend): viết test case kiểm tra hoạt động của healthcheck endpoint
+
+### [2026-09-12] test(backend): viết test case kiểm tra cấu hình kết nối CSDL và Redis
+- **Thời gian:** `2026-09-12 16:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** test(backend): viết test case kiểm tra cấu hình kết nối CSDL và Redis
