@@ -124,3 +124,8 @@
 - **Thời gian:** `2026-09-12 16:20:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(qa): thiết lập quy trình báo cáo và theo dõi vòng đời của lỗi (Bug Life Cycle)
+
+### [2026-09-12] test(data): chuẩn bị tập dữ liệu kiểm thử mẫu (Test Data) cho người dùng thử nghiệm
+- **Thời gian:** `2026-09-12 18:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(data): chuẩn bị tập dữ liệu kiểm thử mẫu (Test Data) cho người dùng thử nghiệm
