@@ -119,3 +119,8 @@
 - **Thời gian:** `2026-09-12 14:00:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** chore(vite): cấu hình alias đường dẫn @ trỏ vào thư mục src/
+
+### [2026-09-12] chore(eslint): thiết lập quy tắc kiểm tra mã nguồn ESLint và Prettier
+- **Thời gian:** `2026-09-12 16:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** chore(eslint): thiết lập quy tắc kiểm tra mã nguồn ESLint và Prettier
