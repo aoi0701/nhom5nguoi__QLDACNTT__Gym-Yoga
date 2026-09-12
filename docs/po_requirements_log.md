@@ -119,3 +119,8 @@
 - **Thời gian:** `2026-09-12 14:00:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(srs): viết chương 2: Mô tả tổng quan kiến trúc chức năng và các giả định
+
+### [2026-09-12] docs(usecase): phác thảo sơ đồ Use Case tổng quát cho toàn bộ hệ thống Gym-Yoga
+- **Thời gian:** `2026-09-12 16:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(usecase): phác thảo sơ đồ Use Case tổng quát cho toàn bộ hệ thống Gym-Yoga
