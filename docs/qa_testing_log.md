@@ -109,3 +109,8 @@
 - **Thời gian:** `2026-09-12 09:15:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(profile): lập danh sách kịch bản kiểm thử cho chức năng nhập thể trạng và tính BMI
+
+### [2026-09-12] test(profile): viết 15 Test Cases kiểm thử độ chính xác của công thức tính toán chỉ số BMI
+- **Thời gian:** `2026-09-12 11:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(profile): viết 15 Test Cases kiểm thử độ chính xác của công thức tính toán chỉ số BMI
