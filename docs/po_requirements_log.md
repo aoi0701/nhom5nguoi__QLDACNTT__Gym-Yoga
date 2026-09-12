@@ -124,3 +124,8 @@
 - **Thời gian:** `2026-09-12 16:20:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(usecase): phác thảo sơ đồ Use Case tổng quát cho toàn bộ hệ thống Gym-Yoga
+
+### [2026-09-12] docs(usecase): đặc tả chi tiết Use Case UC01: Xác thực người dùng và phân quyền
+- **Thời gian:** `2026-09-12 18:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(usecase): đặc tả chi tiết Use Case UC01: Xác thực người dùng và phân quyền
