@@ -114,3 +114,8 @@
 - **Thời gian:** `2026-09-12 11:10:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(srs): viết chương 1: Giới thiệu dự án, phạm vi nghiệp vụ và đối tượng sử dụng
+
+### [2026-09-12] docs(srs): viết chương 2: Mô tả tổng quan kiến trúc chức năng và các giả định
+- **Thời gian:** `2026-09-12 14:00:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(srs): viết chương 2: Mô tả tổng quan kiến trúc chức năng và các giả định
