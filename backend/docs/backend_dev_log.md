@@ -109,3 +109,8 @@
 - **Thời gian:** `2026-09-12 09:15:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(docs): cấu hình endpoint ReDoc tại /api/schema/redoc/
+
+### [2026-09-12] chore(scripts): viết script khởi tạo tài khoản superuser mẫu cho môi trường dev
+- **Thời gian:** `2026-09-12 11:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** chore(scripts): viết script khởi tạo tài khoản superuser mẫu cho môi trường dev
