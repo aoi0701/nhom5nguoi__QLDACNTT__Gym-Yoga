@@ -119,3 +119,8 @@
 - **Thời gian:** `2026-09-12 14:00:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(jira): khởi tạo dự án Scrum trên Jira Software và cấu hình board
+
+### [2026-09-12] chore(jira): thiết lập quy trình làm việc Kanban và các cột trạng thái
+- **Thời gian:** `2026-09-12 16:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(jira): thiết lập quy trình làm việc Kanban và các cột trạng thái
