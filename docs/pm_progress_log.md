@@ -104,3 +104,8 @@
 - **Thời gian:** `2026-09-11 19:20:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(templates): cấu hình mẫu Issue công việc Task tiêu chuẩn
+
+### [2026-09-12] chore(templates): thiết lập mẫu Pull Request Template chuẩn hóa nội dung kiểm tra
+- **Thời gian:** `2026-09-12 09:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(templates): thiết lập mẫu Pull Request Template chuẩn hóa nội dung kiểm tra
