@@ -104,3 +104,8 @@
 - **Thời gian:** `2026-09-11 19:20:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US31 đến US40 cho phản hồi và tinh chỉnh lịch tập
+
+### [2026-09-12] docs(srs): khởi tạo tài liệu Đặc tả Yêu cầu Phần mềm Software Requirements Specification (SRS)
+- **Thời gian:** `2026-09-12 09:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(srs): khởi tạo tài liệu Đặc tả Yêu cầu Phần mềm Software Requirements Specification (SRS)
