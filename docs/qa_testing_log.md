@@ -114,3 +114,8 @@
 - **Thời gian:** `2026-09-12 11:10:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(profile): viết 15 Test Cases kiểm thử độ chính xác của công thức tính toán chỉ số BMI
+
+### [2026-09-12] docs(qa): xây dựng ma trận phân loại mức độ nghiêm trọng của lỗi (Bug Severity Matrix)
+- **Thời gian:** `2026-09-12 14:00:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(qa): xây dựng ma trận phân loại mức độ nghiêm trọng của lỗi (Bug Severity Matrix)
