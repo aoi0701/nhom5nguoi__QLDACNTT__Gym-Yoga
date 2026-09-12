@@ -114,3 +114,8 @@
 - **Thời gian:** `2026-09-12 11:10:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(assets): thêm logo SVG chất lượng cao và bộ icon Lucide Icons
+
+### [2026-09-12] chore(vite): cấu hình alias đường dẫn @ trỏ vào thư mục src/
+- **Thời gian:** `2026-09-12 14:00:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** chore(vite): cấu hình alias đường dẫn @ trỏ vào thư mục src/
