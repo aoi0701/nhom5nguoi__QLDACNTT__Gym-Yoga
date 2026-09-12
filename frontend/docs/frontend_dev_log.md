@@ -109,3 +109,8 @@
 - **Thời gian:** `2026-09-12 09:15:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(figma): thiết kế Wireframe màn hình Bảng điều khiển Quản trị viên RBAC
+
+### [2026-09-12] feat(assets): thêm logo SVG chất lượng cao và bộ icon Lucide Icons
+- **Thời gian:** `2026-09-12 11:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(assets): thêm logo SVG chất lượng cao và bộ icon Lucide Icons
