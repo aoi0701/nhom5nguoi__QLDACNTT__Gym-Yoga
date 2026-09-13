@@ -134,3 +134,8 @@
 - **Thời gian:** `2026-09-13 09:00:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(kickoff): phân bổ Story Points sơ khởi cho các hạng mục công việc tuần 1
+
+### [2026-09-13] docs(daily): cập nhật nhật ký Daily Standup tuần 1 và tháo gỡ vướng mắc
+- **Thời gian:** `2026-09-13 11:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): cập nhật nhật ký Daily Standup tuần 1 và tháo gỡ vướng mắc
