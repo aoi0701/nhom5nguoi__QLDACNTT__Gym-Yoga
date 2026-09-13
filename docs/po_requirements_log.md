@@ -134,3 +134,8 @@
 - **Thời gian:** `2026-09-13 09:00:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(usecase): đặc tả chi tiết Use Case UC02: Cập nhật thể trạng và tính toán BMI
+
+### [2026-09-13] docs(usecase): đặc tả chi tiết Use Case UC03: Khảo sát thông tin và nhận gợi ý từ AI
+- **Thời gian:** `2026-09-13 11:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(usecase): đặc tả chi tiết Use Case UC03: Khảo sát thông tin và nhận gợi ý từ AI
