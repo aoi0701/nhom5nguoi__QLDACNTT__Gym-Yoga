@@ -134,3 +134,8 @@
 - **Thời gian:** `2026-09-13 09:00:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(sanity): thực hiện kiểm thử khói (Smoke Testing) trên môi trường cơ sở dữ liệu
+
+### [2026-09-13] docs(review): rà soát sơ đồ ERD với Product Owner đảm bảo đầy đủ yêu cầu nghiệp vụ
+- **Thời gian:** `2026-09-13 11:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(review): rà soát sơ đồ ERD với Product Owner đảm bảo đầy đủ yêu cầu nghiệp vụ
