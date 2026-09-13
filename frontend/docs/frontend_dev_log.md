@@ -139,3 +139,8 @@
 - **Thời gian:** `2026-09-13 11:30:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** style(responsive): kiểm tra khung layout hiển thị co giãn trên màn hình nhỏ
+
+### [2026-09-13] docs(sprint1): hoàn thành dựng khung giao diện React và bản vẽ Figma Sprint 1
+- **Thời gian:** `2026-09-13 14:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** docs(sprint1): hoàn thành dựng khung giao diện React và bản vẽ Figma Sprint 1
