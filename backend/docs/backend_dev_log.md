@@ -129,3 +129,8 @@
 - **Thời gian:** `2026-09-12 18:40:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** style(code): cấu hình ruff linter và formatter kiểm tra mã nguồn tự động
+
+### [2026-09-13] chore(gitignore): cập nhật tệp .gitignore loại bỏ các tệp tạm pycache và env
+- **Thời gian:** `2026-09-13 09:00:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** chore(gitignore): cập nhật tệp .gitignore loại bỏ các tệp tạm pycache và env
