@@ -129,3 +129,8 @@
 - **Thời gian:** `2026-09-12 18:40:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(usecase): đặc tả chi tiết Use Case UC01: Xác thực người dùng và phân quyền
+
+### [2026-09-13] docs(usecase): đặc tả chi tiết Use Case UC02: Cập nhật thể trạng và tính toán BMI
+- **Thời gian:** `2026-09-13 09:00:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(usecase): đặc tả chi tiết Use Case UC02: Cập nhật thể trạng và tính toán BMI
