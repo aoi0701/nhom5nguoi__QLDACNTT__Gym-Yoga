@@ -129,3 +129,8 @@
 - **Thời gian:** `2026-09-12 18:40:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(data): chuẩn bị tập dữ liệu kiểm thử mẫu (Test Data) cho người dùng thử nghiệm
+
+### [2026-09-13] test(sanity): thực hiện kiểm thử khói (Smoke Testing) trên môi trường cơ sở dữ liệu
+- **Thời gian:** `2026-09-13 09:00:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(sanity): thực hiện kiểm thử khói (Smoke Testing) trên môi trường cơ sở dữ liệu
