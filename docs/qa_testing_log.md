@@ -1,0 +1,151 @@
+# NHẬT KÝ HOẠT ĐỘNG SPRINT 1 - VAI TRÒ QA
+
+### [2026-09-07] docs(erd): khảo sát các thực thể dữ liệu cốt lõi trong hệ thống quản lý Gym-Yoga
+- **Thời gian:** `2026-09-07 08:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): khảo sát các thực thể dữ liệu cốt lõi trong hệ thống quản lý Gym-Yoga
+
+### [2026-09-07] docs(erd): xác định các thuộc tính cho thực thể User, UserProfile và Role
+- **Thời gian:** `2026-09-07 10:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): xác định các thuộc tính cho thực thể User, UserProfile và Role
+
+### [2026-09-07] docs(erd): xác định các thuộc tính cho thực thể Exercise, MuscleGroup và Equipment
+- **Thời gian:** `2026-09-07 14:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): xác định các thuộc tính cho thực thể Exercise, MuscleGroup và Equipment
+
+### [2026-09-07] docs(erd): phác thảo sơ đồ ERD mức quan niệm Conceptual Data Model ban đầu
+- **Thời gian:** `2026-09-07 16:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): phác thảo sơ đồ ERD mức quan niệm Conceptual Data Model ban đầu
+
+### [2026-09-08] docs(erd): phân tích các mối quan hệ 1-1, 1-N và N-N giữa các bảng
+- **Thời gian:** `2026-09-08 09:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): phân tích các mối quan hệ 1-1, 1-N và N-N giữa các bảng
+
+### [2026-09-08] docs(testplan): khởi tạo tài liệu Kế hoạch Kiểm thử Tổng thể Master Test Plan v1.0
+- **Thời gian:** `2026-09-08 11:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(testplan): khởi tạo tài liệu Kế hoạch Kiểm thử Tổng thể Master Test Plan v1.0
+
+### [2026-09-08] docs(testplan): xác định mục tiêu kiểm thử, phạm vi chức năng và phi chức năng
+- **Thời gian:** `2026-09-08 13:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(testplan): xác định mục tiêu kiểm thử, phạm vi chức năng và phi chức năng
+
+### [2026-09-08] docs(testplan): lựa chọn công cụ kiểm thử: Pytest cho Backend, Vitest cho Frontend, Postman
+- **Thời gian:** `2026-09-08 17:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(testplan): lựa chọn công cụ kiểm thử: Pytest cho Backend, Vitest cho Frontend, Postman
+
+### [2026-09-09] docs(testplan): định nghĩa các cấp độ kiểm thử: Unit Test, Integration Test, System Test
+- **Thời gian:** `2026-09-09 08:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(testplan): định nghĩa các cấp độ kiểm thử: Unit Test, Integration Test, System Test
+
+### [2026-09-09] docs(testplan): xác định tiêu chuẩn bắt đầu và tiêu chuẩn kết thúc kiểm thử (Entry/Exit Criteria)
+- **Thời gian:** `2026-09-09 10:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(testplan): xác định tiêu chuẩn bắt đầu và tiêu chuẩn kết thúc kiểm thử (Entry/Exit Criteria)
+
+### [2026-09-09] database(init): soạn thảo kịch bản SQL khởi tạo cơ sở dữ liệu trên PostgreSQL
+- **Thời gian:** `2026-09-09 14:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(init): soạn thảo kịch bản SQL khởi tạo cơ sở dữ liệu trên PostgreSQL
+
+### [2026-09-09] database(users): thiết kế bảng users lưu trữ thông tin tài khoản và mật khẩu mã hóa
+- **Thời gian:** `2026-09-09 18:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(users): thiết kế bảng users lưu trữ thông tin tài khoản và mật khẩu mã hóa
+
+### [2026-09-10] database(roles): thiết kế bảng roles và permissions phục vụ phân quyền RBAC
+- **Thời gian:** `2026-09-10 09:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(roles): thiết kế bảng roles và permissions phục vụ phân quyền RBAC
+
+### [2026-09-10] database(profiles): thiết kế bảng user_profiles lưu trữ chiều cao, cân nặng và thể trạng
+- **Thời gian:** `2026-09-10 11:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(profiles): thiết kế bảng user_profiles lưu trữ chiều cao, cân nặng và thể trạng
+
+### [2026-09-10] database(docker): cấu hình Docker container PostgreSQL 15 cho môi trường dev và test
+- **Thời gian:** `2026-09-10 14:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(docker): cấu hình Docker container PostgreSQL 15 cho môi trường dev và test
+
+### [2026-09-10] database(connection): kiểm tra kết nối CSDL từ client psql và pgAdmin
+- **Thời gian:** `2026-09-10 16:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(connection): kiểm tra kết nối CSDL từ client psql và pgAdmin
+
+### [2026-09-11] test(setup): thiết lập môi trường chạy kiểm thử tự động với Pytest
+- **Thời gian:** `2026-09-11 08:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(setup): thiết lập môi trường chạy kiểm thử tự động với Pytest
+
+### [2026-09-11] test(auth): lập danh sách kịch bản kiểm thử (Test Scenarios) cho phân hệ Đăng ký
+- **Thời gian:** `2026-09-11 10:25:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(auth): lập danh sách kịch bản kiểm thử (Test Scenarios) cho phân hệ Đăng ký
+
+### [2026-09-11] test(auth): viết 10 Test Cases kiểm thử chức năng Đăng ký tài khoản (hợp lệ và không hợp lệ)
+- **Thời gian:** `2026-09-11 13:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(auth): viết 10 Test Cases kiểm thử chức năng Đăng ký tài khoản (hợp lệ và không hợp lệ)
+
+### [2026-09-11] test(auth): lập danh sách kịch bản kiểm thử cho phân hệ Đăng nhập
+- **Thời gian:** `2026-09-11 15:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(auth): lập danh sách kịch bản kiểm thử cho phân hệ Đăng nhập
+
+### [2026-09-11] test(auth): viết 10 Test Cases kiểm thử chức năng Đăng nhập và xác thực mật khẩu
+- **Thời gian:** `2026-09-11 19:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(auth): viết 10 Test Cases kiểm thử chức năng Đăng nhập và xác thực mật khẩu
+
+### [2026-09-12] test(profile): lập danh sách kịch bản kiểm thử cho chức năng nhập thể trạng và tính BMI
+- **Thời gian:** `2026-09-12 09:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(profile): lập danh sách kịch bản kiểm thử cho chức năng nhập thể trạng và tính BMI
+
+### [2026-09-12] test(profile): viết 15 Test Cases kiểm thử độ chính xác của công thức tính toán chỉ số BMI
+- **Thời gian:** `2026-09-12 11:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(profile): viết 15 Test Cases kiểm thử độ chính xác của công thức tính toán chỉ số BMI
+
+### [2026-09-12] docs(qa): xây dựng ma trận phân loại mức độ nghiêm trọng của lỗi (Bug Severity Matrix)
+- **Thời gian:** `2026-09-12 14:00:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(qa): xây dựng ma trận phân loại mức độ nghiêm trọng của lỗi (Bug Severity Matrix)
+
+### [2026-09-12] docs(qa): thiết lập quy trình báo cáo và theo dõi vòng đời của lỗi (Bug Life Cycle)
+- **Thời gian:** `2026-09-12 16:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(qa): thiết lập quy trình báo cáo và theo dõi vòng đời của lỗi (Bug Life Cycle)
+
+### [2026-09-12] test(data): chuẩn bị tập dữ liệu kiểm thử mẫu (Test Data) cho người dùng thử nghiệm
+- **Thời gian:** `2026-09-12 18:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(data): chuẩn bị tập dữ liệu kiểm thử mẫu (Test Data) cho người dùng thử nghiệm
+
+### [2026-09-13] test(sanity): thực hiện kiểm thử khói (Smoke Testing) trên môi trường cơ sở dữ liệu
+- **Thời gian:** `2026-09-13 09:00:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(sanity): thực hiện kiểm thử khói (Smoke Testing) trên môi trường cơ sở dữ liệu
+
+### [2026-09-13] docs(review): rà soát sơ đồ ERD với Product Owner đảm bảo đầy đủ yêu cầu nghiệp vụ
+- **Thời gian:** `2026-09-13 11:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(review): rà soát sơ đồ ERD với Product Owner đảm bảo đầy đủ yêu cầu nghiệp vụ
+
+### [2026-09-13] docs(sprint1): lập báo cáo tiến độ kiểm thử QA Sprint 1 và tổng kết các ca kiểm thử ban đầu
+- **Thời gian:** `2026-09-13 14:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(sprint1): lập báo cáo tiến độ kiểm thử QA Sprint 1 và tổng kết các ca kiểm thử ban đầu
+
+### [2026-09-13] docs(milestone1): hoàn tất các mục tiêu thiết kế CSDL sơ khởi và kế hoạch kiểm thử Milestone 1
+- **Thời gian:** `2026-09-13 16:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(milestone1): hoàn tất các mục tiêu thiết kế CSDL sơ khởi và kế hoạch kiểm thử Milestone 1
