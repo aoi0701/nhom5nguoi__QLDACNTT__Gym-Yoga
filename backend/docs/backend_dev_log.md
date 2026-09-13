@@ -134,3 +134,8 @@
 - **Thời gian:** `2026-09-13 09:00:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** chore(gitignore): cập nhật tệp .gitignore loại bỏ các tệp tạm pycache và env
+
+### [2026-09-13] docs(backend): viết tài liệu hướng dẫn khởi chạy môi trường Backend trong README
+- **Thời gian:** `2026-09-13 11:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** docs(backend): viết tài liệu hướng dẫn khởi chạy môi trường Backend trong README
