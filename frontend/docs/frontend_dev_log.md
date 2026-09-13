@@ -144,3 +144,8 @@
 - **Thời gian:** `2026-09-13 14:20:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** docs(sprint1): hoàn thành dựng khung giao diện React và bản vẽ Figma Sprint 1
+
+### [2026-09-13] docs(milestone1): chốt sản phẩm Frontend đạt chuẩn bàn giao mốc Milestone 1
+- **Thời gian:** `2026-09-13 16:45:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** docs(milestone1): chốt sản phẩm Frontend đạt chuẩn bàn giao mốc Milestone 1
