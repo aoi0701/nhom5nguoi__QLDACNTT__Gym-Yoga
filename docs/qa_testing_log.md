@@ -144,3 +144,8 @@
 - **Thời gian:** `2026-09-13 14:20:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(sprint1): lập báo cáo tiến độ kiểm thử QA Sprint 1 và tổng kết các ca kiểm thử ban đầu
+
+### [2026-09-13] docs(milestone1): hoàn tất các mục tiêu thiết kế CSDL sơ khởi và kế hoạch kiểm thử Milestone 1
+- **Thời gian:** `2026-09-13 16:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(milestone1): hoàn tất các mục tiêu thiết kế CSDL sơ khởi và kế hoạch kiểm thử Milestone 1
