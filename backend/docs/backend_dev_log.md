@@ -139,3 +139,8 @@
 - **Thời gian:** `2026-09-13 11:30:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** docs(backend): viết tài liệu hướng dẫn khởi chạy môi trường Backend trong README
+
+### [2026-09-13] docs(sprint1): hoàn thành tích hợp nền tảng Backend Django và Docker Sprint 1
+- **Thời gian:** `2026-09-13 14:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** docs(sprint1): hoàn thành tích hợp nền tảng Backend Django và Docker Sprint 1
