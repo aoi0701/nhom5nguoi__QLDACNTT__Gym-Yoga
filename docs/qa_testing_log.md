@@ -139,3 +139,8 @@
 - **Thời gian:** `2026-09-13 11:30:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(review): rà soát sơ đồ ERD với Product Owner đảm bảo đầy đủ yêu cầu nghiệp vụ
+
+### [2026-09-13] docs(sprint1): lập báo cáo tiến độ kiểm thử QA Sprint 1 và tổng kết các ca kiểm thử ban đầu
+- **Thời gian:** `2026-09-13 14:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(sprint1): lập báo cáo tiến độ kiểm thử QA Sprint 1 và tổng kết các ca kiểm thử ban đầu
