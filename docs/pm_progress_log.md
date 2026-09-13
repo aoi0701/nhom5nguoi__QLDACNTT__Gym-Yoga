@@ -139,3 +139,8 @@
 - **Thời gian:** `2026-09-13 11:30:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(daily): cập nhật nhật ký Daily Standup tuần 1 và tháo gỡ vướng mắc
+
+### [2026-09-13] docs(sprint1): tổng kết đánh giá tiến độ Sprint 1 Review và rút kinh nghiệm Retrospective
+- **Thời gian:** `2026-09-13 14:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint1): tổng kết đánh giá tiến độ Sprint 1 Review và rút kinh nghiệm Retrospective
