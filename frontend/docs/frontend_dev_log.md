@@ -134,3 +134,8 @@
 - **Thời gian:** `2026-09-13 09:00:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** docs(fe): viết tài liệu hướng dẫn chạy môi trường frontend với npm run dev
+
+### [2026-09-13] style(responsive): kiểm tra khung layout hiển thị co giãn trên màn hình nhỏ
+- **Thời gian:** `2026-09-13 11:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** style(responsive): kiểm tra khung layout hiển thị co giãn trên màn hình nhỏ
