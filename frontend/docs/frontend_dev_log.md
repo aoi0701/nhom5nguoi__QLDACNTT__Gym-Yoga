@@ -129,3 +129,8 @@
 - **Thời gian:** `2026-09-12 18:40:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** test(fe): viết test case kiểm tra việc render trang chủ không bị lỗi
+
+### [2026-09-13] docs(fe): viết tài liệu hướng dẫn chạy môi trường frontend với npm run dev
+- **Thời gian:** `2026-09-13 09:00:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** docs(fe): viết tài liệu hướng dẫn chạy môi trường frontend với npm run dev
