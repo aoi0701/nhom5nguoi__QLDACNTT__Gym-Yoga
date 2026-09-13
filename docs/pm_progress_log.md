@@ -129,3 +129,8 @@
 - **Thời gian:** `2026-09-12 18:40:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(kickoff): tổ chức cuộc họp Kickoff Sprint 1 và ghi biên bản họp
+
+### [2026-09-13] docs(kickoff): phân bổ Story Points sơ khởi cho các hạng mục công việc tuần 1
+- **Thời gian:** `2026-09-13 09:00:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(kickoff): phân bổ Story Points sơ khởi cho các hạng mục công việc tuần 1
