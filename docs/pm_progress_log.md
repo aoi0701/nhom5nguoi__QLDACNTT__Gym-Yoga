@@ -144,3 +144,8 @@
 - **Thời gian:** `2026-09-13 14:20:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(sprint1): tổng kết đánh giá tiến độ Sprint 1 Review và rút kinh nghiệm Retrospective
+
+### [2026-09-13] docs(sprint1): hoàn thiện hồ sơ nghiệm thu mốc Milestone 1 gửi Giảng viên hướng dẫn
+- **Thời gian:** `2026-09-13 16:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint1): hoàn thiện hồ sơ nghiệm thu mốc Milestone 1 gửi Giảng viên hướng dẫn
