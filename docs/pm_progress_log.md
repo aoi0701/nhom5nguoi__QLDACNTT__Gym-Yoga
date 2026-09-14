@@ -149,3 +149,8 @@
 - **Thời gian:** `2026-09-13 16:45:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(sprint1): hoàn thiện hồ sơ nghiệm thu mốc Milestone 1 gửi Giảng viên hướng dẫn
+
+### [2026-09-14] docs(sprint2): tổ chức cuộc họp Sprint 2 Planning và xác định mục tiêu tuần 2
+- **Thời gian:** `2026-09-14 08:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint2): tổ chức cuộc họp Sprint 2 Planning và xác định mục tiêu tuần 2
