@@ -149,3 +149,8 @@
 - **Thời gian:** `2026-09-13 16:45:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(sprint1): hoàn thiện gói sản phẩm đặc tả yêu cầu Sprint 1 bàn giao cho đội thiết kế
+
+### [2026-09-14] docs(sprint2): tiếp nhận phản hồi từ đội ngũ kỹ thuật và cập nhật Product Backlog
+- **Thời gian:** `2026-09-14 08:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(sprint2): tiếp nhận phản hồi từ đội ngũ kỹ thuật và cập nhật Product Backlog
