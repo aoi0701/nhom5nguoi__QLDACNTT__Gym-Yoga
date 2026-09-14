@@ -154,3 +154,8 @@
 - **Thời gian:** `2026-09-14 08:30:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** docs(sprint2): tiếp nhận bản thiết kế Figma và kế hoạch phát triển giao diện tuần 2
+
+### [2026-09-14] feat(figma): hoàn thiện bản vẽ High-Fidelity màn hình Đăng nhập và Đăng ký
+- **Thời gian:** `2026-09-14 10:40:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(figma): hoàn thiện bản vẽ High-Fidelity màn hình Đăng nhập và Đăng ký
