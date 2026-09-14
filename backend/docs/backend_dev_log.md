@@ -149,3 +149,8 @@
 - **Thời gian:** `2026-09-13 16:45:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** docs(milestone1): chốt sản phẩm Backend đạt chuẩn bàn giao mốc Milestone 1
+
+### [2026-09-14] docs(sprint2): tiếp nhận tài liệu SRS và phân tích chi tiết các API cần xây dựng
+- **Thời gian:** `2026-09-14 08:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** docs(sprint2): tiếp nhận tài liệu SRS và phân tích chi tiết các API cần xây dựng
