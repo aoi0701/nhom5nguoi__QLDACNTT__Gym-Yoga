@@ -164,3 +164,8 @@
 - **Thời gian:** `2026-09-14 14:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(risk): thiết lập bảng theo dõi và quản lý rủi ro kỹ thuật Risk Register
+
+### [2026-09-14] docs(risk): đánh giá rủi ro phụ thuộc API AI bên ngoài và đề xuất phương án Fallback
+- **Thời gian:** `2026-09-14 16:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(risk): đánh giá rủi ro phụ thuộc API AI bên ngoài và đề xuất phương án Fallback
