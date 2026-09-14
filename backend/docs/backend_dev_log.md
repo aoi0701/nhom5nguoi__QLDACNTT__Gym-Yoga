@@ -154,3 +154,8 @@
 - **Thời gian:** `2026-09-14 08:30:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** docs(sprint2): tiếp nhận tài liệu SRS và phân tích chi tiết các API cần xây dựng
+
+### [2026-09-14] feat(auth): xây dựng UserRegistrationSerializer kiểm tra tính hợp lệ của dữ liệu đăng ký
+- **Thời gian:** `2026-09-14 10:40:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(auth): xây dựng UserRegistrationSerializer kiểm tra tính hợp lệ của dữ liệu đăng ký
