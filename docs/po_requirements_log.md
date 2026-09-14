@@ -164,3 +164,8 @@
 - **Thời gian:** `2026-09-14 14:10:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US51 đến US60: Danh mục bài tập Gym cơ Chân, Vai và Tay
+
+### [2026-09-14] feat(stories): soạn thảo User Story US61 đến US70: Danh mục bài tập Yoga phục hồi và dẻo dai
+- **Thời gian:** `2026-09-14 16:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US61 đến US70: Danh mục bài tập Yoga phục hồi và dẻo dai
