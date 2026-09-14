@@ -154,3 +154,8 @@
 - **Thời gian:** `2026-09-14 08:30:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(sprint2): tiếp nhận tài liệu SRS v2.0 và lập kế hoạch kiểm thử chi tiết cho Sprint 2
+
+### [2026-09-14] docs(erd): chuẩn hóa mô hình dữ liệu quan hệ đạt chuẩn dạng chuẩn 3 (3NF)
+- **Thời gian:** `2026-09-14 10:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): chuẩn hóa mô hình dữ liệu quan hệ đạt chuẩn dạng chuẩn 3 (3NF)
