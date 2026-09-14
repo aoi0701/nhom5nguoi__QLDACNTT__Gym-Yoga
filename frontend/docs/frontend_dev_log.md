@@ -149,3 +149,8 @@
 - **Thời gian:** `2026-09-13 16:45:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** docs(milestone1): chốt sản phẩm Frontend đạt chuẩn bàn giao mốc Milestone 1
+
+### [2026-09-14] docs(sprint2): tiếp nhận bản thiết kế Figma và kế hoạch phát triển giao diện tuần 2
+- **Thời gian:** `2026-09-14 08:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** docs(sprint2): tiếp nhận bản thiết kế Figma và kế hoạch phát triển giao diện tuần 2
