@@ -164,3 +164,8 @@
 - **Thời gian:** `2026-09-14 14:10:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(auth): bổ sung validation kiểm tra độ mạnh của mật khẩu tối thiểu 8 ký tự
+
+### [2026-09-14] feat(auth): xây dựng API đăng ký người dùng mới tại endpoint /api/v2/auth/register/
+- **Thời gian:** `2026-09-14 16:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(auth): xây dựng API đăng ký người dùng mới tại endpoint /api/v2/auth/register/
