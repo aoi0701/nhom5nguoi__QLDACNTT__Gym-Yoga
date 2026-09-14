@@ -154,3 +154,8 @@
 - **Thời gian:** `2026-09-14 08:30:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(sprint2): tổ chức cuộc họp Sprint 2 Planning và xác định mục tiêu tuần 2
+
+### [2026-09-14] docs(sprint2): phân bổ 60 Story Points cho các thành viên trong Sprint 2
+- **Thời gian:** `2026-09-14 10:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint2): phân bổ 60 Story Points cho các thành viên trong Sprint 2
