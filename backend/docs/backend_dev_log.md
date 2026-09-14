@@ -159,3 +159,8 @@
 - **Thời gian:** `2026-09-14 10:40:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(auth): xây dựng UserRegistrationSerializer kiểm tra tính hợp lệ của dữ liệu đăng ký
+
+### [2026-09-14] feat(auth): bổ sung validation kiểm tra độ mạnh của mật khẩu tối thiểu 8 ký tự
+- **Thời gian:** `2026-09-14 14:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(auth): bổ sung validation kiểm tra độ mạnh của mật khẩu tối thiểu 8 ký tự
