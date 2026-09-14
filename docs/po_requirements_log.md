@@ -154,3 +154,8 @@
 - **Thời gian:** `2026-09-14 08:30:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(sprint2): tiếp nhận phản hồi từ đội ngũ kỹ thuật và cập nhật Product Backlog
+
+### [2026-09-14] feat(stories): soạn thảo User Story US41 đến US50: Danh mục bài tập Gym cơ Ngực và Lưng
+- **Thời gian:** `2026-09-14 10:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US41 đến US50: Danh mục bài tập Gym cơ Ngực và Lưng
