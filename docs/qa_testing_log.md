@@ -149,3 +149,8 @@
 - **Thời gian:** `2026-09-13 16:45:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(milestone1): hoàn tất các mục tiêu thiết kế CSDL sơ khởi và kế hoạch kiểm thử Milestone 1
+
+### [2026-09-14] docs(sprint2): tiếp nhận tài liệu SRS v2.0 và lập kế hoạch kiểm thử chi tiết cho Sprint 2
+- **Thời gian:** `2026-09-14 08:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(sprint2): tiếp nhận tài liệu SRS v2.0 và lập kế hoạch kiểm thử chi tiết cho Sprint 2
