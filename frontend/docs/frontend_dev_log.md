@@ -159,3 +159,8 @@
 - **Thời gian:** `2026-09-14 10:40:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(figma): hoàn thiện bản vẽ High-Fidelity màn hình Đăng nhập và Đăng ký
+
+### [2026-09-14] feat(figma): hoàn thiện bản vẽ High-Fidelity màn hình Thư viện bài tập dạng Grid
+- **Thời gian:** `2026-09-14 14:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(figma): hoàn thiện bản vẽ High-Fidelity màn hình Thư viện bài tập dạng Grid
