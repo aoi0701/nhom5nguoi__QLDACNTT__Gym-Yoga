@@ -164,3 +164,8 @@
 - **Thời gian:** `2026-09-14 14:10:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(erd): loại bỏ các phụ thuộc bắc cầu và phân rã các bảng đảm bảo toàn vẹn dữ liệu
+
+### [2026-09-14] database(schema): hoàn thiện tệp DDL database/schema.sql với đầy đủ ràng buộc
+- **Thời gian:** `2026-09-14 16:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(schema): hoàn thiện tệp DDL database/schema.sql với đầy đủ ràng buộc
