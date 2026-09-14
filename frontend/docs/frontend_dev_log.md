@@ -164,3 +164,8 @@
 - **Thời gian:** `2026-09-14 14:10:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(figma): hoàn thiện bản vẽ High-Fidelity màn hình Thư viện bài tập dạng Grid
+
+### [2026-09-14] feat(figma): hoàn thiện bản vẽ High-Fidelity màn hình AI Wizard đa bước
+- **Thời gian:** `2026-09-14 16:50:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(figma): hoàn thiện bản vẽ High-Fidelity màn hình AI Wizard đa bước
