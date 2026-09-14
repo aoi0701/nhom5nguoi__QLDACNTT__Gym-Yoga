@@ -159,3 +159,8 @@
 - **Thời gian:** `2026-09-14 10:40:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(sprint2): phân bổ 60 Story Points cho các thành viên trong Sprint 2
+
+### [2026-09-14] docs(risk): thiết lập bảng theo dõi và quản lý rủi ro kỹ thuật Risk Register
+- **Thời gian:** `2026-09-14 14:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(risk): thiết lập bảng theo dõi và quản lý rủi ro kỹ thuật Risk Register
