@@ -159,3 +159,8 @@
 - **Thời gian:** `2026-09-14 10:40:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(erd): chuẩn hóa mô hình dữ liệu quan hệ đạt chuẩn dạng chuẩn 3 (3NF)
+
+### [2026-09-14] docs(erd): loại bỏ các phụ thuộc bắc cầu và phân rã các bảng đảm bảo toàn vẹn dữ liệu
+- **Thời gian:** `2026-09-14 14:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): loại bỏ các phụ thuộc bắc cầu và phân rã các bảng đảm bảo toàn vẹn dữ liệu
