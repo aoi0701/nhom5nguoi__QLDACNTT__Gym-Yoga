@@ -169,3 +169,8 @@
 - **Thời gian:** `2026-09-14 16:50:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(auth): xây dựng API đăng ký người dùng mới tại endpoint /api/v2/auth/register/
+
+### [2026-09-15] feat(auth): xây dựng CustomTokenObtainPairSerializer trả về thông tin user cùng token
+- **Thời gian:** `2026-09-15 09:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(auth): xây dựng CustomTokenObtainPairSerializer trả về thông tin user cùng token
