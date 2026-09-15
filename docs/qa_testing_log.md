@@ -184,3 +184,8 @@
 - **Thời gian:** `2026-09-15 13:45:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(exercises): thiết kế bảng exercises, muscle_groups và equipments
+
+### [2026-09-15] database(plans): thiết kế bảng workout_plans và ai_recommendations
+- **Thời gian:** `2026-09-15 17:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(plans): thiết kế bảng workout_plans và ai_recommendations
