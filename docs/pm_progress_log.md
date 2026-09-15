@@ -174,3 +174,8 @@
 - **Thời gian:** `2026-09-15 09:15:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(risk): cập nhật kế hoạch ứng phó rủi ro bảo mật dữ liệu người dùng
+
+### [2026-09-15] chore(jira): cập nhật backlog Sprint 2 và kích hoạt Sprint trên Jira
+- **Thời gian:** `2026-09-15 11:25:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(jira): cập nhật backlog Sprint 2 và kích hoạt Sprint trên Jira
