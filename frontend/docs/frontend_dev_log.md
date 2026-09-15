@@ -184,3 +184,8 @@
 - **Thời gian:** `2026-09-15 13:45:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(api): cài đặt thư viện Axios và tạo tệp cấu hình src/services/api.js
+
+### [2026-09-15] feat(api): cấu hình baseURL đọc từ biến môi trường VITE_API_URL linh hoạt
+- **Thời gian:** `2026-09-15 17:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(api): cấu hình baseURL đọc từ biến môi trường VITE_API_URL linh hoạt
