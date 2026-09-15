@@ -174,3 +174,8 @@
 - **Thời gian:** `2026-09-15 09:15:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US71 đến US80: Danh mục bài tập Yoga tăng cường thăng bằng
+
+### [2026-09-15] feat(stories): soạn thảo User Story US81 đến US90: Động cơ AI phân tích dữ liệu thể trạng
+- **Thời gian:** `2026-09-15 11:25:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US81 đến US90: Động cơ AI phân tích dữ liệu thể trạng
