@@ -169,3 +169,8 @@
 - **Thời gian:** `2026-09-14 16:50:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(risk): đánh giá rủi ro phụ thuộc API AI bên ngoài và đề xuất phương án Fallback
+
+### [2026-09-15] docs(risk): cập nhật kế hoạch ứng phó rủi ro bảo mật dữ liệu người dùng
+- **Thời gian:** `2026-09-15 09:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(risk): cập nhật kế hoạch ứng phó rủi ro bảo mật dữ liệu người dùng
