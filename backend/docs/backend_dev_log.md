@@ -184,3 +184,8 @@
 - **Thời gian:** `2026-09-15 13:45:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(auth): xây dựng API làm mới token tại /api/v2/auth/token/refresh/
+
+### [2026-09-15] feat(auth): xây dựng API đăng xuất /api/v2/auth/logout/ đưa token vào blacklist
+- **Thời gian:** `2026-09-15 17:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(auth): xây dựng API đăng xuất /api/v2/auth/logout/ đưa token vào blacklist
