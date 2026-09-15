@@ -169,3 +169,8 @@
 - **Thời gian:** `2026-09-14 16:50:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US61 đến US70: Danh mục bài tập Yoga phục hồi và dẻo dai
+
+### [2026-09-15] feat(stories): soạn thảo User Story US71 đến US80: Danh mục bài tập Yoga tăng cường thăng bằng
+- **Thời gian:** `2026-09-15 09:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US71 đến US80: Danh mục bài tập Yoga tăng cường thăng bằng
