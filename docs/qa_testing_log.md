@@ -169,3 +169,8 @@
 - **Thời gian:** `2026-09-14 16:50:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(schema): hoàn thiện tệp DDL database/schema.sql với đầy đủ ràng buộc
+
+### [2026-09-15] database(relations): thiết kế bảng liên kết user_roles quản lý quan hệ nhiều-nhiều
+- **Thời gian:** `2026-09-15 09:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(relations): thiết kế bảng liên kết user_roles quản lý quan hệ nhiều-nhiều
