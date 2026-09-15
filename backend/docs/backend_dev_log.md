@@ -179,3 +179,8 @@
 - **Thời gian:** `2026-09-15 11:25:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(auth): xây dựng API đăng nhập tại /api/v2/auth/login/ cấp phát JWT tokens
+
+### [2026-09-15] feat(auth): xây dựng API làm mới token tại /api/v2/auth/token/refresh/
+- **Thời gian:** `2026-09-15 13:45:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(auth): xây dựng API làm mới token tại /api/v2/auth/token/refresh/
