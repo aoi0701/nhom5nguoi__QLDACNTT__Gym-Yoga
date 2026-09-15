@@ -169,3 +169,8 @@
 - **Thời gian:** `2026-09-14 16:50:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(figma): hoàn thiện bản vẽ High-Fidelity màn hình AI Wizard đa bước
+
+### [2026-09-15] feat(figma): hoàn thiện bản vẽ High-Fidelity màn hình Quản lý người dùng và vai trò
+- **Thời gian:** `2026-09-15 09:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(figma): hoàn thiện bản vẽ High-Fidelity màn hình Quản lý người dùng và vai trò
