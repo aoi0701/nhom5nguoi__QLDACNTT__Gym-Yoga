@@ -184,3 +184,8 @@
 - **Thời gian:** `2026-09-15 13:45:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US91 đến US100: Động cơ AI sinh lịch tập cá nhân hóa 7 ngày
+
+### [2026-09-15] feat(stories): soạn thảo User Story US101 đến US110: Cơ chế dự phòng Fallback Engine khi mất mạng AI
+- **Thời gian:** `2026-09-15 17:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US101 đến US110: Cơ chế dự phòng Fallback Engine khi mất mạng AI
