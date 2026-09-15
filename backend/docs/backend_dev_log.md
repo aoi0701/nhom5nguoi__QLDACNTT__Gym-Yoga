@@ -174,3 +174,8 @@
 - **Thời gian:** `2026-09-15 09:15:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(auth): xây dựng CustomTokenObtainPairSerializer trả về thông tin user cùng token
+
+### [2026-09-15] feat(auth): xây dựng API đăng nhập tại /api/v2/auth/login/ cấp phát JWT tokens
+- **Thời gian:** `2026-09-15 11:25:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(auth): xây dựng API đăng nhập tại /api/v2/auth/login/ cấp phát JWT tokens
