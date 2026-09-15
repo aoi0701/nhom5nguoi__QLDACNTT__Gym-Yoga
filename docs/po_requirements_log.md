@@ -179,3 +179,8 @@
 - **Thời gian:** `2026-09-15 11:25:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US81 đến US90: Động cơ AI phân tích dữ liệu thể trạng
+
+### [2026-09-15] feat(stories): soạn thảo User Story US91 đến US100: Động cơ AI sinh lịch tập cá nhân hóa 7 ngày
+- **Thời gian:** `2026-09-15 13:45:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US91 đến US100: Động cơ AI sinh lịch tập cá nhân hóa 7 ngày
