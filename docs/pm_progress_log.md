@@ -184,3 +184,8 @@
 - **Thời gian:** `2026-09-15 13:45:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(daily): ghi nhận biên bản Daily Standup ngày 15/09 về tiến độ ERD và Figma
+
+### [2026-09-15] docs(quality): soạn thảo kế hoạch quản lý chất lượng Quality Management Plan
+- **Thời gian:** `2026-09-15 17:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(quality): soạn thảo kế hoạch quản lý chất lượng Quality Management Plan
