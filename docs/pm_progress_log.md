@@ -179,3 +179,8 @@
 - **Thời gian:** `2026-09-15 11:25:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(jira): cập nhật backlog Sprint 2 và kích hoạt Sprint trên Jira
+
+### [2026-09-15] docs(daily): ghi nhận biên bản Daily Standup ngày 15/09 về tiến độ ERD và Figma
+- **Thời gian:** `2026-09-15 13:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): ghi nhận biên bản Daily Standup ngày 15/09 về tiến độ ERD và Figma
