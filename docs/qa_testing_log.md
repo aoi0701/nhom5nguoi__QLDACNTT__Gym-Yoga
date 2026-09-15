@@ -174,3 +174,8 @@
 - **Thời gian:** `2026-09-15 09:15:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(relations): thiết kế bảng liên kết user_roles quản lý quan hệ nhiều-nhiều
+
+### [2026-09-15] database(relations): thiết kế bảng liên kết role_permissions gán quyền cho vai trò
+- **Thời gian:** `2026-09-15 11:25:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(relations): thiết kế bảng liên kết role_permissions gán quyền cho vai trò
