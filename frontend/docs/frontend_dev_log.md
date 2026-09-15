@@ -174,3 +174,8 @@
 - **Thời gian:** `2026-09-15 09:15:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(figma): hoàn thiện bản vẽ High-Fidelity màn hình Quản lý người dùng và vai trò
+
+### [2026-09-15] feat(prototype): tạo tương tác Prototype chuyển trang trên Figma để kiểm tra trải nghiệm
+- **Thời gian:** `2026-09-15 11:25:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(prototype): tạo tương tác Prototype chuyển trang trên Figma để kiểm tra trải nghiệm
