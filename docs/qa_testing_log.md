@@ -179,3 +179,8 @@
 - **Thời gian:** `2026-09-15 11:25:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(relations): thiết kế bảng liên kết role_permissions gán quyền cho vai trò
+
+### [2026-09-15] database(exercises): thiết kế bảng exercises, muscle_groups và equipments
+- **Thời gian:** `2026-09-15 13:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(exercises): thiết kế bảng exercises, muscle_groups và equipments
