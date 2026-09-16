@@ -204,3 +204,8 @@
 - **Thời gian:** `2026-09-16 14:30:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(srs): viết chương 4: Yêu cầu phi chức năng về hiệu năng, bảo mật và độ khả dụng
+
+### [2026-09-16] docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng Auth
+- **Thời gian:** `2026-09-16 18:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng Auth
