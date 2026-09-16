@@ -189,3 +189,8 @@
 - **Thời gian:** `2026-09-15 17:20:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(quality): soạn thảo kế hoạch quản lý chất lượng Quality Management Plan
+
+### [2026-09-16] docs(quality): xác định các chỉ số đo lường chất lượng mã nguồn và tài liệu
+- **Thời gian:** `2026-09-16 08:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(quality): xác định các chỉ số đo lường chất lượng mã nguồn và tài liệu
