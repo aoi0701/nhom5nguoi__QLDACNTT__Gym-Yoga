@@ -194,3 +194,8 @@
 - **Thời gian:** `2026-09-16 08:50:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(models): xây dựng model UserProfile mở rộng thông tin thể trạng cho User
+
+### [2026-09-16] feat(models): thêm các trường gender, birth_date, height_cm, weight_kg, fitness_goal
+- **Thời gian:** `2026-09-16 10:35:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(models): thêm các trường gender, birth_date, height_cm, weight_kg, fitness_goal
