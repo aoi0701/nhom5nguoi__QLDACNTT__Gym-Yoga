@@ -194,3 +194,8 @@
 - **Thời gian:** `2026-09-16 08:50:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(quality): xác định các chỉ số đo lường chất lượng mã nguồn và tài liệu
+
+### [2026-09-16] chore(scripts): viết script tự động hóa import 200 User Stories lên backlog
+- **Thời gian:** `2026-09-16 10:35:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(scripts): viết script tự động hóa import 200 User Stories lên backlog
