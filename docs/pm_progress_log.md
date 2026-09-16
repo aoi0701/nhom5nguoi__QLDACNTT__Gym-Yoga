@@ -199,3 +199,8 @@
 - **Thời gian:** `2026-09-16 10:35:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(scripts): viết script tự động hóa import 200 User Stories lên backlog
+
+### [2026-09-16] chore(scripts): kiểm tra tính hợp lệ của dữ liệu 200 issues trong tệp json
+- **Thời gian:** `2026-09-16 14:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(scripts): kiểm tra tính hợp lệ của dữ liệu 200 issues trong tệp json
