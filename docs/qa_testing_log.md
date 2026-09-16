@@ -199,3 +199,8 @@
 - **Thời gian:** `2026-09-16 10:35:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(keys): bổ sung khóa ngoại ON DELETE CASCADE và ON DELETE SET NULL hợp lý
+
+### [2026-09-16] database(constraints): thêm ràng buộc CHECK cho email, rating và các trường bắt buộc
+- **Thời gian:** `2026-09-16 14:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(constraints): thêm ràng buộc CHECK cho email, rating và các trường bắt buộc
