@@ -194,3 +194,8 @@
 - **Thời gian:** `2026-09-16 08:50:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(api): thiết lập Axios Request Interceptor tự động đính kèm Bearer Token
+
+### [2026-09-16] feat(api): thiết lập Axios Response Interceptor bắt mã lỗi 401 và cảnh báo hết hạn phiên
+- **Thời gian:** `2026-09-16 10:35:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(api): thiết lập Axios Response Interceptor bắt mã lỗi 401 và cảnh báo hết hạn phiên
