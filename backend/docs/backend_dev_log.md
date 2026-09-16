@@ -204,3 +204,8 @@
 - **Thời gian:** `2026-09-16 14:30:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(models): viết logic tự động tính toán chỉ số BMI và phân loại thể trạng trong model
+
+### [2026-09-16] feat(profile): xây dựng UserProfileSerializer chuyển đổi dữ liệu hồ sơ người dùng
+- **Thời gian:** `2026-09-16 18:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(profile): xây dựng UserProfileSerializer chuyển đổi dữ liệu hồ sơ người dùng
