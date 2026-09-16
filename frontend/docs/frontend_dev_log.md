@@ -189,3 +189,8 @@
 - **Thời gian:** `2026-09-15 17:20:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(api): cấu hình baseURL đọc từ biến môi trường VITE_API_URL linh hoạt
+
+### [2026-09-16] feat(api): thiết lập Axios Request Interceptor tự động đính kèm Bearer Token
+- **Thời gian:** `2026-09-16 08:50:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(api): thiết lập Axios Request Interceptor tự động đính kèm Bearer Token
