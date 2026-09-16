@@ -194,3 +194,8 @@
 - **Thời gian:** `2026-09-16 08:50:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(ratings): thiết kế bảng exercise_ratings lưu đánh giá 1-5 sao và bình luận
+
+### [2026-09-16] database(keys): bổ sung khóa ngoại ON DELETE CASCADE và ON DELETE SET NULL hợp lý
+- **Thời gian:** `2026-09-16 10:35:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(keys): bổ sung khóa ngoại ON DELETE CASCADE và ON DELETE SET NULL hợp lý
