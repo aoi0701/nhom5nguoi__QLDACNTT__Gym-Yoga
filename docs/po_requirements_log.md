@@ -189,3 +189,8 @@
 - **Thời gian:** `2026-09-15 17:20:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US101 đến US110: Cơ chế dự phòng Fallback Engine khi mất mạng AI
+
+### [2026-09-16] feat(stories): soạn thảo User Story US111 đến US120: Quản lý phân quyền RBAC cho Admin, PT và Member
+- **Thời gian:** `2026-09-16 08:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US111 đến US120: Quản lý phân quyền RBAC cho Admin, PT và Member
