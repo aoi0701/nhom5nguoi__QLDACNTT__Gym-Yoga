@@ -194,3 +194,8 @@
 - **Thời gian:** `2026-09-16 08:50:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US111 đến US120: Quản lý phân quyền RBAC cho Admin, PT và Member
+
+### [2026-09-16] docs(srs): cập nhật chương 3 tài liệu SRS: Yêu cầu chức năng chi tiết cho 200 Stories
+- **Thời gian:** `2026-09-16 10:35:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(srs): cập nhật chương 3 tài liệu SRS: Yêu cầu chức năng chi tiết cho 200 Stories
