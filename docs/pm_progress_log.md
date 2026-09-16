@@ -204,3 +204,8 @@
 - **Thời gian:** `2026-09-16 14:30:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(scripts): kiểm tra tính hợp lệ của dữ liệu 200 issues trong tệp json
+
+### [2026-09-16] chore(scripts): bổ sung cơ chế xử lý rate-limit khi đồng bộ issues qua API
+- **Thời gian:** `2026-09-16 18:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(scripts): bổ sung cơ chế xử lý rate-limit khi đồng bộ issues qua API
