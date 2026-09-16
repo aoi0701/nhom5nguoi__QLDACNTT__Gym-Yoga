@@ -189,3 +189,8 @@
 - **Thời gian:** `2026-09-15 17:20:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(plans): thiết kế bảng workout_plans và ai_recommendations
+
+### [2026-09-16] database(ratings): thiết kế bảng exercise_ratings lưu đánh giá 1-5 sao và bình luận
+- **Thời gian:** `2026-09-16 08:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(ratings): thiết kế bảng exercise_ratings lưu đánh giá 1-5 sao và bình luận
