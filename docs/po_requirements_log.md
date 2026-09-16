@@ -199,3 +199,8 @@
 - **Thời gian:** `2026-09-16 10:35:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(srs): cập nhật chương 3 tài liệu SRS: Yêu cầu chức năng chi tiết cho 200 Stories
+
+### [2026-09-16] docs(srs): viết chương 4: Yêu cầu phi chức năng về hiệu năng, bảo mật và độ khả dụng
+- **Thời gian:** `2026-09-16 14:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(srs): viết chương 4: Yêu cầu phi chức năng về hiệu năng, bảo mật và độ khả dụng
