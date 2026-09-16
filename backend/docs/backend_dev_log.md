@@ -189,3 +189,8 @@
 - **Thời gian:** `2026-09-15 17:20:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(auth): xây dựng API đăng xuất /api/v2/auth/logout/ đưa token vào blacklist
+
+### [2026-09-16] feat(models): xây dựng model UserProfile mở rộng thông tin thể trạng cho User
+- **Thời gian:** `2026-09-16 08:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(models): xây dựng model UserProfile mở rộng thông tin thể trạng cho User
