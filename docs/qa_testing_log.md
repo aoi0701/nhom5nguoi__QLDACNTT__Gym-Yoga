@@ -204,3 +204,8 @@
 - **Thời gian:** `2026-09-16 14:30:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(constraints): thêm ràng buộc CHECK cho email, rating và các trường bắt buộc
+
+### [2026-09-16] test(cases): viết 20 Test Cases kiểm thử tính toàn vẹn tham chiếu khóa ngoại trong CSDL
+- **Thời gian:** `2026-09-16 18:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(cases): viết 20 Test Cases kiểm thử tính toàn vẹn tham chiếu khóa ngoại trong CSDL
