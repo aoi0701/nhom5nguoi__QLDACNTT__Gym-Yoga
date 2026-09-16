@@ -199,3 +199,8 @@
 - **Thời gian:** `2026-09-16 10:35:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(api): thiết lập Axios Response Interceptor bắt mã lỗi 401 và cảnh báo hết hạn phiên
+
+### [2026-09-16] feat(auth): xây dựng giao diện form Đăng nhập hoàn chỉnh tại LoginView
+- **Thời gian:** `2026-09-16 14:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(auth): xây dựng giao diện form Đăng nhập hoàn chỉnh tại LoginView
