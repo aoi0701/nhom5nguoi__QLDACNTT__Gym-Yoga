@@ -199,3 +199,8 @@
 - **Thời gian:** `2026-09-16 10:35:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(models): thêm các trường gender, birth_date, height_cm, weight_kg, fitness_goal
+
+### [2026-09-16] feat(models): viết logic tự động tính toán chỉ số BMI và phân loại thể trạng trong model
+- **Thời gian:** `2026-09-16 14:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(models): viết logic tự động tính toán chỉ số BMI và phân loại thể trạng trong model
