@@ -204,3 +204,8 @@
 - **Thời gian:** `2026-09-16 14:30:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(auth): xây dựng giao diện form Đăng nhập hoàn chỉnh tại LoginView
+
+### [2026-09-16] feat(auth): thêm ô nhập email, mật khẩu với icon ẩn hiện mật khẩu trực quan
+- **Thời gian:** `2026-09-16 18:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(auth): thêm ô nhập email, mật khẩu với icon ẩn hiện mật khẩu trực quan
