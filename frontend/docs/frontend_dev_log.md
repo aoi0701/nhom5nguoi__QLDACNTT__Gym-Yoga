@@ -224,3 +224,8 @@
 - **Thời gian:** `2026-09-17 14:00:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(auth): bổ sung validation kiểm tra định dạng email và độ dài mật khẩu thời gian thực
+
+### [2026-09-17] feat(auth): kiểm tra xác nhận mật khẩu khớp nhau trước khi submit form
+- **Thời gian:** `2026-09-17 16:40:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(auth): kiểm tra xác nhận mật khẩu khớp nhau trước khi submit form
