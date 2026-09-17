@@ -224,3 +224,8 @@
 - **Thời gian:** `2026-09-17 14:00:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(velocity): đo lường vận tốc thực tế của đội ngũ và cân đối tải công việc
+
+### [2026-09-17] chore(ci): bổ sung bước kiểm tra format mã nguồn với ruff và eslint trong CI
+- **Thời gian:** `2026-09-17 16:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(ci): bổ sung bước kiểm tra format mã nguồn với ruff và eslint trong CI
