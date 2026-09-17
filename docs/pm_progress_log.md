@@ -214,3 +214,8 @@
 - **Thời gian:** `2026-09-17 09:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(daily): ghi nhận biên bản Daily Standup ngày 17/09 về tiến độ JWT backend
+
+### [2026-09-17] docs(burndown): cập nhật biểu đồ burn-down chart và theo dõi tiến độ tuần 2
+- **Thời gian:** `2026-09-17 11:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(burndown): cập nhật biểu đồ burn-down chart và theo dõi tiến độ tuần 2
