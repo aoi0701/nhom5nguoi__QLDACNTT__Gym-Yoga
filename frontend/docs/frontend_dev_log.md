@@ -219,3 +219,8 @@
 - **Thời gian:** `2026-09-17 11:15:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(auth): xây dựng giao diện form Đăng ký tài khoản tại RegisterView
+
+### [2026-09-17] feat(auth): bổ sung validation kiểm tra định dạng email và độ dài mật khẩu thời gian thực
+- **Thời gian:** `2026-09-17 14:00:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(auth): bổ sung validation kiểm tra định dạng email và độ dài mật khẩu thời gian thực
