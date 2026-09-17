@@ -214,3 +214,8 @@
 - **Thời gian:** `2026-09-17 09:10:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(auth): viết hàm xử lý đăng nhập gọi API backend và lưu token vào localStorage
+
+### [2026-09-17] feat(auth): xây dựng giao diện form Đăng ký tài khoản tại RegisterView
+- **Thời gian:** `2026-09-17 11:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(auth): xây dựng giao diện form Đăng ký tài khoản tại RegisterView
