@@ -214,3 +214,8 @@
 - **Thời gian:** `2026-09-17 09:10:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng Profile & BMI
+
+### [2026-09-17] docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng Thư viện bài tập
+- **Thời gian:** `2026-09-17 11:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng Thư viện bài tập
