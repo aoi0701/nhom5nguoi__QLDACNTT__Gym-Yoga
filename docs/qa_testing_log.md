@@ -209,3 +209,8 @@
 - **Thời gian:** `2026-09-16 18:10:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(cases): viết 20 Test Cases kiểm thử tính toàn vẹn tham chiếu khóa ngoại trong CSDL
+
+### [2026-09-17] test(cases): viết 25 Test Cases kiểm thử API Đăng ký và Đăng nhập cấp phát JWT
+- **Thời gian:** `2026-09-17 09:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(cases): viết 25 Test Cases kiểm thử API Đăng ký và Đăng nhập cấp phát JWT
