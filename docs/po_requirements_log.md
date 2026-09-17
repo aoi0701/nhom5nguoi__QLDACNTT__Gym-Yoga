@@ -224,3 +224,8 @@
 - **Thời gian:** `2026-09-17 14:00:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng AI Engine
+
+### [2026-09-17] docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng RBAC Matrix
+- **Thời gian:** `2026-09-17 16:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng RBAC Matrix
