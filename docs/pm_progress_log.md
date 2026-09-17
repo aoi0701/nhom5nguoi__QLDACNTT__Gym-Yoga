@@ -219,3 +219,8 @@
 - **Thời gian:** `2026-09-17 11:15:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(burndown): cập nhật biểu đồ burn-down chart và theo dõi tiến độ tuần 2
+
+### [2026-09-17] docs(velocity): đo lường vận tốc thực tế của đội ngũ và cân đối tải công việc
+- **Thời gian:** `2026-09-17 14:00:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(velocity): đo lường vận tốc thực tế của đội ngũ và cân đối tải công việc
