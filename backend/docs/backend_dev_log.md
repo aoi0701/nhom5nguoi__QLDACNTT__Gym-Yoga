@@ -224,3 +224,8 @@
 - **Thời gian:** `2026-09-17 14:00:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(rbac): định nghĩa cấu trúc Role (Admin, PT, Member) và danh sách Permission
+
+### [2026-09-17] feat(rbac): xây dựng IsAdmin, IsTrainer, IsMember custom permissions trong DRF
+- **Thời gian:** `2026-09-17 16:40:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(rbac): xây dựng IsAdmin, IsTrainer, IsMember custom permissions trong DRF
