@@ -219,3 +219,8 @@
 - **Thời gian:** `2026-09-17 11:15:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(cases): viết 15 Test Cases kiểm thử tính bảo mật: mật khẩu mã hóa bcrypt, không lộ hash
+
+### [2026-09-17] test(cases): viết 20 Test Cases kiểm thử API Cập nhật hồ sơ thể trạng và giới hạn giá trị BMI
+- **Thời gian:** `2026-09-17 14:00:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(cases): viết 20 Test Cases kiểm thử API Cập nhật hồ sơ thể trạng và giới hạn giá trị BMI
