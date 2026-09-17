@@ -219,3 +219,8 @@
 - **Thời gian:** `2026-09-17 11:15:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(profile): xây dựng API cập nhật hồ sơ cá nhân /api/v2/userprofile/update/
+
+### [2026-09-17] feat(rbac): định nghĩa cấu trúc Role (Admin, PT, Member) và danh sách Permission
+- **Thời gian:** `2026-09-17 14:00:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(rbac): định nghĩa cấu trúc Role (Admin, PT, Member) và danh sách Permission
