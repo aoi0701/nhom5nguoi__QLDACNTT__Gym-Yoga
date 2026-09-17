@@ -209,3 +209,8 @@
 - **Thời gian:** `2026-09-16 18:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(scripts): bổ sung cơ chế xử lý rate-limit khi đồng bộ issues qua API
+
+### [2026-09-17] docs(daily): ghi nhận biên bản Daily Standup ngày 17/09 về tiến độ JWT backend
+- **Thời gian:** `2026-09-17 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): ghi nhận biên bản Daily Standup ngày 17/09 về tiến độ JWT backend
