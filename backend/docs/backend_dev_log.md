@@ -214,3 +214,8 @@
 - **Thời gian:** `2026-09-17 09:10:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(profile): xây dựng API lấy thông tin hồ sơ cá nhân /api/v2/userprofile/me/
+
+### [2026-09-17] feat(profile): xây dựng API cập nhật hồ sơ cá nhân /api/v2/userprofile/update/
+- **Thời gian:** `2026-09-17 11:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(profile): xây dựng API cập nhật hồ sơ cá nhân /api/v2/userprofile/update/
