@@ -224,3 +224,8 @@
 - **Thời gian:** `2026-09-17 14:00:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(cases): viết 20 Test Cases kiểm thử API Cập nhật hồ sơ thể trạng và giới hạn giá trị BMI
+
+### [2026-09-17] test(postman): xây dựng Postman Collection kiểm thử tự động cho toàn bộ Auth API
+- **Thời gian:** `2026-09-17 16:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(postman): xây dựng Postman Collection kiểm thử tự động cho toàn bộ Auth API
