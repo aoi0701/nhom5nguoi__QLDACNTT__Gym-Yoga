@@ -209,3 +209,8 @@
 - **Thời gian:** `2026-09-16 18:10:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(auth): thêm ô nhập email, mật khẩu với icon ẩn hiện mật khẩu trực quan
+
+### [2026-09-17] feat(auth): viết hàm xử lý đăng nhập gọi API backend và lưu token vào localStorage
+- **Thời gian:** `2026-09-17 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(auth): viết hàm xử lý đăng nhập gọi API backend và lưu token vào localStorage
