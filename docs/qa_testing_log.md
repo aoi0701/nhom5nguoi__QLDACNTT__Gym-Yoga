@@ -214,3 +214,8 @@
 - **Thời gian:** `2026-09-17 09:10:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(cases): viết 25 Test Cases kiểm thử API Đăng ký và Đăng nhập cấp phát JWT
+
+### [2026-09-17] test(cases): viết 15 Test Cases kiểm thử tính bảo mật: mật khẩu mã hóa bcrypt, không lộ hash
+- **Thời gian:** `2026-09-17 11:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(cases): viết 15 Test Cases kiểm thử tính bảo mật: mật khẩu mã hóa bcrypt, không lộ hash
