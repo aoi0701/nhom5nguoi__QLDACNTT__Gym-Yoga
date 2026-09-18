@@ -229,3 +229,8 @@
 - **Thời gian:** `2026-09-17 16:40:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(auth): kiểm tra xác nhận mật khẩu khớp nhau trước khi submit form
+
+### [2026-09-18] feat(auth): xây dựng giao diện Quên mật khẩu và Đặt lại mật khẩu qua email
+- **Thời gian:** `2026-09-18 08:40:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(auth): xây dựng giao diện Quên mật khẩu và Đặt lại mật khẩu qua email
