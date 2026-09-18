@@ -229,3 +229,8 @@
 - **Thời gian:** `2026-09-17 16:40:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(rbac): xây dựng IsAdmin, IsTrainer, IsMember custom permissions trong DRF
+
+### [2026-09-18] feat(rbac): viết middleware kiểm tra quyền hạn trước khi chuyển tiếp vào ViewSet
+- **Thời gian:** `2026-09-18 08:40:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(rbac): viết middleware kiểm tra quyền hạn trước khi chuyển tiếp vào ViewSet
