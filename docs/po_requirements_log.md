@@ -234,3 +234,8 @@
 - **Thời gian:** `2026-09-18 08:40:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ Quản lý Bài tập
+
+### [2026-09-18] docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ AI Recommendation
+- **Thời gian:** `2026-09-18 10:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ AI Recommendation
