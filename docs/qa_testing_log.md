@@ -249,3 +249,8 @@
 - **Thời gian:** `2026-09-18 15:50:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(bugs): mở báo cáo lỗi QA-BUG-02: Thiếu trường refresh_token khi đăng nhập thành công
+
+### [2026-09-18] test(retest): kiểm tra xác nhận đóng lỗi sau khi Backend sửa xong QA-BUG-01 và QA-BUG-02
+- **Thời gian:** `2026-09-18 19:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(retest): kiểm tra xác nhận đóng lỗi sau khi Backend sửa xong QA-BUG-01 và QA-BUG-02
