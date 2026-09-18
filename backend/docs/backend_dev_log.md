@@ -234,3 +234,8 @@
 - **Thời gian:** `2026-09-18 08:40:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(rbac): viết middleware kiểm tra quyền hạn trước khi chuyển tiếp vào ViewSet
+
+### [2026-09-18] feat(rbac): xử lý trả về mã lỗi HTTP 403 Forbidden kèm thông báo rõ ràng khi vi phạm quyền
+- **Thời gian:** `2026-09-18 10:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(rbac): xử lý trả về mã lỗi HTTP 403 Forbidden kèm thông báo rõ ràng khi vi phạm quyền
