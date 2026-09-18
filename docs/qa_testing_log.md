@@ -239,3 +239,8 @@
 - **Thời gian:** `2026-09-18 10:20:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(execution): thực thi bộ Test Cases Auth trên Postman và ghi nhận kết quả
+
+### [2026-09-18] docs(bugs): mở báo cáo lỗi QA-BUG-01: Lỗi không trả về mã lỗi 400 khi email sai định dạng
+- **Thời gian:** `2026-09-18 13:35:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(bugs): mở báo cáo lỗi QA-BUG-01: Lỗi không trả về mã lỗi 400 khi email sai định dạng
