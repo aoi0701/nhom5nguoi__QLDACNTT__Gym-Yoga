@@ -244,3 +244,8 @@
 - **Thời gian:** `2026-09-18 13:35:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(comm): đánh giá hiệu quả kênh giao tiếp Slack/Discord và tài liệu nhóm
+
+### [2026-09-18] docs(wbs): cập nhật trạng thái hoàn thành các gói công việc WBS tuần 2
+- **Thời gian:** `2026-09-18 15:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(wbs): cập nhật trạng thái hoàn thành các gói công việc WBS tuần 2
