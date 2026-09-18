@@ -249,3 +249,8 @@
 - **Thời gian:** `2026-09-18 15:50:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(activity): thiết kế sơ đồ hoạt động Activity Diagram cho luồng Đăng nhập & RBAC Guard
+
+### [2026-09-18] docs(activity): thiết kế sơ đồ hoạt động Activity Diagram cho luồng AI Wizard & Fallback
+- **Thời gian:** `2026-09-18 19:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(activity): thiết kế sơ đồ hoạt động Activity Diagram cho luồng AI Wizard & Fallback
