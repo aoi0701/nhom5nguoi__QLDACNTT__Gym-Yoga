@@ -244,3 +244,8 @@
 - **Thời gian:** `2026-09-18 13:35:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ Phân quyền RBAC
+
+### [2026-09-18] docs(activity): thiết kế sơ đồ hoạt động Activity Diagram cho luồng Đăng nhập & RBAC Guard
+- **Thời gian:** `2026-09-18 15:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(activity): thiết kế sơ đồ hoạt động Activity Diagram cho luồng Đăng nhập & RBAC Guard
