@@ -244,3 +244,8 @@
 - **Thời gian:** `2026-09-18 13:35:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(profile): thêm trường nhập chiều cao (cm), cân nặng (kg) và hiển thị chỉ số BMI
+
+### [2026-09-18] feat(profile): hiển thị đánh giá thể trạng: Thiếu cân, Bình thường, Thừa cân, Béo phì
+- **Thời gian:** `2026-09-18 15:50:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(profile): hiển thị đánh giá thể trạng: Thiếu cân, Bình thường, Thừa cân, Béo phì
