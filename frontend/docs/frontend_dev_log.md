@@ -234,3 +234,8 @@
 - **Thời gian:** `2026-09-18 08:40:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(auth): xây dựng giao diện Quên mật khẩu và Đặt lại mật khẩu qua email
+
+### [2026-09-18] feat(profile): thiết kế màn hình cập nhật hồ sơ thể trạng người dùng
+- **Thời gian:** `2026-09-18 10:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(profile): thiết kế màn hình cập nhật hồ sơ thể trạng người dùng
