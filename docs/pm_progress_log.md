@@ -229,3 +229,8 @@
 - **Thời gian:** `2026-09-17 16:40:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(ci): bổ sung bước kiểm tra format mã nguồn với ruff và eslint trong CI
+
+### [2026-09-18] chore(ci): cấu hình thông báo trạng thái build qua webhook
+- **Thời gian:** `2026-09-18 08:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(ci): cấu hình thông báo trạng thái build qua webhook
