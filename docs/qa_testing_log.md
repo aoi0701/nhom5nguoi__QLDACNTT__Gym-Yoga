@@ -229,3 +229,8 @@
 - **Thời gian:** `2026-09-17 16:40:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(postman): xây dựng Postman Collection kiểm thử tự động cho toàn bộ Auth API
+
+### [2026-09-18] test(postman): thiết lập Postman Environment và biến môi trường lưu tự động Bearer Token
+- **Thời gian:** `2026-09-18 08:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(postman): thiết lập Postman Environment và biến môi trường lưu tự động Bearer Token
