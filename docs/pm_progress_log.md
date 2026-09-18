@@ -249,3 +249,8 @@
 - **Thời gian:** `2026-09-18 15:50:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(wbs): cập nhật trạng thái hoàn thành các gói công việc WBS tuần 2
+
+### [2026-09-18] docs(scope): rà soát lại phạm vi hệ thống đảm bảo không phát sinh tính năng ngoài
+- **Thời gian:** `2026-09-18 19:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(scope): rà soát lại phạm vi hệ thống đảm bảo không phát sinh tính năng ngoài
