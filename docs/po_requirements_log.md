@@ -229,3 +229,8 @@
 - **Thời gian:** `2026-09-17 16:40:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng RBAC Matrix
+
+### [2026-09-18] docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ Quản lý Bài tập
+- **Thời gian:** `2026-09-18 08:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ Quản lý Bài tập
