@@ -249,3 +249,8 @@
 - **Thời gian:** `2026-09-18 15:50:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(swagger): cấu hình Security Scheme Bearer Token cho Swagger UI
+
+### [2026-09-18] test(auth): viết unit test cho API Đăng ký tài khoản thành công và thất bại
+- **Thời gian:** `2026-09-18 19:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** test(auth): viết unit test cho API Đăng ký tài khoản thành công và thất bại
