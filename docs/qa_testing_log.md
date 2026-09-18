@@ -244,3 +244,8 @@
 - **Thời gian:** `2026-09-18 13:35:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(bugs): mở báo cáo lỗi QA-BUG-01: Lỗi không trả về mã lỗi 400 khi email sai định dạng
+
+### [2026-09-18] docs(bugs): mở báo cáo lỗi QA-BUG-02: Thiếu trường refresh_token khi đăng nhập thành công
+- **Thời gian:** `2026-09-18 15:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(bugs): mở báo cáo lỗi QA-BUG-02: Thiếu trường refresh_token khi đăng nhập thành công
