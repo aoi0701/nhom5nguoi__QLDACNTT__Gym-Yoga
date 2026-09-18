@@ -239,3 +239,8 @@
 - **Thời gian:** `2026-09-18 10:20:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ AI Recommendation
+
+### [2026-09-18] docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ Phân quyền RBAC
+- **Thời gian:** `2026-09-18 13:35:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ Phân quyền RBAC
