@@ -239,3 +239,8 @@
 - **Thời gian:** `2026-09-18 10:20:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(rbac): xử lý trả về mã lỗi HTTP 403 Forbidden kèm thông báo rõ ràng khi vi phạm quyền
+
+### [2026-09-18] feat(swagger): cập nhật schema docstring cho toàn bộ các endpoint Auth và Profile
+- **Thời gian:** `2026-09-18 13:35:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(swagger): cập nhật schema docstring cho toàn bộ các endpoint Auth và Profile
