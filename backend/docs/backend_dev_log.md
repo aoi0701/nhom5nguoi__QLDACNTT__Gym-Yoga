@@ -244,3 +244,8 @@
 - **Thời gian:** `2026-09-18 13:35:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(swagger): cập nhật schema docstring cho toàn bộ các endpoint Auth và Profile
+
+### [2026-09-18] feat(swagger): cấu hình Security Scheme Bearer Token cho Swagger UI
+- **Thời gian:** `2026-09-18 15:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(swagger): cấu hình Security Scheme Bearer Token cho Swagger UI
