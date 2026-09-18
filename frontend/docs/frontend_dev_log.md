@@ -249,3 +249,8 @@
 - **Thời gian:** `2026-09-18 15:50:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(profile): hiển thị đánh giá thể trạng: Thiếu cân, Bình thường, Thừa cân, Béo phì
+
+### [2026-09-18] feat(navigation): cập nhật trạng thái hiển thị của Navbar khi đã đăng nhập
+- **Thời gian:** `2026-09-18 19:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(navigation): cập nhật trạng thái hiển thị của Navbar khi đã đăng nhập
