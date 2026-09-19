@@ -254,3 +254,8 @@
 - **Thời gian:** `2026-09-18 19:15:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** test(auth): viết unit test cho API Đăng ký tài khoản thành công và thất bại
+
+### [2026-09-19] test(auth): viết unit test cho API Đăng nhập và xác thực JWT token
+- **Thời gian:** `2026-09-19 09:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** test(auth): viết unit test cho API Đăng nhập và xác thực JWT token
