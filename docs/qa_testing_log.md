@@ -264,3 +264,8 @@
 - **Thời gian:** `2026-09-19 11:05:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(erd): vẽ sơ đồ ERD chi tiết kèm kiểu dữ liệu đưa vào tài liệu docs/05_Master_Test_Plan_va_ERD.md
+
+### [2026-09-19] docs(erd): bổ sung từ điển dữ liệu Data Dictionary giải thích ý nghĩa từng bảng và cột
+- **Thời gian:** `2026-09-19 14:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): bổ sung từ điển dữ liệu Data Dictionary giải thích ý nghĩa từng bảng và cột
