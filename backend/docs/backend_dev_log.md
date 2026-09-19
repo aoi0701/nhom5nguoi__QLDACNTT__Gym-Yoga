@@ -274,3 +274,8 @@
 - **Thời gian:** `2026-09-19 16:30:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** fix(auth): sửa lỗi serializer không mã hóa mật khẩu khi tạo người dùng mới
+
+### [2026-09-19] fix(profile): sửa lỗi chia cho 0 khi chiều cao truyền vào bằng 0 trong công thức BMI
+- **Thời gian:** `2026-09-19 18:45:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** fix(profile): sửa lỗi chia cho 0 khi chiều cao truyền vào bằng 0 trong công thức BMI
