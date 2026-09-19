@@ -259,3 +259,8 @@
 - **Thời gian:** `2026-09-19 09:20:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(db): viết script kiểm thử tự động cấu trúc schema CSDL sau khi chạy migration
+
+### [2026-09-19] docs(erd): vẽ sơ đồ ERD chi tiết kèm kiểu dữ liệu đưa vào tài liệu docs/05_Master_Test_Plan_va_ERD.md
+- **Thời gian:** `2026-09-19 11:05:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): vẽ sơ đồ ERD chi tiết kèm kiểu dữ liệu đưa vào tài liệu docs/05_Master_Test_Plan_va_ERD.md
