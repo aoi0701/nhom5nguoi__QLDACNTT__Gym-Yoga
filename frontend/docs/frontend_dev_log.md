@@ -254,3 +254,8 @@
 - **Thời gian:** `2026-09-18 19:15:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(navigation): cập nhật trạng thái hiển thị của Navbar khi đã đăng nhập
+
+### [2026-09-19] feat(navigation): thêm menu người dùng Dropdown hiển thị thông tin cá nhân và nút Đăng xuất
+- **Thời gian:** `2026-09-19 09:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(navigation): thêm menu người dùng Dropdown hiển thị thông tin cá nhân và nút Đăng xuất
