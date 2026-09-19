@@ -274,3 +274,8 @@
 - **Thời gian:** `2026-09-19 16:30:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(coverage): đo lường độ bao phủ kiểm thử các model cơ sở đạt 85%
+
+### [2026-09-19] docs(review): đối chiếu bộ Test Cases với Acceptance Criteria của 200 User Stories
+- **Thời gian:** `2026-09-19 18:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(review): đối chiếu bộ Test Cases với Acceptance Criteria của 200 User Stories
