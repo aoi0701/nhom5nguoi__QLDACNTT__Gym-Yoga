@@ -259,3 +259,8 @@
 - **Thời gian:** `2026-09-19 09:20:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(navigation): thêm menu người dùng Dropdown hiển thị thông tin cá nhân và nút Đăng xuất
+
+### [2026-09-19] style(auth): tinh chỉnh giao diện các form đăng nhập đăng ký theo phong cách hiện đại
+- **Thời gian:** `2026-09-19 11:05:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** style(auth): tinh chỉnh giao diện các form đăng nhập đăng ký theo phong cách hiện đại
