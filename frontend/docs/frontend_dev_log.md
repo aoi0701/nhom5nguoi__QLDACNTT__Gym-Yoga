@@ -274,3 +274,8 @@
 - **Thời gian:** `2026-09-19 16:30:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** test(auth): viết unit test kiểm tra validate form đăng nhập trên client
+
+### [2026-09-19] test(auth): viết unit test kiểm tra xử lý lưu token vào localStorage
+- **Thời gian:** `2026-09-19 18:45:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** test(auth): viết unit test kiểm tra xử lý lưu token vào localStorage
