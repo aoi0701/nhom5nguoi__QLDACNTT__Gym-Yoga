@@ -274,3 +274,8 @@
 - **Thời gian:** `2026-09-19 16:30:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(sprint2): thực hiện Sprint Retrospective: Những điểm làm tốt và cần cải thiện
+
+### [2026-09-19] docs(sprint2): lập biên bản họp kết thúc Sprint 2 và thông qua kế hoạch Sprint 3
+- **Thời gian:** `2026-09-19 18:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint2): lập biên bản họp kết thúc Sprint 2 và thông qua kế hoạch Sprint 3
