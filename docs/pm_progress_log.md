@@ -259,3 +259,8 @@
 - **Thời gian:** `2026-09-19 09:20:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(review): kiểm tra tính đồng bộ giữa tài liệu SRS và bản vẽ thiết kế Figma
+
+### [2026-09-19] docs(review): đối chiếu các ràng buộc CSDL với đặc tả yêu cầu người dùng
+- **Thời gian:** `2026-09-19 11:05:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(review): đối chiếu các ràng buộc CSDL với đặc tả yêu cầu người dùng
