@@ -259,3 +259,8 @@
 - **Thời gian:** `2026-09-19 09:20:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** test(auth): viết unit test cho API Đăng nhập và xác thực JWT token
+
+### [2026-09-19] test(profile): viết unit test cho API cập nhật hồ sơ và kiểm tra kết quả tính BMI
+- **Thời gian:** `2026-09-19 11:05:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** test(profile): viết unit test cho API cập nhật hồ sơ và kiểm tra kết quả tính BMI
