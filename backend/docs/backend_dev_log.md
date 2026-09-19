@@ -264,3 +264,8 @@
 - **Thời gian:** `2026-09-19 11:05:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** test(profile): viết unit test cho API cập nhật hồ sơ và kiểm tra kết quả tính BMI
+
+### [2026-09-19] test(rbac): viết unit test kiểm tra cơ chế phân quyền chặn đúng các vai trò
+- **Thời gian:** `2026-09-19 14:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** test(rbac): viết unit test kiểm tra cơ chế phân quyền chặn đúng các vai trò
