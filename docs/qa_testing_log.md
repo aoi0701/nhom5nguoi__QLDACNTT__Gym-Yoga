@@ -254,3 +254,8 @@
 - **Thời gian:** `2026-09-18 19:15:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(retest): kiểm tra xác nhận đóng lỗi sau khi Backend sửa xong QA-BUG-01 và QA-BUG-02
+
+### [2026-09-19] test(db): viết script kiểm thử tự động cấu trúc schema CSDL sau khi chạy migration
+- **Thời gian:** `2026-09-19 09:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(db): viết script kiểm thử tự động cấu trúc schema CSDL sau khi chạy migration
