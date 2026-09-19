@@ -254,3 +254,8 @@
 - **Thời gian:** `2026-09-18 19:15:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(activity): thiết kế sơ đồ hoạt động Activity Diagram cho luồng AI Wizard & Fallback
+
+### [2026-09-19] docs(flow): xây dựng sơ đồ luồng dữ liệu Data Flow Diagram (DFD mức 0 và mức 1)
+- **Thời gian:** `2026-09-19 09:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(flow): xây dựng sơ đồ luồng dữ liệu Data Flow Diagram (DFD mức 0 và mức 1)
