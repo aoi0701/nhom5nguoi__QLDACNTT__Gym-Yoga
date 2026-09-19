@@ -269,3 +269,8 @@
 - **Thời gian:** `2026-09-19 14:15:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(sprint2): tổng kết buổi họp Sprint 2 Review và đánh giá các sản phẩm bàn giao
+
+### [2026-09-19] docs(sprint2): thực hiện Sprint Retrospective: Những điểm làm tốt và cần cải thiện
+- **Thời gian:** `2026-09-19 16:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint2): thực hiện Sprint Retrospective: Những điểm làm tốt và cần cải thiện
