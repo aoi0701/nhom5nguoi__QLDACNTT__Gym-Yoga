@@ -269,3 +269,8 @@
 - **Thời gian:** `2026-09-19 14:15:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** test(rbac): viết unit test kiểm tra cơ chế phân quyền chặn đúng các vai trò
+
+### [2026-09-19] fix(auth): sửa lỗi serializer không mã hóa mật khẩu khi tạo người dùng mới
+- **Thời gian:** `2026-09-19 16:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** fix(auth): sửa lỗi serializer không mã hóa mật khẩu khi tạo người dùng mới
