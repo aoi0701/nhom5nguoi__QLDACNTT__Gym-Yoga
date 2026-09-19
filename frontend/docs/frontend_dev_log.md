@@ -264,3 +264,8 @@
 - **Thời gian:** `2026-09-19 11:05:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** style(auth): tinh chỉnh giao diện các form đăng nhập đăng ký theo phong cách hiện đại
+
+### [2026-09-19] style(cards): thiết kế các mẫu thẻ Card hiển thị nội dung nổi bật
+- **Thời gian:** `2026-09-19 14:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** style(cards): thiết kế các mẫu thẻ Card hiển thị nội dung nổi bật
