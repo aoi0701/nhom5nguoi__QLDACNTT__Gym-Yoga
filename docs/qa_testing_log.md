@@ -269,3 +269,8 @@
 - **Thời gian:** `2026-09-19 14:15:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(erd): bổ sung từ điển dữ liệu Data Dictionary giải thích ý nghĩa từng bảng và cột
+
+### [2026-09-19] test(coverage): đo lường độ bao phủ kiểm thử các model cơ sở đạt 85%
+- **Thời gian:** `2026-09-19 16:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(coverage): đo lường độ bao phủ kiểm thử các model cơ sở đạt 85%
