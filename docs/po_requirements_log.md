@@ -259,3 +259,8 @@
 - **Thời gian:** `2026-09-19 09:20:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(flow): xây dựng sơ đồ luồng dữ liệu Data Flow Diagram (DFD mức 0 và mức 1)
+
+### [2026-09-19] docs(ui): phối hợp với Frontend rà soát luồng trải nghiệm người dùng trên wireframe
+- **Thời gian:** `2026-09-19 11:05:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ui): phối hợp với Frontend rà soát luồng trải nghiệm người dùng trên wireframe
