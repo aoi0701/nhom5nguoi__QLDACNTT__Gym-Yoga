@@ -274,3 +274,8 @@
 - **Thời gian:** `2026-09-19 16:30:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(backlog): chuẩn hóa cấu trúc 200 User Stories đạt tiêu chí INVEST chuẩn Agile
+
+### [2026-09-19] docs(backlog): gắn nhãn phân loại (labels) và độ ưu tiên (Priority P1-P4) cho 200 issues
+- **Thời gian:** `2026-09-19 18:45:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(backlog): gắn nhãn phân loại (labels) và độ ưu tiên (Priority P1-P4) cho 200 issues
