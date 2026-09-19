@@ -254,3 +254,8 @@
 - **Thời gian:** `2026-09-18 19:15:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(scope): rà soát lại phạm vi hệ thống đảm bảo không phát sinh tính năng ngoài
+
+### [2026-09-19] docs(review): kiểm tra tính đồng bộ giữa tài liệu SRS và bản vẽ thiết kế Figma
+- **Thời gian:** `2026-09-19 09:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(review): kiểm tra tính đồng bộ giữa tài liệu SRS và bản vẽ thiết kế Figma
