@@ -269,3 +269,8 @@
 - **Thời gian:** `2026-09-19 14:15:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** style(cards): thiết kế các mẫu thẻ Card hiển thị nội dung nổi bật
+
+### [2026-09-19] test(auth): viết unit test kiểm tra validate form đăng nhập trên client
+- **Thời gian:** `2026-09-19 16:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** test(auth): viết unit test kiểm tra validate form đăng nhập trên client
