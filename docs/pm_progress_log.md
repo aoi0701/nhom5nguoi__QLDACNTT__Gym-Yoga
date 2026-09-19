@@ -264,3 +264,8 @@
 - **Thời gian:** `2026-09-19 11:05:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(review): đối chiếu các ràng buộc CSDL với đặc tả yêu cầu người dùng
+
+### [2026-09-19] docs(sprint2): tổng kết buổi họp Sprint 2 Review và đánh giá các sản phẩm bàn giao
+- **Thời gian:** `2026-09-19 14:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint2): tổng kết buổi họp Sprint 2 Review và đánh giá các sản phẩm bàn giao
