@@ -279,3 +279,8 @@
 - **Thời gian:** `2026-09-19 18:45:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** fix(profile): sửa lỗi chia cho 0 khi chiều cao truyền vào bằng 0 trong công thức BMI
+
+### [2026-09-20] refactor(code): tối ưu hóa cấu trúc thư mục module hóa các views và serializers
+- **Thời gian:** `2026-09-20 09:05:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** refactor(code): tối ưu hóa cấu trúc thư mục module hóa các views và serializers
