@@ -294,3 +294,8 @@
 - **Thời gian:** `2026-09-20 14:10:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** docs(sprint2): hoàn thành toàn bộ mục tiêu phát triển phân hệ Auth & RBAC Sprint 2
+
+### [2026-09-20] docs(milestone2): xác nhận nghiệm thu kỹ thuật phân hệ Backend mốc Milestone 2
+- **Thời gian:** `2026-09-20 16:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** docs(milestone2): xác nhận nghiệm thu kỹ thuật phân hệ Backend mốc Milestone 2
