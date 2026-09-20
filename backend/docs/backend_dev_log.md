@@ -289,3 +289,8 @@
 - **Thời gian:** `2026-09-20 11:25:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** docs(api): cập nhật hợp đồng API Contract trong thư mục docs/ bàn giao cho Frontend
+
+### [2026-09-20] docs(sprint2): hoàn thành toàn bộ mục tiêu phát triển phân hệ Auth & RBAC Sprint 2
+- **Thời gian:** `2026-09-20 14:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** docs(sprint2): hoàn thành toàn bộ mục tiêu phát triển phân hệ Auth & RBAC Sprint 2
