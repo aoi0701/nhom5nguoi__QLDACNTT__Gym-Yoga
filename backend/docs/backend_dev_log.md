@@ -284,3 +284,8 @@
 - **Thời gian:** `2026-09-20 09:05:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** refactor(code): tối ưu hóa cấu trúc thư mục module hóa các views và serializers
+
+### [2026-09-20] docs(api): cập nhật hợp đồng API Contract trong thư mục docs/ bàn giao cho Frontend
+- **Thời gian:** `2026-09-20 11:25:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** docs(api): cập nhật hợp đồng API Contract trong thư mục docs/ bàn giao cho Frontend
