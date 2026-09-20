@@ -279,3 +279,8 @@
 - **Thời gian:** `2026-09-19 18:45:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(sprint2): lập biên bản họp kết thúc Sprint 2 và thông qua kế hoạch Sprint 3
+
+### [2026-09-20] docs(metrics): thống kê các chỉ số nỗ lực (Effort Variance) và chi phí (Cost Variance)
+- **Thời gian:** `2026-09-20 09:05:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(metrics): thống kê các chỉ số nỗ lực (Effort Variance) và chi phí (Cost Variance)
