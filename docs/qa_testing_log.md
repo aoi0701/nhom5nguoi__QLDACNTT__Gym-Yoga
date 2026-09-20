@@ -284,3 +284,8 @@
 - **Thời gian:** `2026-09-20 09:05:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(sprint2): tổng kết kết quả kiểm thử Sprint 2: 70/70 Test Cases đạt chuẩn
+
+### [2026-09-20] docs(sprint2): lập báo cáo chất lượng mã nguồn và cơ sở dữ liệu gửi PM phê duyệt
+- **Thời gian:** `2026-09-20 11:25:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(sprint2): lập báo cáo chất lượng mã nguồn và cơ sở dữ liệu gửi PM phê duyệt
