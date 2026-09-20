@@ -294,3 +294,8 @@
 - **Thời gian:** `2026-09-20 14:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(audit): kiểm tra tính toàn vẹn của hồ sơ dự án trước khi chuyển giai đoạn code
+
+### [2026-09-20] docs(milestone2): hoàn thành hồ sơ nghiệm thu mốc Milestone 2 của đồ án
+- **Thời gian:** `2026-09-20 16:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(milestone2): hoàn thành hồ sơ nghiệm thu mốc Milestone 2 của đồ án
