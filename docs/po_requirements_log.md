@@ -279,3 +279,8 @@
 - **Thời gian:** `2026-09-19 18:45:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(backlog): gắn nhãn phân loại (labels) và độ ưu tiên (Priority P1-P4) cho 200 issues
+
+### [2026-09-20] docs(review): tổ chức buổi Backlog Refinement với cả nhóm để làm rõ yêu cầu
+- **Thời gian:** `2026-09-20 09:05:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(review): tổ chức buổi Backlog Refinement với cả nhóm để làm rõ yêu cầu
