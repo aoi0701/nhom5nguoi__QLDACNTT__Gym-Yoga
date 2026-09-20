@@ -279,3 +279,8 @@
 - **Thời gian:** `2026-09-19 18:45:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** test(auth): viết unit test kiểm tra xử lý lưu token vào localStorage
+
+### [2026-09-20] fix(api): sửa lỗi mất token khi người dùng refresh lại trang web
+- **Thời gian:** `2026-09-20 09:05:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** fix(api): sửa lỗi mất token khi người dùng refresh lại trang web
