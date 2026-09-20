@@ -1,4 +1,4 @@
-# NHẬT KÝ HOẠT ĐỘNG SPRINT 1 - VAI TRÒ PM
+# NHẬT KÝ HOẠT ĐỘNG SPRINT 1+2 - VAI TRÒ PM
 
 ### [2026-09-07] docs(charter): khởi tạo dự thảo tôn chỉ dự án Project Charter và mục tiêu 8 tuần
 - **Thời gian:** `2026-09-07 08:30:00 +0700`
@@ -149,3 +149,153 @@
 - **Thời gian:** `2026-09-13 16:45:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(sprint1): hoàn thiện hồ sơ nghiệm thu mốc Milestone 1 gửi Giảng viên hướng dẫn
+
+### [2026-09-14] docs(sprint2): tổ chức cuộc họp Sprint 2 Planning và xác định mục tiêu tuần 2
+- **Thời gian:** `2026-09-14 08:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint2): tổ chức cuộc họp Sprint 2 Planning và xác định mục tiêu tuần 2
+
+### [2026-09-14] docs(sprint2): phân bổ 60 Story Points cho các thành viên trong Sprint 2
+- **Thời gian:** `2026-09-14 10:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint2): phân bổ 60 Story Points cho các thành viên trong Sprint 2
+
+### [2026-09-14] docs(risk): thiết lập bảng theo dõi và quản lý rủi ro kỹ thuật Risk Register
+- **Thời gian:** `2026-09-14 14:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(risk): thiết lập bảng theo dõi và quản lý rủi ro kỹ thuật Risk Register
+
+### [2026-09-14] docs(risk): đánh giá rủi ro phụ thuộc API AI bên ngoài và đề xuất phương án Fallback
+- **Thời gian:** `2026-09-14 16:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(risk): đánh giá rủi ro phụ thuộc API AI bên ngoài và đề xuất phương án Fallback
+
+### [2026-09-15] docs(risk): cập nhật kế hoạch ứng phó rủi ro bảo mật dữ liệu người dùng
+- **Thời gian:** `2026-09-15 09:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(risk): cập nhật kế hoạch ứng phó rủi ro bảo mật dữ liệu người dùng
+
+### [2026-09-15] chore(jira): cập nhật backlog Sprint 2 và kích hoạt Sprint trên Jira
+- **Thời gian:** `2026-09-15 11:25:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(jira): cập nhật backlog Sprint 2 và kích hoạt Sprint trên Jira
+
+### [2026-09-15] docs(daily): ghi nhận biên bản Daily Standup ngày 15/09 về tiến độ ERD và Figma
+- **Thời gian:** `2026-09-15 13:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): ghi nhận biên bản Daily Standup ngày 15/09 về tiến độ ERD và Figma
+
+### [2026-09-15] docs(quality): soạn thảo kế hoạch quản lý chất lượng Quality Management Plan
+- **Thời gian:** `2026-09-15 17:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(quality): soạn thảo kế hoạch quản lý chất lượng Quality Management Plan
+
+### [2026-09-16] docs(quality): xác định các chỉ số đo lường chất lượng mã nguồn và tài liệu
+- **Thời gian:** `2026-09-16 08:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(quality): xác định các chỉ số đo lường chất lượng mã nguồn và tài liệu
+
+### [2026-09-16] chore(scripts): viết script tự động hóa import 200 User Stories lên backlog
+- **Thời gian:** `2026-09-16 10:35:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(scripts): viết script tự động hóa import 200 User Stories lên backlog
+
+### [2026-09-16] chore(scripts): kiểm tra tính hợp lệ của dữ liệu 200 issues trong tệp json
+- **Thời gian:** `2026-09-16 14:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(scripts): kiểm tra tính hợp lệ của dữ liệu 200 issues trong tệp json
+
+### [2026-09-16] chore(scripts): bổ sung cơ chế xử lý rate-limit khi đồng bộ issues qua API
+- **Thời gian:** `2026-09-16 18:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(scripts): bổ sung cơ chế xử lý rate-limit khi đồng bộ issues qua API
+
+### [2026-09-17] docs(daily): ghi nhận biên bản Daily Standup ngày 17/09 về tiến độ JWT backend
+- **Thời gian:** `2026-09-17 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): ghi nhận biên bản Daily Standup ngày 17/09 về tiến độ JWT backend
+
+### [2026-09-17] docs(burndown): cập nhật biểu đồ burn-down chart và theo dõi tiến độ tuần 2
+- **Thời gian:** `2026-09-17 11:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(burndown): cập nhật biểu đồ burn-down chart và theo dõi tiến độ tuần 2
+
+### [2026-09-17] docs(velocity): đo lường vận tốc thực tế của đội ngũ và cân đối tải công việc
+- **Thời gian:** `2026-09-17 14:00:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(velocity): đo lường vận tốc thực tế của đội ngũ và cân đối tải công việc
+
+### [2026-09-17] chore(ci): bổ sung bước kiểm tra format mã nguồn với ruff và eslint trong CI
+- **Thời gian:** `2026-09-17 16:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(ci): bổ sung bước kiểm tra format mã nguồn với ruff và eslint trong CI
+
+### [2026-09-18] chore(ci): cấu hình thông báo trạng thái build qua webhook
+- **Thời gian:** `2026-09-18 08:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(ci): cấu hình thông báo trạng thái build qua webhook
+
+### [2026-09-18] docs(daily): ghi nhận biên bản Daily Standup ngày 19/09 về giao diện React
+- **Thời gian:** `2026-09-18 10:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): ghi nhận biên bản Daily Standup ngày 19/09 về giao diện React
+
+### [2026-09-18] docs(comm): đánh giá hiệu quả kênh giao tiếp Slack/Discord và tài liệu nhóm
+- **Thời gian:** `2026-09-18 13:35:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(comm): đánh giá hiệu quả kênh giao tiếp Slack/Discord và tài liệu nhóm
+
+### [2026-09-18] docs(wbs): cập nhật trạng thái hoàn thành các gói công việc WBS tuần 2
+- **Thời gian:** `2026-09-18 15:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(wbs): cập nhật trạng thái hoàn thành các gói công việc WBS tuần 2
+
+### [2026-09-18] docs(scope): rà soát lại phạm vi hệ thống đảm bảo không phát sinh tính năng ngoài
+- **Thời gian:** `2026-09-18 19:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(scope): rà soát lại phạm vi hệ thống đảm bảo không phát sinh tính năng ngoài
+
+### [2026-09-19] docs(review): kiểm tra tính đồng bộ giữa tài liệu SRS và bản vẽ thiết kế Figma
+- **Thời gian:** `2026-09-19 09:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(review): kiểm tra tính đồng bộ giữa tài liệu SRS và bản vẽ thiết kế Figma
+
+### [2026-09-19] docs(review): đối chiếu các ràng buộc CSDL với đặc tả yêu cầu người dùng
+- **Thời gian:** `2026-09-19 11:05:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(review): đối chiếu các ràng buộc CSDL với đặc tả yêu cầu người dùng
+
+### [2026-09-19] docs(sprint2): tổng kết buổi họp Sprint 2 Review và đánh giá các sản phẩm bàn giao
+- **Thời gian:** `2026-09-19 14:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint2): tổng kết buổi họp Sprint 2 Review và đánh giá các sản phẩm bàn giao
+
+### [2026-09-19] docs(sprint2): thực hiện Sprint Retrospective: Những điểm làm tốt và cần cải thiện
+- **Thời gian:** `2026-09-19 16:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint2): thực hiện Sprint Retrospective: Những điểm làm tốt và cần cải thiện
+
+### [2026-09-19] docs(sprint2): lập biên bản họp kết thúc Sprint 2 và thông qua kế hoạch Sprint 3
+- **Thời gian:** `2026-09-19 18:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint2): lập biên bản họp kết thúc Sprint 2 và thông qua kế hoạch Sprint 3
+
+### [2026-09-20] docs(metrics): thống kê các chỉ số nỗ lực (Effort Variance) và chi phí (Cost Variance)
+- **Thời gian:** `2026-09-20 09:05:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(metrics): thống kê các chỉ số nỗ lực (Effort Variance) và chi phí (Cost Variance)
+
+### [2026-09-20] docs(baseline): cập nhật đường cơ sở tiến độ Schedule Baseline sau 2 tuần
+- **Thời gian:** `2026-09-20 11:25:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(baseline): cập nhật đường cơ sở tiến độ Schedule Baseline sau 2 tuần
+
+### [2026-09-20] docs(audit): kiểm tra tính toàn vẹn của hồ sơ dự án trước khi chuyển giai đoạn code
+- **Thời gian:** `2026-09-20 14:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(audit): kiểm tra tính toàn vẹn của hồ sơ dự án trước khi chuyển giai đoạn code
+
+### [2026-09-20] docs(milestone2): hoàn thành hồ sơ nghiệm thu mốc Milestone 2 của đồ án
+- **Thời gian:** `2026-09-20 16:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(milestone2): hoàn thành hồ sơ nghiệm thu mốc Milestone 2 của đồ án
