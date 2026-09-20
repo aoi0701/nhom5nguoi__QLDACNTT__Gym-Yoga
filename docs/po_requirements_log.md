@@ -284,3 +284,8 @@
 - **Thời gian:** `2026-09-20 09:05:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(review): tổ chức buổi Backlog Refinement với cả nhóm để làm rõ yêu cầu
+
+### [2026-09-20] docs(sprint2): hoàn thiện tài liệu SRS v2.0 đầy đủ sơ đồ và tiêu chí nghiệm thu
+- **Thời gian:** `2026-09-20 11:25:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(sprint2): hoàn thiện tài liệu SRS v2.0 đầy đủ sơ đồ và tiêu chí nghiệm thu
