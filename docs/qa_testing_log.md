@@ -1,4 +1,4 @@
-# NHẬT KÝ HOẠT ĐỘNG SPRINT 1 - VAI TRÒ QA
+# NHẬT KÝ HOẠT ĐỘNG SPRINT 1+2 - VAI TRÒ QA
 
 ### [2026-09-07] docs(erd): khảo sát các thực thể dữ liệu cốt lõi trong hệ thống quản lý Gym-Yoga
 - **Thời gian:** `2026-09-07 08:30:00 +0700`
@@ -149,3 +149,153 @@
 - **Thời gian:** `2026-09-13 16:45:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(milestone1): hoàn tất các mục tiêu thiết kế CSDL sơ khởi và kế hoạch kiểm thử Milestone 1
+
+### [2026-09-14] docs(sprint2): tiếp nhận tài liệu SRS v2.0 và lập kế hoạch kiểm thử chi tiết cho Sprint 2
+- **Thời gian:** `2026-09-14 08:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(sprint2): tiếp nhận tài liệu SRS v2.0 và lập kế hoạch kiểm thử chi tiết cho Sprint 2
+
+### [2026-09-14] docs(erd): chuẩn hóa mô hình dữ liệu quan hệ đạt chuẩn dạng chuẩn 3 (3NF)
+- **Thời gian:** `2026-09-14 10:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): chuẩn hóa mô hình dữ liệu quan hệ đạt chuẩn dạng chuẩn 3 (3NF)
+
+### [2026-09-14] docs(erd): loại bỏ các phụ thuộc bắc cầu và phân rã các bảng đảm bảo toàn vẹn dữ liệu
+- **Thời gian:** `2026-09-14 14:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): loại bỏ các phụ thuộc bắc cầu và phân rã các bảng đảm bảo toàn vẹn dữ liệu
+
+### [2026-09-14] database(schema): hoàn thiện tệp DDL database/schema.sql với đầy đủ ràng buộc
+- **Thời gian:** `2026-09-14 16:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(schema): hoàn thiện tệp DDL database/schema.sql với đầy đủ ràng buộc
+
+### [2026-09-15] database(relations): thiết kế bảng liên kết user_roles quản lý quan hệ nhiều-nhiều
+- **Thời gian:** `2026-09-15 09:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(relations): thiết kế bảng liên kết user_roles quản lý quan hệ nhiều-nhiều
+
+### [2026-09-15] database(relations): thiết kế bảng liên kết role_permissions gán quyền cho vai trò
+- **Thời gian:** `2026-09-15 11:25:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(relations): thiết kế bảng liên kết role_permissions gán quyền cho vai trò
+
+### [2026-09-15] database(exercises): thiết kế bảng exercises, muscle_groups và equipments
+- **Thời gian:** `2026-09-15 13:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(exercises): thiết kế bảng exercises, muscle_groups và equipments
+
+### [2026-09-15] database(plans): thiết kế bảng workout_plans và ai_recommendations
+- **Thời gian:** `2026-09-15 17:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(plans): thiết kế bảng workout_plans và ai_recommendations
+
+### [2026-09-16] database(ratings): thiết kế bảng exercise_ratings lưu đánh giá 1-5 sao và bình luận
+- **Thời gian:** `2026-09-16 08:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(ratings): thiết kế bảng exercise_ratings lưu đánh giá 1-5 sao và bình luận
+
+### [2026-09-16] database(keys): bổ sung khóa ngoại ON DELETE CASCADE và ON DELETE SET NULL hợp lý
+- **Thời gian:** `2026-09-16 10:35:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(keys): bổ sung khóa ngoại ON DELETE CASCADE và ON DELETE SET NULL hợp lý
+
+### [2026-09-16] database(constraints): thêm ràng buộc CHECK cho email, rating và các trường bắt buộc
+- **Thời gian:** `2026-09-16 14:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(constraints): thêm ràng buộc CHECK cho email, rating và các trường bắt buộc
+
+### [2026-09-16] test(cases): viết 20 Test Cases kiểm thử tính toàn vẹn tham chiếu khóa ngoại trong CSDL
+- **Thời gian:** `2026-09-16 18:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(cases): viết 20 Test Cases kiểm thử tính toàn vẹn tham chiếu khóa ngoại trong CSDL
+
+### [2026-09-17] test(cases): viết 25 Test Cases kiểm thử API Đăng ký và Đăng nhập cấp phát JWT
+- **Thời gian:** `2026-09-17 09:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(cases): viết 25 Test Cases kiểm thử API Đăng ký và Đăng nhập cấp phát JWT
+
+### [2026-09-17] test(cases): viết 15 Test Cases kiểm thử tính bảo mật: mật khẩu mã hóa bcrypt, không lộ hash
+- **Thời gian:** `2026-09-17 11:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(cases): viết 15 Test Cases kiểm thử tính bảo mật: mật khẩu mã hóa bcrypt, không lộ hash
+
+### [2026-09-17] test(cases): viết 20 Test Cases kiểm thử API Cập nhật hồ sơ thể trạng và giới hạn giá trị BMI
+- **Thời gian:** `2026-09-17 14:00:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(cases): viết 20 Test Cases kiểm thử API Cập nhật hồ sơ thể trạng và giới hạn giá trị BMI
+
+### [2026-09-17] test(postman): xây dựng Postman Collection kiểm thử tự động cho toàn bộ Auth API
+- **Thời gian:** `2026-09-17 16:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(postman): xây dựng Postman Collection kiểm thử tự động cho toàn bộ Auth API
+
+### [2026-09-18] test(postman): thiết lập Postman Environment và biến môi trường lưu tự động Bearer Token
+- **Thời gian:** `2026-09-18 08:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(postman): thiết lập Postman Environment và biến môi trường lưu tự động Bearer Token
+
+### [2026-09-18] test(execution): thực thi bộ Test Cases Auth trên Postman và ghi nhận kết quả
+- **Thời gian:** `2026-09-18 10:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(execution): thực thi bộ Test Cases Auth trên Postman và ghi nhận kết quả
+
+### [2026-09-18] docs(bugs): mở báo cáo lỗi QA-BUG-01: Lỗi không trả về mã lỗi 400 khi email sai định dạng
+- **Thời gian:** `2026-09-18 13:35:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(bugs): mở báo cáo lỗi QA-BUG-01: Lỗi không trả về mã lỗi 400 khi email sai định dạng
+
+### [2026-09-18] docs(bugs): mở báo cáo lỗi QA-BUG-02: Thiếu trường refresh_token khi đăng nhập thành công
+- **Thời gian:** `2026-09-18 15:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(bugs): mở báo cáo lỗi QA-BUG-02: Thiếu trường refresh_token khi đăng nhập thành công
+
+### [2026-09-18] test(retest): kiểm tra xác nhận đóng lỗi sau khi Backend sửa xong QA-BUG-01 và QA-BUG-02
+- **Thời gian:** `2026-09-18 19:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(retest): kiểm tra xác nhận đóng lỗi sau khi Backend sửa xong QA-BUG-01 và QA-BUG-02
+
+### [2026-09-19] test(db): viết script kiểm thử tự động cấu trúc schema CSDL sau khi chạy migration
+- **Thời gian:** `2026-09-19 09:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(db): viết script kiểm thử tự động cấu trúc schema CSDL sau khi chạy migration
+
+### [2026-09-19] docs(erd): vẽ sơ đồ ERD chi tiết kèm kiểu dữ liệu đưa vào tài liệu docs/05_Master_Test_Plan_va_ERD.md
+- **Thời gian:** `2026-09-19 11:05:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): vẽ sơ đồ ERD chi tiết kèm kiểu dữ liệu đưa vào tài liệu docs/05_Master_Test_Plan_va_ERD.md
+
+### [2026-09-19] docs(erd): bổ sung từ điển dữ liệu Data Dictionary giải thích ý nghĩa từng bảng và cột
+- **Thời gian:** `2026-09-19 14:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(erd): bổ sung từ điển dữ liệu Data Dictionary giải thích ý nghĩa từng bảng và cột
+
+### [2026-09-19] test(coverage): đo lường độ bao phủ kiểm thử các model cơ sở đạt 85%
+- **Thời gian:** `2026-09-19 16:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(coverage): đo lường độ bao phủ kiểm thử các model cơ sở đạt 85%
+
+### [2026-09-19] docs(review): đối chiếu bộ Test Cases với Acceptance Criteria của 200 User Stories
+- **Thời gian:** `2026-09-19 18:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(review): đối chiếu bộ Test Cases với Acceptance Criteria của 200 User Stories
+
+### [2026-09-20] docs(sprint2): tổng kết kết quả kiểm thử Sprint 2: 70/70 Test Cases đạt chuẩn
+- **Thời gian:** `2026-09-20 09:05:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(sprint2): tổng kết kết quả kiểm thử Sprint 2: 70/70 Test Cases đạt chuẩn
+
+### [2026-09-20] docs(sprint2): lập báo cáo chất lượng mã nguồn và cơ sở dữ liệu gửi PM phê duyệt
+- **Thời gian:** `2026-09-20 11:25:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(sprint2): lập báo cáo chất lượng mã nguồn và cơ sở dữ liệu gửi PM phê duyệt
+
+### [2026-09-20] test(backup): viết kịch bản sao lưu pg_dump và phục hồi dữ liệu thử nghiệm
+- **Thời gian:** `2026-09-20 14:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(backup): viết kịch bản sao lưu pg_dump và phục hồi dữ liệu thử nghiệm
+
+### [2026-09-20] docs(milestone2): hoàn thành xuất sắc mục tiêu kiểm thử và chuẩn hóa CSDL Milestone 2
+- **Thời gian:** `2026-09-20 16:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(milestone2): hoàn thành xuất sắc mục tiêu kiểm thử và chuẩn hóa CSDL Milestone 2

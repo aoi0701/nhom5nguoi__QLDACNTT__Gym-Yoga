@@ -1,4 +1,4 @@
-# NHẬT KÝ HOẠT ĐỘNG SPRINT 1 - VAI TRÒ PO
+# NHẬT KÝ HOẠT ĐỘNG SPRINT 1+2 - VAI TRÒ PO
 
 ### [2026-09-07] docs(survey): lên kế hoạch khảo sát thực tế tại các phòng tập Gym và Yoga
 - **Thời gian:** `2026-09-07 08:30:00 +0700`
@@ -149,3 +149,153 @@
 - **Thời gian:** `2026-09-13 16:45:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(sprint1): hoàn thiện gói sản phẩm đặc tả yêu cầu Sprint 1 bàn giao cho đội thiết kế
+
+### [2026-09-14] docs(sprint2): tiếp nhận phản hồi từ đội ngũ kỹ thuật và cập nhật Product Backlog
+- **Thời gian:** `2026-09-14 08:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(sprint2): tiếp nhận phản hồi từ đội ngũ kỹ thuật và cập nhật Product Backlog
+
+### [2026-09-14] feat(stories): soạn thảo User Story US41 đến US50: Danh mục bài tập Gym cơ Ngực và Lưng
+- **Thời gian:** `2026-09-14 10:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US41 đến US50: Danh mục bài tập Gym cơ Ngực và Lưng
+
+### [2026-09-14] feat(stories): soạn thảo User Story US51 đến US60: Danh mục bài tập Gym cơ Chân, Vai và Tay
+- **Thời gian:** `2026-09-14 14:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US51 đến US60: Danh mục bài tập Gym cơ Chân, Vai và Tay
+
+### [2026-09-14] feat(stories): soạn thảo User Story US61 đến US70: Danh mục bài tập Yoga phục hồi và dẻo dai
+- **Thời gian:** `2026-09-14 16:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US61 đến US70: Danh mục bài tập Yoga phục hồi và dẻo dai
+
+### [2026-09-15] feat(stories): soạn thảo User Story US71 đến US80: Danh mục bài tập Yoga tăng cường thăng bằng
+- **Thời gian:** `2026-09-15 09:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US71 đến US80: Danh mục bài tập Yoga tăng cường thăng bằng
+
+### [2026-09-15] feat(stories): soạn thảo User Story US81 đến US90: Động cơ AI phân tích dữ liệu thể trạng
+- **Thời gian:** `2026-09-15 11:25:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US81 đến US90: Động cơ AI phân tích dữ liệu thể trạng
+
+### [2026-09-15] feat(stories): soạn thảo User Story US91 đến US100: Động cơ AI sinh lịch tập cá nhân hóa 7 ngày
+- **Thời gian:** `2026-09-15 13:45:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US91 đến US100: Động cơ AI sinh lịch tập cá nhân hóa 7 ngày
+
+### [2026-09-15] feat(stories): soạn thảo User Story US101 đến US110: Cơ chế dự phòng Fallback Engine khi mất mạng AI
+- **Thời gian:** `2026-09-15 17:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US101 đến US110: Cơ chế dự phòng Fallback Engine khi mất mạng AI
+
+### [2026-09-16] feat(stories): soạn thảo User Story US111 đến US120: Quản lý phân quyền RBAC cho Admin, PT và Member
+- **Thời gian:** `2026-09-16 08:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US111 đến US120: Quản lý phân quyền RBAC cho Admin, PT và Member
+
+### [2026-09-16] docs(srs): cập nhật chương 3 tài liệu SRS: Yêu cầu chức năng chi tiết cho 200 Stories
+- **Thời gian:** `2026-09-16 10:35:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(srs): cập nhật chương 3 tài liệu SRS: Yêu cầu chức năng chi tiết cho 200 Stories
+
+### [2026-09-16] docs(srs): viết chương 4: Yêu cầu phi chức năng về hiệu năng, bảo mật và độ khả dụng
+- **Thời gian:** `2026-09-16 14:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(srs): viết chương 4: Yêu cầu phi chức năng về hiệu năng, bảo mật và độ khả dụng
+
+### [2026-09-16] docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng Auth
+- **Thời gian:** `2026-09-16 18:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng Auth
+
+### [2026-09-17] docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng Profile & BMI
+- **Thời gian:** `2026-09-17 09:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng Profile & BMI
+
+### [2026-09-17] docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng Thư viện bài tập
+- **Thời gian:** `2026-09-17 11:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng Thư viện bài tập
+
+### [2026-09-17] docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng AI Engine
+- **Thời gian:** `2026-09-17 14:00:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng AI Engine
+
+### [2026-09-17] docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng RBAC Matrix
+- **Thời gian:** `2026-09-17 16:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): xây dựng tiêu chí nghiệm thu Acceptance Criteria cho nhóm tính năng RBAC Matrix
+
+### [2026-09-18] docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ Quản lý Bài tập
+- **Thời gian:** `2026-09-18 08:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ Quản lý Bài tập
+
+### [2026-09-18] docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ AI Recommendation
+- **Thời gian:** `2026-09-18 10:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ AI Recommendation
+
+### [2026-09-18] docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ Phân quyền RBAC
+- **Thời gian:** `2026-09-18 13:35:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(usecase): vẽ sơ đồ Use Case phân rã cho phân hệ Phân quyền RBAC
+
+### [2026-09-18] docs(activity): thiết kế sơ đồ hoạt động Activity Diagram cho luồng Đăng nhập & RBAC Guard
+- **Thời gian:** `2026-09-18 15:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(activity): thiết kế sơ đồ hoạt động Activity Diagram cho luồng Đăng nhập & RBAC Guard
+
+### [2026-09-18] docs(activity): thiết kế sơ đồ hoạt động Activity Diagram cho luồng AI Wizard & Fallback
+- **Thời gian:** `2026-09-18 19:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(activity): thiết kế sơ đồ hoạt động Activity Diagram cho luồng AI Wizard & Fallback
+
+### [2026-09-19] docs(flow): xây dựng sơ đồ luồng dữ liệu Data Flow Diagram (DFD mức 0 và mức 1)
+- **Thời gian:** `2026-09-19 09:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(flow): xây dựng sơ đồ luồng dữ liệu Data Flow Diagram (DFD mức 0 và mức 1)
+
+### [2026-09-19] docs(ui): phối hợp với Frontend rà soát luồng trải nghiệm người dùng trên wireframe
+- **Thời gian:** `2026-09-19 11:05:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ui): phối hợp với Frontend rà soát luồng trải nghiệm người dùng trên wireframe
+
+### [2026-09-19] docs(db): phối hợp với Database QA kiểm tra tính đầy đủ của các thuộc tính dữ liệu
+- **Thời gian:** `2026-09-19 14:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(db): phối hợp với Database QA kiểm tra tính đầy đủ của các thuộc tính dữ liệu
+
+### [2026-09-19] docs(backlog): chuẩn hóa cấu trúc 200 User Stories đạt tiêu chí INVEST chuẩn Agile
+- **Thời gian:** `2026-09-19 16:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(backlog): chuẩn hóa cấu trúc 200 User Stories đạt tiêu chí INVEST chuẩn Agile
+
+### [2026-09-19] docs(backlog): gắn nhãn phân loại (labels) và độ ưu tiên (Priority P1-P4) cho 200 issues
+- **Thời gian:** `2026-09-19 18:45:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(backlog): gắn nhãn phân loại (labels) và độ ưu tiên (Priority P1-P4) cho 200 issues
+
+### [2026-09-20] docs(review): tổ chức buổi Backlog Refinement với cả nhóm để làm rõ yêu cầu
+- **Thời gian:** `2026-09-20 09:05:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(review): tổ chức buổi Backlog Refinement với cả nhóm để làm rõ yêu cầu
+
+### [2026-09-20] docs(sprint2): hoàn thiện tài liệu SRS v2.0 đầy đủ sơ đồ và tiêu chí nghiệm thu
+- **Thời gian:** `2026-09-20 11:25:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(sprint2): hoàn thiện tài liệu SRS v2.0 đầy đủ sơ đồ và tiêu chí nghiệm thu
+
+### [2026-09-20] docs(sprint2): thẩm định tính khả thi của các kịch bản AI Prompt với Backend
+- **Thời gian:** `2026-09-20 14:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(sprint2): thẩm định tính khả thi của các kịch bản AI Prompt với Backend
+
+### [2026-09-20] docs(milestone2): xác nhận hoàn thành chỉ tiêu phân tích nghiệp vụ Milestone 2
+- **Thời gian:** `2026-09-20 16:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(milestone2): xác nhận hoàn thành chỉ tiêu phân tích nghiệp vụ Milestone 2
