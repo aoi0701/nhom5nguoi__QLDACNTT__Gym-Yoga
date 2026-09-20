@@ -1,0 +1,31 @@
+name: ✨ Feature Request
+description: Đề xuất tính năng hoặc cải tiến mới cho hệ thống
+title: "[FEAT]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cảm ơn bạn đã đóng góp đề xuất tính năng mới cho dự án Gym-Yoga!
+  - type: input
+    id: epic
+    attributes:
+      label: Nhóm Epic liên quan
+      description: Nhập tên Epic (PM, PO, BE, FE, QA)
+      placeholder: "Ví dụ: Epic 4 - Backend & AI"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Mô tả chi tiết tính năng
+      description: Nêu rõ bối cảnh và lý do cần tính năng này
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: Tiêu chí nghiệm thu (Acceptance Criteria)
+      description: Viết theo chuẩn Given - When - Then
+    validations:
+      required: true
