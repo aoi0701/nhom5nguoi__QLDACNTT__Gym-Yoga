@@ -289,3 +289,8 @@
 - **Thời gian:** `2026-09-20 11:25:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** docs(fe): cập nhật tài liệu hướng dẫn kết nối API backend trong docs/
+
+### [2026-09-20] docs(sprint2): hoàn thành giao diện xác thực và dịch vụ API Client Sprint 2
+- **Thời gian:** `2026-09-20 14:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** docs(sprint2): hoàn thành giao diện xác thực và dịch vụ API Client Sprint 2
