@@ -289,3 +289,8 @@
 - **Thời gian:** `2026-09-20 11:25:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(sprint2): lập báo cáo chất lượng mã nguồn và cơ sở dữ liệu gửi PM phê duyệt
+
+### [2026-09-20] test(backup): viết kịch bản sao lưu pg_dump và phục hồi dữ liệu thử nghiệm
+- **Thời gian:** `2026-09-20 14:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(backup): viết kịch bản sao lưu pg_dump và phục hồi dữ liệu thử nghiệm
