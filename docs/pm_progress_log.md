@@ -284,3 +284,8 @@
 - **Thời gian:** `2026-09-20 09:05:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(metrics): thống kê các chỉ số nỗ lực (Effort Variance) và chi phí (Cost Variance)
+
+### [2026-09-20] docs(baseline): cập nhật đường cơ sở tiến độ Schedule Baseline sau 2 tuần
+- **Thời gian:** `2026-09-20 11:25:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(baseline): cập nhật đường cơ sở tiến độ Schedule Baseline sau 2 tuần
