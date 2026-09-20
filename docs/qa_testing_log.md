@@ -279,3 +279,8 @@
 - **Thời gian:** `2026-09-19 18:45:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(review): đối chiếu bộ Test Cases với Acceptance Criteria của 200 User Stories
+
+### [2026-09-20] docs(sprint2): tổng kết kết quả kiểm thử Sprint 2: 70/70 Test Cases đạt chuẩn
+- **Thời gian:** `2026-09-20 09:05:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(sprint2): tổng kết kết quả kiểm thử Sprint 2: 70/70 Test Cases đạt chuẩn
