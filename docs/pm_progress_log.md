@@ -309,3 +309,8 @@
 - **Thời gian:** `2026-09-21 10:45:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(sprint3): phân công chi tiết 27 task trọng tâm cho 5 thành viên trên Jira
+
+### [2026-09-21] docs(daily): giám sát Daily Standup ngày 21/09 về tích hợp Auth JWT
+- **Thời gian:** `2026-09-21 14:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): giám sát Daily Standup ngày 21/09 về tích hợp Auth JWT
