@@ -309,3 +309,8 @@
 - **Thời gian:** `2026-09-21 10:45:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(seeds): biên soạn script nạp dữ liệu mẫu database/seeds.sql cho 50+ bài tập
+
+### [2026-09-21] database(seeds): thêm dữ liệu nhóm cơ: Ngực, Lưng, Chân, Vai, Tay, Bụng và Cột sống
+- **Thời gian:** `2026-09-21 14:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(seeds): thêm dữ liệu nhóm cơ: Ngực, Lưng, Chân, Vai, Tay, Bụng và Cột sống
