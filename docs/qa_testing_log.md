@@ -304,3 +304,8 @@
 - **Thời gian:** `2026-09-21 08:30:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(sprint3): khởi động kế hoạch kiểm thử toàn diện Sprint 3 cho các tính năng mới
+
+### [2026-09-21] database(seeds): biên soạn script nạp dữ liệu mẫu database/seeds.sql cho 50+ bài tập
+- **Thời gian:** `2026-09-21 10:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(seeds): biên soạn script nạp dữ liệu mẫu database/seeds.sql cho 50+ bài tập
