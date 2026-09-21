@@ -309,3 +309,8 @@
 - **Thời gian:** `2026-09-21 10:45:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(context): xây dựng Global AuthContext quản lý thông tin user và trạng thái đăng nhập
+
+### [2026-09-21] feat(context): bổ sung phương thức login, logout và tự động nạp user profile khi tải trang
+- **Thời gian:** `2026-09-21 14:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(context): bổ sung phương thức login, logout và tự động nạp user profile khi tải trang
