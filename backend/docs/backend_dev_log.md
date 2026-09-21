@@ -299,3 +299,8 @@
 - **Thời gian:** `2026-09-20 16:50:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** docs(milestone2): xác nhận nghiệm thu kỹ thuật phân hệ Backend mốc Milestone 2
+
+### [2026-09-21] docs(sprint3): họp kỹ thuật thống nhất API bài tập và tích hợp AI với toàn nhóm
+- **Thời gian:** `2026-09-21 08:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** docs(sprint3): họp kỹ thuật thống nhất API bài tập và tích hợp AI với toàn nhóm
