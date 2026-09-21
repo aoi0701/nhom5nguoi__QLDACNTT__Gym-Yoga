@@ -314,3 +314,8 @@
 - **Thời gian:** `2026-09-21 14:15:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(daily): giám sát Daily Standup ngày 21/09 về tích hợp Auth JWT
+
+### [2026-09-21] docs(tracking): kiểm tra tiến độ xây dựng API CRUD User và Role của backend
+- **Thời gian:** `2026-09-21 16:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(tracking): kiểm tra tiến độ xây dựng API CRUD User và Role của backend
