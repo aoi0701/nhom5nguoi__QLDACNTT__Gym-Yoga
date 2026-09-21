@@ -304,3 +304,8 @@
 - **Thời gian:** `2026-09-21 08:30:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** docs(sprint3): họp kỹ thuật thống nhất API bài tập và tích hợp AI với toàn nhóm
+
+### [2026-09-21] feat(admin): xây dựng API quản lý danh sách người dùng cho Admin /api/v2/admin/users/
+- **Thời gian:** `2026-09-21 10:45:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(admin): xây dựng API quản lý danh sách người dùng cho Admin /api/v2/admin/users/
