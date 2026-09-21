@@ -304,3 +304,8 @@
 - **Thời gian:** `2026-09-21 08:30:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(sprint3): họp thẩm định tiêu chí nghiệm thu các User Stories trong Sprint 3
+
+### [2026-09-21] feat(stories): soạn thảo User Story US121 đến US140: Đánh giá, chấm sao và bình luận bài tập
+- **Thời gian:** `2026-09-21 10:45:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US121 đến US140: Đánh giá, chấm sao và bình luận bài tập
