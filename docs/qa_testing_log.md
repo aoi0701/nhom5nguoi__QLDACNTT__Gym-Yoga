@@ -299,3 +299,8 @@
 - **Thời gian:** `2026-09-20 16:50:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(milestone2): hoàn thành xuất sắc mục tiêu kiểm thử và chuẩn hóa CSDL Milestone 2
+
+### [2026-09-21] docs(sprint3): khởi động kế hoạch kiểm thử toàn diện Sprint 3 cho các tính năng mới
+- **Thời gian:** `2026-09-21 08:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(sprint3): khởi động kế hoạch kiểm thử toàn diện Sprint 3 cho các tính năng mới
