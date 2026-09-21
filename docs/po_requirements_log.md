@@ -299,3 +299,8 @@
 - **Thời gian:** `2026-09-20 16:50:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(milestone2): xác nhận hoàn thành chỉ tiêu phân tích nghiệp vụ Milestone 2
+
+### [2026-09-21] docs(sprint3): họp thẩm định tiêu chí nghiệm thu các User Stories trong Sprint 3
+- **Thời gian:** `2026-09-21 08:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(sprint3): họp thẩm định tiêu chí nghiệm thu các User Stories trong Sprint 3
