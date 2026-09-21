@@ -304,3 +304,8 @@
 - **Thời gian:** `2026-09-21 08:30:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** docs(sprint3): họp thống nhất các component và kết nối API tính năng Sprint 3
+
+### [2026-09-21] feat(context): xây dựng Global AuthContext quản lý thông tin user và trạng thái đăng nhập
+- **Thời gian:** `2026-09-21 10:45:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(context): xây dựng Global AuthContext quản lý thông tin user và trạng thái đăng nhập
