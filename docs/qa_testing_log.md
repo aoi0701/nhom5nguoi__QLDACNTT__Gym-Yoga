@@ -314,3 +314,8 @@
 - **Thời gian:** `2026-09-21 14:15:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(seeds): thêm dữ liệu nhóm cơ: Ngực, Lưng, Chân, Vai, Tay, Bụng và Cột sống
+
+### [2026-09-21] database(seeds): thêm dữ liệu thiết bị: Tạ đơn, Tạ đòn, Máy kéo cáp, Thảm yoga, Dây kháng lực
+- **Thời gian:** `2026-09-21 16:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(seeds): thêm dữ liệu thiết bị: Tạ đơn, Tạ đòn, Máy kéo cáp, Thảm yoga, Dây kháng lực
