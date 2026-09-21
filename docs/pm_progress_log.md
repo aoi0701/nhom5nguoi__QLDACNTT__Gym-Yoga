@@ -304,3 +304,8 @@
 - **Thời gian:** `2026-09-21 08:30:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(sprint3): khởi động cuộc họp Sprint 3 Kickoff bước vào giai đoạn code tính năng
+
+### [2026-09-21] docs(sprint3): phân công chi tiết 27 task trọng tâm cho 5 thành viên trên Jira
+- **Thời gian:** `2026-09-21 10:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint3): phân công chi tiết 27 task trọng tâm cho 5 thành viên trên Jira
