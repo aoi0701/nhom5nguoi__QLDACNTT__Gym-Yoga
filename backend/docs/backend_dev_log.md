@@ -314,3 +314,8 @@
 - **Thời gian:** `2026-09-21 14:15:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(admin): xây dựng API xem chi tiết, cập nhật trạng thái và khóa tài khoản
+
+### [2026-09-21] feat(admin): xây dựng API quản lý danh sách Roles và gán vai trò cho người dùng
+- **Thời gian:** `2026-09-21 16:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(admin): xây dựng API quản lý danh sách Roles và gán vai trò cho người dùng
