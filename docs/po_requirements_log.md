@@ -309,3 +309,8 @@
 - **Thời gian:** `2026-09-21 10:45:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US121 đến US140: Đánh giá, chấm sao và bình luận bài tập
+
+### [2026-09-21] feat(stories): soạn thảo User Story US141 đến US160: Quản lý danh sách người dùng và gán vai trò
+- **Thời gian:** `2026-09-21 14:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US141 đến US160: Quản lý danh sách người dùng và gán vai trò
