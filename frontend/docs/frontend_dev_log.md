@@ -299,3 +299,8 @@
 - **Thời gian:** `2026-09-20 16:50:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** docs(milestone2): xác nhận nghiệm thu kỹ thuật phân hệ Frontend mốc Milestone 2
+
+### [2026-09-21] docs(sprint3): họp thống nhất các component và kết nối API tính năng Sprint 3
+- **Thời gian:** `2026-09-21 08:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** docs(sprint3): họp thống nhất các component và kết nối API tính năng Sprint 3
