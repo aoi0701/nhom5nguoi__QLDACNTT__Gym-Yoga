@@ -1,0 +1,35 @@
+name: 🐛 Bug Report
+description: Báo cáo lỗi phát hiện trong quá trình kiểm thử hoặc vận hành
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Vui lòng cung cấp chi tiết lỗi để nhóm kỹ thuật tái hiện và khắc phục nhanh nhất.
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Mức độ nghiêm trọng
+      options:
+        - "Blocker (Làm dừng toàn bộ hệ thống)"
+        - "Critical (Lỗi chức năng cốt lõi / Bảo mật)"
+        - "Major (Lỗi tính năng quan trọng)"
+        - "Minor / Trivial (Lỗi giao diện nhỏ)"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Các bước tái hiện lỗi (Steps to Reproduce)
+      placeholder: "1. Đăng nhập với quyền Member...
+2. Truy cập URL /admin/...
+3. Nhận mã lỗi 500 thay vì 403"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Kết quả mong đợi (Expected Behavior)
+    validations:
+      required: true
