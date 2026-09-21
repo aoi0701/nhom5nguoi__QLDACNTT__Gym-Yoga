@@ -314,3 +314,8 @@
 - **Thời gian:** `2026-09-21 14:15:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(context): bổ sung phương thức login, logout và tự động nạp user profile khi tải trang
+
+### [2026-09-21] feat(context): cung cấp hook useAuth() tiện lợi cho các component sử dụng
+- **Thời gian:** `2026-09-21 16:50:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(context): cung cấp hook useAuth() tiện lợi cho các component sử dụng
