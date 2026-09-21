@@ -299,3 +299,8 @@
 - **Thời gian:** `2026-09-20 16:50:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(milestone2): hoàn thành hồ sơ nghiệm thu mốc Milestone 2 của đồ án
+
+### [2026-09-21] docs(sprint3): khởi động cuộc họp Sprint 3 Kickoff bước vào giai đoạn code tính năng
+- **Thời gian:** `2026-09-21 08:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint3): khởi động cuộc họp Sprint 3 Kickoff bước vào giai đoạn code tính năng
