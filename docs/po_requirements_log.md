@@ -334,3 +334,8 @@
 - **Thời gian:** `2026-09-22 13:50:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(ac): rà soát Acceptance Criteria cho chức năng lọc bài tập đa tiêu chí
+
+### [2026-09-22] docs(ac): rà soát Acceptance Criteria cho kịch bản AI Wizard sinh lịch tập
+- **Thời gian:** `2026-09-22 17:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): rà soát Acceptance Criteria cho kịch bản AI Wizard sinh lịch tập
