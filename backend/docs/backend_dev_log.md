@@ -319,3 +319,8 @@
 - **Thời gian:** `2026-09-21 16:50:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(admin): xây dựng API quản lý danh sách Roles và gán vai trò cho người dùng
+
+### [2026-09-22] feat(admin): xây dựng API gán và hủy quyền hạn của vai trò (Role-Permission Mapping)
+- **Thời gian:** `2026-09-22 09:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(admin): xây dựng API gán và hủy quyền hạn của vai trò (Role-Permission Mapping)
