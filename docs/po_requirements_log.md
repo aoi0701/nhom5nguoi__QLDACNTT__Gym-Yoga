@@ -319,3 +319,8 @@
 - **Thời gian:** `2026-09-21 16:50:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US161 đến US180: Bảng thống kê số liệu người dùng và bài tập
+
+### [2026-09-22] feat(stories): soạn thảo User Story US181 đến US200: Nhật ký hệ thống và kiểm toán bảo mật
+- **Thời gian:** `2026-09-22 09:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US181 đến US200: Nhật ký hệ thống và kiểm toán bảo mật
