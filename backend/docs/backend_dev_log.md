@@ -329,3 +329,8 @@
 - **Thời gian:** `2026-09-22 11:20:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(admin): xây dựng API thống kê tổng số người dùng, bài tập cho Admin Dashboard
+
+### [2026-09-22] feat(exercises): xây dựng model MuscleGroup lưu trữ các nhóm cơ tập luyện
+- **Thời gian:** `2026-09-22 13:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng model MuscleGroup lưu trữ các nhóm cơ tập luyện
