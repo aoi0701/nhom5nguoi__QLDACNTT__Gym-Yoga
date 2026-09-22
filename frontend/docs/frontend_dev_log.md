@@ -319,3 +319,8 @@
 - **Thời gian:** `2026-09-21 16:50:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(context): cung cấp hook useAuth() tiện lợi cho các component sử dụng
+
+### [2026-09-22] feat(components): xây dựng component Button tái sử dụng với các variant: primary, secondary, outline
+- **Thời gian:** `2026-09-22 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(components): xây dựng component Button tái sử dụng với các variant: primary, secondary, outline
