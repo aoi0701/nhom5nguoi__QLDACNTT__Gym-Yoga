@@ -324,3 +324,8 @@
 - **Thời gian:** `2026-09-22 09:10:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(seeds): nạp tài khoản mẫu cho 3 vai trò: Admin, PT Coach và Hội viên Member
+
+### [2026-09-22] database(index): tạo chỉ mục B-tree trên bảng exercises cho category, difficulty và muscle_group
+- **Thời gian:** `2026-09-22 11:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(index): tạo chỉ mục B-tree trên bảng exercises cho category, difficulty và muscle_group
