@@ -319,3 +319,8 @@
 - **Thời gian:** `2026-09-21 16:50:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(tracking): kiểm tra tiến độ xây dựng API CRUD User và Role của backend
+
+### [2026-09-22] docs(tracking): kiểm tra tiến độ xây dựng bộ Component và Layout của frontend
+- **Thời gian:** `2026-09-22 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(tracking): kiểm tra tiến độ xây dựng bộ Component và Layout của frontend
