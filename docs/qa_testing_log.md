@@ -319,3 +319,8 @@
 - **Thời gian:** `2026-09-21 16:50:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(seeds): thêm dữ liệu thiết bị: Tạ đơn, Tạ đòn, Máy kéo cáp, Thảm yoga, Dây kháng lực
+
+### [2026-09-22] database(seeds): nạp tài khoản mẫu cho 3 vai trò: Admin, PT Coach và Hội viên Member
+- **Thời gian:** `2026-09-22 09:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(seeds): nạp tài khoản mẫu cho 3 vai trò: Admin, PT Coach và Hội viên Member
