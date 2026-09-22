@@ -334,3 +334,8 @@
 - **Thời gian:** `2026-09-22 13:50:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(components): xây dựng component Modal hộp thoại xác nhận thao tác hoặc hiển thị chi tiết
+
+### [2026-09-22] feat(components): xây dựng component Badge hiển thị nhãn GYM, YOGA, độ khó và trạng thái
+- **Thời gian:** `2026-09-22 17:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(components): xây dựng component Badge hiển thị nhãn GYM, YOGA, độ khó và trạng thái
