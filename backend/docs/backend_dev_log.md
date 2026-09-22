@@ -334,3 +334,8 @@
 - **Thời gian:** `2026-09-22 13:50:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(exercises): xây dựng model MuscleGroup lưu trữ các nhóm cơ tập luyện
+
+### [2026-09-22] feat(exercises): xây dựng model Equipment lưu trữ danh mục dụng cụ tập
+- **Thời gian:** `2026-09-22 17:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng model Equipment lưu trữ danh mục dụng cụ tập
