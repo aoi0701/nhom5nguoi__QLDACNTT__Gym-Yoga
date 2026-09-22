@@ -334,3 +334,8 @@
 - **Thời gian:** `2026-09-22 13:50:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(index): tạo chỉ mục B-tree trên bảng users cho email và created_at
+
+### [2026-09-22] test(perf): đo lường thời gian truy vấn danh mục bài tập trước và sau khi đánh index (< 50ms)
+- **Thời gian:** `2026-09-22 17:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(perf): đo lường thời gian truy vấn danh mục bài tập trước và sau khi đánh index (< 50ms)
