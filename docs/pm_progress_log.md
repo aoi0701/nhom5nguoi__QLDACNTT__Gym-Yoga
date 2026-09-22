@@ -324,3 +324,8 @@
 - **Thời gian:** `2026-09-22 09:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(tracking): kiểm tra tiến độ xây dựng bộ Component và Layout của frontend
+
+### [2026-09-22] docs(tracking): theo dõi việc seed dữ liệu 50+ bài tập của đội Database QA
+- **Thời gian:** `2026-09-22 11:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(tracking): theo dõi việc seed dữ liệu 50+ bài tập của đội Database QA
