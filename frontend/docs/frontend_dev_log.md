@@ -324,3 +324,8 @@
 - **Thời gian:** `2026-09-22 09:10:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(components): xây dựng component Button tái sử dụng với các variant: primary, secondary, outline
+
+### [2026-09-22] feat(components): xây dựng component Input với nhãn label, placeholder và hiển thị lỗi đỏ
+- **Thời gian:** `2026-09-22 11:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(components): xây dựng component Input với nhãn label, placeholder và hiển thị lỗi đỏ
