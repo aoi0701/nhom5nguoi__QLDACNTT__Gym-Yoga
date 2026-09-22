@@ -324,3 +324,8 @@
 - **Thời gian:** `2026-09-22 09:10:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** feat(stories): soạn thảo User Story US181 đến US200: Nhật ký hệ thống và kiểm toán bảo mật
+
+### [2026-09-22] docs(ac): rà soát Acceptance Criteria cho chức năng Admin CRUD User & Role
+- **Thời gian:** `2026-09-22 11:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): rà soát Acceptance Criteria cho chức năng Admin CRUD User & Role
