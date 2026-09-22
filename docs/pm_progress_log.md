@@ -329,3 +329,8 @@
 - **Thời gian:** `2026-09-22 11:20:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(tracking): theo dõi việc seed dữ liệu 50+ bài tập của đội Database QA
+
+### [2026-09-22] docs(daily): giám sát Daily Standup ngày 23/09 về ma trận phân quyền RBAC
+- **Thời gian:** `2026-09-22 13:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): giám sát Daily Standup ngày 23/09 về ma trận phân quyền RBAC
