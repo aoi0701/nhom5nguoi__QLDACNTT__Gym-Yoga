@@ -329,3 +329,8 @@
 - **Thời gian:** `2026-09-22 11:20:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** database(index): tạo chỉ mục B-tree trên bảng exercises cho category, difficulty và muscle_group
+
+### [2026-09-22] database(index): tạo chỉ mục B-tree trên bảng users cho email và created_at
+- **Thời gian:** `2026-09-22 13:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(index): tạo chỉ mục B-tree trên bảng users cho email và created_at
