@@ -334,3 +334,8 @@
 - **Thời gian:** `2026-09-22 13:50:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(daily): giám sát Daily Standup ngày 23/09 về ma trận phân quyền RBAC
+
+### [2026-09-22] docs(impediment): xử lý vấn đề nghẽn cổ chai trong việc mapping Role-Permission
+- **Thời gian:** `2026-09-22 17:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(impediment): xử lý vấn đề nghẽn cổ chai trong việc mapping Role-Permission
