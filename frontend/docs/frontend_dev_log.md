@@ -329,3 +329,8 @@
 - **Thời gian:** `2026-09-22 11:20:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(components): xây dựng component Input với nhãn label, placeholder và hiển thị lỗi đỏ
+
+### [2026-09-22] feat(components): xây dựng component Modal hộp thoại xác nhận thao tác hoặc hiển thị chi tiết
+- **Thời gian:** `2026-09-22 13:50:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(components): xây dựng component Modal hộp thoại xác nhận thao tác hoặc hiển thị chi tiết
