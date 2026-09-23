@@ -349,3 +349,8 @@
 - **Thời gian:** `2026-09-23 10:30:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(validation): kiểm tra tính chính xác của công thức tính BMI và phân loại thể trạng
+
+### [2026-09-23] docs(validation): kiểm tra ma trận phân quyền RBAC: chặn đúng mã lỗi 403 khi sai vai trò
+- **Thời gian:** `2026-09-23 14:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(validation): kiểm tra ma trận phân quyền RBAC: chặn đúng mã lỗi 403 khi sai vai trò
