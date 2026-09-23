@@ -344,3 +344,8 @@
 - **Thời gian:** `2026-09-23 08:45:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(coordination): tổ chức phiên họp kỹ thuật giữa Backend và Frontend về API contract
+
+### [2026-09-23] docs(burndown): cập nhật biểu đồ burndown chart Sprint 3 theo thời gian thực
+- **Thời gian:** `2026-09-23 10:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(burndown): cập nhật biểu đồ burndown chart Sprint 3 theo thời gian thực
