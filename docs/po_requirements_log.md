@@ -339,3 +339,8 @@
 - **Thời gian:** `2026-09-22 17:10:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(ac): rà soát Acceptance Criteria cho kịch bản AI Wizard sinh lịch tập
+
+### [2026-09-23] docs(validation): kiểm tra thực tế giao diện Đăng nhập và Đăng ký trên React
+- **Thời gian:** `2026-09-23 08:45:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(validation): kiểm tra thực tế giao diện Đăng nhập và Đăng ký trên React
