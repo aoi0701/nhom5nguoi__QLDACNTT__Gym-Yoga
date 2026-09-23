@@ -339,3 +339,8 @@
 - **Thời gian:** `2026-09-22 17:10:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(perf): đo lường thời gian truy vấn danh mục bài tập trước và sau khi đánh index (< 50ms)
+
+### [2026-09-23] test(rbac): viết 20 Test Cases kiểm thử ma trận phân quyền RBAC trên API và giao diện
+- **Thời gian:** `2026-09-23 08:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(rbac): viết 20 Test Cases kiểm thử ma trận phân quyền RBAC trên API và giao diện
