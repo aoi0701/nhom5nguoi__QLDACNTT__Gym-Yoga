@@ -349,3 +349,8 @@
 - **Thời gian:** `2026-09-23 10:30:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(components): xây dựng component Dropdown lựa chọn vai trò và các tùy chọn
+
+### [2026-09-23] feat(admin): nâng cấp giao diện Bảng điều khiển Quản trị viên Admin Dashboard
+- **Thời gian:** `2026-09-23 14:40:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(admin): nâng cấp giao diện Bảng điều khiển Quản trị viên Admin Dashboard
