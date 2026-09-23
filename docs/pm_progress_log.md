@@ -354,3 +354,8 @@
 - **Thời gian:** `2026-09-23 14:40:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(tracking): theo dõi tiến độ tích hợp AI Gemini Prompt Engine và Fallback
+
+### [2026-09-23] docs(tracking): kiểm tra giao diện AI Wizard khảo sát bài tập trên frontend
+- **Thời gian:** `2026-09-23 18:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(tracking): kiểm tra giao diện AI Wizard khảo sát bài tập trên frontend
