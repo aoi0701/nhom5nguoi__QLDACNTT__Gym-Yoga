@@ -339,3 +339,8 @@
 - **Thời gian:** `2026-09-22 17:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(impediment): xử lý vấn đề nghẽn cổ chai trong việc mapping Role-Permission
+
+### [2026-09-23] docs(coordination): tổ chức phiên họp kỹ thuật giữa Backend và Frontend về API contract
+- **Thời gian:** `2026-09-23 08:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(coordination): tổ chức phiên họp kỹ thuật giữa Backend và Frontend về API contract
