@@ -349,3 +349,8 @@
 - **Thời gian:** `2026-09-23 10:30:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(burndown): cập nhật biểu đồ burndown chart Sprint 3 theo thời gian thực
+
+### [2026-09-23] docs(tracking): theo dõi tiến độ tích hợp AI Gemini Prompt Engine và Fallback
+- **Thời gian:** `2026-09-23 14:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(tracking): theo dõi tiến độ tích hợp AI Gemini Prompt Engine và Fallback
