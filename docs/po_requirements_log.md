@@ -344,3 +344,8 @@
 - **Thời gian:** `2026-09-23 08:45:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(validation): kiểm tra thực tế giao diện Đăng nhập và Đăng ký trên React
+
+### [2026-09-23] docs(validation): kiểm tra tính chính xác của công thức tính BMI và phân loại thể trạng
+- **Thời gian:** `2026-09-23 10:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(validation): kiểm tra tính chính xác của công thức tính BMI và phân loại thể trạng
