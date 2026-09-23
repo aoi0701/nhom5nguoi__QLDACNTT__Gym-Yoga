@@ -339,3 +339,8 @@
 - **Thời gian:** `2026-09-22 17:10:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(exercises): xây dựng model Equipment lưu trữ danh mục dụng cụ tập
+
+### [2026-09-23] feat(exercises): xây dựng model Exercise lưu trữ chi tiết bài tập Gym và Yoga
+- **Thời gian:** `2026-09-23 08:45:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng model Exercise lưu trữ chi tiết bài tập Gym và Yoga
