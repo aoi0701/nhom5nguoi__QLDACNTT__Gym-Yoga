@@ -349,3 +349,8 @@
 - **Thời gian:** `2026-09-23 10:30:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(rbac): kiểm thử quyền Admin: được phép CRUD User, CRUD Role, cấu hình phân quyền
+
+### [2026-09-23] test(rbac): kiểm thử quyền PT Coach: được phép quản lý bài tập, bị chặn vào trang quản lý User
+- **Thời gian:** `2026-09-23 14:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(rbac): kiểm thử quyền PT Coach: được phép quản lý bài tập, bị chặn vào trang quản lý User
