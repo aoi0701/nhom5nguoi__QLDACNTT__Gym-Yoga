@@ -339,3 +339,8 @@
 - **Thời gian:** `2026-09-22 17:10:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(components): xây dựng component Badge hiển thị nhãn GYM, YOGA, độ khó và trạng thái
+
+### [2026-09-23] feat(components): xây dựng component Toast thông báo thao tác thành công hoặc thất bại
+- **Thời gian:** `2026-09-23 08:45:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(components): xây dựng component Toast thông báo thao tác thành công hoặc thất bại
