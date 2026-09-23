@@ -354,3 +354,8 @@
 - **Thời gian:** `2026-09-23 14:40:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(admin): nâng cấp giao diện Bảng điều khiển Quản trị viên Admin Dashboard
+
+### [2026-09-23] feat(admin): xây dựng bảng ma trận phân quyền RBAC phân tách rõ quyền Admin, PT và Member
+- **Thời gian:** `2026-09-23 18:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(admin): xây dựng bảng ma trận phân quyền RBAC phân tách rõ quyền Admin, PT và Member
