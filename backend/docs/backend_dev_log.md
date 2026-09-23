@@ -354,3 +354,8 @@
 - **Thời gian:** `2026-09-23 14:40:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(exercises): xây dựng API lấy danh sách bài tập kèm phân trang /api/v2/exercises/
+
+### [2026-09-23] feat(exercises): xây dựng bộ lọc đa tiêu chí theo thể loại (Gym/Yoga), độ khó và nhóm cơ
+- **Thời gian:** `2026-09-23 18:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng bộ lọc đa tiêu chí theo thể loại (Gym/Yoga), độ khó và nhóm cơ
