@@ -349,3 +349,8 @@
 - **Thời gian:** `2026-09-23 10:30:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(exercises): xây dựng ExerciseSerializer kèm thông tin chi tiết nhóm cơ và thiết bị
+
+### [2026-09-23] feat(exercises): xây dựng API lấy danh sách bài tập kèm phân trang /api/v2/exercises/
+- **Thời gian:** `2026-09-23 14:40:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng API lấy danh sách bài tập kèm phân trang /api/v2/exercises/
