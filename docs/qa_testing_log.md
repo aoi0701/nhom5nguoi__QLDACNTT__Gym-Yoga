@@ -344,3 +344,8 @@
 - **Thời gian:** `2026-09-23 08:45:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(rbac): viết 20 Test Cases kiểm thử ma trận phân quyền RBAC trên API và giao diện
+
+### [2026-09-23] test(rbac): kiểm thử quyền Admin: được phép CRUD User, CRUD Role, cấu hình phân quyền
+- **Thời gian:** `2026-09-23 10:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(rbac): kiểm thử quyền Admin: được phép CRUD User, CRUD Role, cấu hình phân quyền
