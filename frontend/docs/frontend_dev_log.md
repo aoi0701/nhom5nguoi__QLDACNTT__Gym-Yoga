@@ -344,3 +344,8 @@
 - **Thời gian:** `2026-09-23 08:45:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(components): xây dựng component Toast thông báo thao tác thành công hoặc thất bại
+
+### [2026-09-23] feat(components): xây dựng component Dropdown lựa chọn vai trò và các tùy chọn
+- **Thời gian:** `2026-09-23 10:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(components): xây dựng component Dropdown lựa chọn vai trò và các tùy chọn
