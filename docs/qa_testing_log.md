@@ -364,3 +364,8 @@
 - **Thời gian:** `2026-09-24 09:20:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(filter): viết 15 Test Cases kiểm thử bộ lọc bài tập theo Gym/Yoga, độ khó và nhóm cơ
+
+### [2026-09-24] test(ai): viết 15 Test Cases kiểm định tính hợp lệ của JSON schema kết quả gợi ý AI
+- **Thời gian:** `2026-09-24 11:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(ai): viết 15 Test Cases kiểm định tính hợp lệ của JSON schema kết quả gợi ý AI
