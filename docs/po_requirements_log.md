@@ -369,3 +369,8 @@
 - **Thời gian:** `2026-09-24 11:40:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(ai-eval): tinh chỉnh các ràng buộc an toàn: cảnh báo bài tập nặng với người có bệnh lý
+
+### [2026-09-24] docs(fallback): kiểm nghiệm trải nghiệm người dùng khi kích hoạt cơ chế Rule-based Fallback
+- **Thời gian:** `2026-09-24 14:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(fallback): kiểm nghiệm trải nghiệm người dùng khi kích hoạt cơ chế Rule-based Fallback
