@@ -369,3 +369,8 @@
 - **Thời gian:** `2026-09-24 11:40:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(quality): rà soát độ bao phủ kiểm thử QA Test Coverage đạt trên 80%
+
+### [2026-09-24] docs(risk): kiểm tra kịch bản Fallback Engine hoạt động ổn định khi ngắt mạng AI
+- **Thời gian:** `2026-09-24 14:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(risk): kiểm tra kịch bản Fallback Engine hoạt động ổn định khi ngắt mạng AI
