@@ -369,3 +369,8 @@
 - **Thời gian:** `2026-09-24 11:40:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(admin): thêm các thẻ thống kê tổng quan: Tổng hội viên, Tổng bài tập, Lịch tập đã tạo
+
+### [2026-09-24] feat(catalog): hoàn thiện giao diện Thư viện bài tập Gym & Yoga dạng lưới thẻ Grid
+- **Thời gian:** `2026-09-24 14:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(catalog): hoàn thiện giao diện Thư viện bài tập Gym & Yoga dạng lưới thẻ Grid
