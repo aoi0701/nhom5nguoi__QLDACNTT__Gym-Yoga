@@ -374,3 +374,8 @@
 - **Thời gian:** `2026-09-24 14:10:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(fallback): kiểm nghiệm trải nghiệm người dùng khi kích hoạt cơ chế Rule-based Fallback
+
+### [2026-09-24] docs(userguide): soạn thảo tài liệu Hướng dẫn sử dụng phân hệ Quản trị viên (Admin Guide)
+- **Thời gian:** `2026-09-24 16:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(userguide): soạn thảo tài liệu Hướng dẫn sử dụng phân hệ Quản trị viên (Admin Guide)
