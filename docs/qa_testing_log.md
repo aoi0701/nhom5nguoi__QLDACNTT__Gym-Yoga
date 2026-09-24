@@ -374,3 +374,8 @@
 - **Thời gian:** `2026-09-24 14:10:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(fallback): viết 10 Test Cases kiểm thử cơ chế Fallback Engine khi ngắt kết nối AI
+
+### [2026-09-24] test(postman): cập nhật Postman Collection cho các API Exercises, RBAC và AI Engine
+- **Thời gian:** `2026-09-24 16:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(postman): cập nhật Postman Collection cho các API Exercises, RBAC và AI Engine
