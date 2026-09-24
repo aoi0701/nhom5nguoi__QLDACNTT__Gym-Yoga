@@ -359,3 +359,8 @@
 - **Thời gian:** `2026-09-23 18:15:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(validation): kiểm tra kết quả trả về của API bài tập khi lọc theo Gym/Yoga
+
+### [2026-09-24] docs(ai-eval): đánh giá chất lượng các lịch tập mẫu do AI sinh ra theo tiêu chuẩn PT
+- **Thời gian:** `2026-09-24 09:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ai-eval): đánh giá chất lượng các lịch tập mẫu do AI sinh ra theo tiêu chuẩn PT
