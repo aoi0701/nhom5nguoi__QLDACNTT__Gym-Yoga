@@ -374,3 +374,8 @@
 - **Thời gian:** `2026-09-24 14:10:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(catalog): hoàn thiện giao diện Thư viện bài tập Gym & Yoga dạng lưới thẻ Grid
+
+### [2026-09-24] feat(catalog): thêm bộ lọc chuyển đổi nhanh giữa bài tập GYM và bài tập YOGA
+- **Thời gian:** `2026-09-24 16:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(catalog): thêm bộ lọc chuyển đổi nhanh giữa bài tập GYM và bài tập YOGA
