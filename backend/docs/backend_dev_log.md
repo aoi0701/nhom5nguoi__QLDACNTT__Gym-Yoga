@@ -364,3 +364,8 @@
 - **Thời gian:** `2026-09-24 09:20:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(exercises): xây dựng tính năng tìm kiếm bài tập theo tên và mô tả bằng search query
+
+### [2026-09-24] feat(exercises): xây dựng API thêm mới, cập nhật và xóa bài tập (chỉ dành cho Admin/PT)
+- **Thời gian:** `2026-09-24 11:40:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng API thêm mới, cập nhật và xóa bài tập (chỉ dành cho Admin/PT)
