@@ -359,3 +359,8 @@
 - **Thời gian:** `2026-09-23 18:15:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(tracking): kiểm tra giao diện AI Wizard khảo sát bài tập trên frontend
+
+### [2026-09-24] docs(daily): giám sát Daily Standup ngày 25/09 về tiến độ hoàn thiện bộ lọc bài tập
+- **Thời gian:** `2026-09-24 09:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): giám sát Daily Standup ngày 25/09 về tiến độ hoàn thiện bộ lọc bài tập
