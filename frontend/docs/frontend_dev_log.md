@@ -359,3 +359,8 @@
 - **Thời gian:** `2026-09-23 18:15:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(admin): xây dựng bảng ma trận phân quyền RBAC phân tách rõ quyền Admin, PT và Member
+
+### [2026-09-24] feat(admin): thêm danh sách người dùng kèm nút gán vai trò và thao tác khóa tài khoản
+- **Thời gian:** `2026-09-24 09:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(admin): thêm danh sách người dùng kèm nút gán vai trò và thao tác khóa tài khoản
