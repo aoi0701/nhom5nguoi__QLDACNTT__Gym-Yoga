@@ -374,3 +374,8 @@
 - **Thời gian:** `2026-09-24 14:10:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(ratings): xây dựng model và API đánh giá chấm sao 1-5 cho bài tập /api/v2/ratings/
+
+### [2026-09-24] feat(ai): khởi tạo module ai_engine kết nối API Google Gemini và OpenAI GPT-4o
+- **Thời gian:** `2026-09-24 16:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): khởi tạo module ai_engine kết nối API Google Gemini và OpenAI GPT-4o
