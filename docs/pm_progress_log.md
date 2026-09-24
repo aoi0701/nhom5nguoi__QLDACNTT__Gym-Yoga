@@ -364,3 +364,8 @@
 - **Thời gian:** `2026-09-24 09:20:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(daily): giám sát Daily Standup ngày 25/09 về tiến độ hoàn thiện bộ lọc bài tập
+
+### [2026-09-24] docs(quality): rà soát độ bao phủ kiểm thử QA Test Coverage đạt trên 80%
+- **Thời gian:** `2026-09-24 11:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(quality): rà soát độ bao phủ kiểm thử QA Test Coverage đạt trên 80%
