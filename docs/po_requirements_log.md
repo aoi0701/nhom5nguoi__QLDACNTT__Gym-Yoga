@@ -364,3 +364,8 @@
 - **Thời gian:** `2026-09-24 09:20:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(ai-eval): đánh giá chất lượng các lịch tập mẫu do AI sinh ra theo tiêu chuẩn PT
+
+### [2026-09-24] docs(ai-eval): tinh chỉnh các ràng buộc an toàn: cảnh báo bài tập nặng với người có bệnh lý
+- **Thời gian:** `2026-09-24 11:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ai-eval): tinh chỉnh các ràng buộc an toàn: cảnh báo bài tập nặng với người có bệnh lý
