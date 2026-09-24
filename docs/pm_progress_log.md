@@ -374,3 +374,8 @@
 - **Thời gian:** `2026-09-24 14:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(risk): kiểm tra kịch bản Fallback Engine hoạt động ổn định khi ngắt mạng AI
+
+### [2026-09-24] docs(security): rà soát bảo mật JWT, ngăn ngừa lộ token và cấu hình CORS chặt chẽ
+- **Thời gian:** `2026-09-24 16:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(security): rà soát bảo mật JWT, ngăn ngừa lộ token và cấu hình CORS chặt chẽ
