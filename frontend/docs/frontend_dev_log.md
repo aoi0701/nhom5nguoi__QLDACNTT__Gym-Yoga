@@ -364,3 +364,8 @@
 - **Thời gian:** `2026-09-24 09:20:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(admin): thêm danh sách người dùng kèm nút gán vai trò và thao tác khóa tài khoản
+
+### [2026-09-24] feat(admin): thêm các thẻ thống kê tổng quan: Tổng hội viên, Tổng bài tập, Lịch tập đã tạo
+- **Thời gian:** `2026-09-24 11:40:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(admin): thêm các thẻ thống kê tổng quan: Tổng hội viên, Tổng bài tập, Lịch tập đã tạo
