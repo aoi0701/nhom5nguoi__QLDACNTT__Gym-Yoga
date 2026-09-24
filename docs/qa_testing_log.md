@@ -359,3 +359,8 @@
 - **Thời gian:** `2026-09-23 18:15:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(rbac): kiểm thử quyền Member: chỉ được xem bài tập và dùng AI Wizard, bị chặn sửa xóa
+
+### [2026-09-24] test(filter): viết 15 Test Cases kiểm thử bộ lọc bài tập theo Gym/Yoga, độ khó và nhóm cơ
+- **Thời gian:** `2026-09-24 09:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(filter): viết 15 Test Cases kiểm thử bộ lọc bài tập theo Gym/Yoga, độ khó và nhóm cơ
