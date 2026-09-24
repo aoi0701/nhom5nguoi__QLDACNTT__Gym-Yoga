@@ -359,3 +359,8 @@
 - **Thời gian:** `2026-09-23 18:15:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(exercises): xây dựng bộ lọc đa tiêu chí theo thể loại (Gym/Yoga), độ khó và nhóm cơ
+
+### [2026-09-24] feat(exercises): xây dựng tính năng tìm kiếm bài tập theo tên và mô tả bằng search query
+- **Thời gian:** `2026-09-24 09:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng tính năng tìm kiếm bài tập theo tên và mô tả bằng search query
