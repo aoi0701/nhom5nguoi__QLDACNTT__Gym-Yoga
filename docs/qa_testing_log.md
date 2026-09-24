@@ -369,3 +369,8 @@
 - **Thời gian:** `2026-09-24 11:40:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(ai): viết 15 Test Cases kiểm định tính hợp lệ của JSON schema kết quả gợi ý AI
+
+### [2026-09-24] test(fallback): viết 10 Test Cases kiểm thử cơ chế Fallback Engine khi ngắt kết nối AI
+- **Thời gian:** `2026-09-24 14:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(fallback): viết 10 Test Cases kiểm thử cơ chế Fallback Engine khi ngắt kết nối AI
