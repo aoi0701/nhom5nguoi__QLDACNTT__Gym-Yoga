@@ -369,3 +369,8 @@
 - **Thời gian:** `2026-09-24 11:40:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(exercises): xây dựng API thêm mới, cập nhật và xóa bài tập (chỉ dành cho Admin/PT)
+
+### [2026-09-24] feat(ratings): xây dựng model và API đánh giá chấm sao 1-5 cho bài tập /api/v2/ratings/
+- **Thời gian:** `2026-09-24 14:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ratings): xây dựng model và API đánh giá chấm sao 1-5 cho bài tập /api/v2/ratings/
