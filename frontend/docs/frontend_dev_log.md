@@ -389,3 +389,8 @@
 - **Thời gian:** `2026-09-25 10:25:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(catalog): thêm thanh tìm kiếm bài tập theo từ khóa hỗ trợ tra cứu nhanh
+
+### [2026-09-25] feat(catalog): hiển thị chi tiết bài tập: nhóm cơ tác động, dụng cụ cần thiết và hướng dẫn
+- **Thời gian:** `2026-09-25 13:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(catalog): hiển thị chi tiết bài tập: nhóm cơ tác động, dụng cụ cần thiết và hướng dẫn
