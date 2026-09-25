@@ -394,3 +394,8 @@
 - **Thời gian:** `2026-09-25 13:30:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(performance): đánh giá thời gian phản hồi của API gợi ý bài tập dưới 3 giây
+
+### [2026-09-25] docs(usability): đánh giá tính trực quan và khả năng tương thích của giao diện
+- **Thời gian:** `2026-09-25 15:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(usability): đánh giá tính trực quan và khả năng tương thích của giao diện
