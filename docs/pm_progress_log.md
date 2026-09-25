@@ -384,3 +384,8 @@
 - **Thời gian:** `2026-09-25 08:50:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** chore(sync): kiểm tra đồng bộ trạng thái 200 tasks trên Jira và GitHub
+
+### [2026-09-25] docs(daily): giám sát Daily Standup ngày 26/09 về kiểm thử liên thông End-to-End
+- **Thời gian:** `2026-09-25 10:25:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): giám sát Daily Standup ngày 26/09 về kiểm thử liên thông End-to-End
