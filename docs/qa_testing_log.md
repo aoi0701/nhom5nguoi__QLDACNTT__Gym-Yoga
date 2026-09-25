@@ -379,3 +379,8 @@
 - **Thời gian:** `2026-09-24 16:30:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(postman): cập nhật Postman Collection cho các API Exercises, RBAC và AI Engine
+
+### [2026-09-25] test(ui): kiểm thử giao diện Responsive trên các kích thước Mobile (375px), Tablet (768px), PC (1440px)
+- **Thời gian:** `2026-09-25 08:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(ui): kiểm thử giao diện Responsive trên các kích thước Mobile (375px), Tablet (768px), PC (1440px)
