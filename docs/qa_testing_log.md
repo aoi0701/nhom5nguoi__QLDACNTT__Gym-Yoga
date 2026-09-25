@@ -384,3 +384,8 @@
 - **Thời gian:** `2026-09-25 08:50:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(ui): kiểm thử giao diện Responsive trên các kích thước Mobile (375px), Tablet (768px), PC (1440px)
+
+### [2026-09-25] test(ui): kiểm thử tính tương thích trên các trình duyệt Chrome, Edge, Firefox, Safari
+- **Thời gian:** `2026-09-25 10:25:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(ui): kiểm thử tính tương thích trên các trình duyệt Chrome, Edge, Firefox, Safari
