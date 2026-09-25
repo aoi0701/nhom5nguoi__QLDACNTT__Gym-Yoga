@@ -399,3 +399,8 @@
 - **Thời gian:** `2026-09-25 15:45:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(usability): đánh giá tính trực quan và khả năng tương thích của giao diện
+
+### [2026-09-25] docs(review): tổ chức buổi sơ duyệt tính năng Sprint 3 trước toàn thể nhóm
+- **Thời gian:** `2026-09-25 19:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(review): tổ chức buổi sơ duyệt tính năng Sprint 3 trước toàn thể nhóm
