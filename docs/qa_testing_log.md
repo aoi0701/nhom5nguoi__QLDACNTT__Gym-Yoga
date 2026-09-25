@@ -399,3 +399,8 @@
 - **Thời gian:** `2026-09-25 15:45:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(security): kiểm thử bảo mật lỗ hổng Cross-Site Scripting (XSS) trên form đăng ký
+
+### [2026-09-25] docs(bugs): mở báo cáo lỗi QA-BUG-03: Bộ lọc không giữ trạng thái khi chuyển trang phân trang
+- **Thời gian:** `2026-09-25 19:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(bugs): mở báo cáo lỗi QA-BUG-03: Bộ lọc không giữ trạng thái khi chuyển trang phân trang
