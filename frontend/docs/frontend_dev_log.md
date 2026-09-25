@@ -384,3 +384,8 @@
 - **Thời gian:** `2026-09-25 08:50:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(catalog): thêm bộ lọc theo mức độ khó: Dễ, Trung bình, Nâng cao
+
+### [2026-09-25] feat(catalog): thêm thanh tìm kiếm bài tập theo từ khóa hỗ trợ tra cứu nhanh
+- **Thời gian:** `2026-09-25 10:25:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(catalog): thêm thanh tìm kiếm bài tập theo từ khóa hỗ trợ tra cứu nhanh
