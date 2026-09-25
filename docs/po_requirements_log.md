@@ -389,3 +389,8 @@
 - **Thời gian:** `2026-09-25 10:25:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(userguide): soạn thảo cẩm nang Hướng dẫn Hội viên sử dụng AI gợi ý lịch tập
+
+### [2026-09-25] docs(qa-sync): phối hợp với QA rà soát ma trận truy vết yêu cầu (Traceability Matrix)
+- **Thời gian:** `2026-09-25 13:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(qa-sync): phối hợp với QA rà soát ma trận truy vết yêu cầu (Traceability Matrix)
