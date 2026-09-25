@@ -384,3 +384,8 @@
 - **Thời gian:** `2026-09-25 08:50:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(ai): xây dựng lớp AIService quản lý kết nối và gửi prompt đến LLM
+
+### [2026-09-25] feat(ai): thiết kế System Prompt chuẩn hóa đóng vai trò Huấn luyện viên thể hình chuyên nghiệp
+- **Thời gian:** `2026-09-25 10:25:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): thiết kế System Prompt chuẩn hóa đóng vai trò Huấn luyện viên thể hình chuyên nghiệp
