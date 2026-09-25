@@ -384,3 +384,8 @@
 - **Thời gian:** `2026-09-25 08:50:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(userguide): soạn thảo tài liệu Hướng dẫn sử dụng dành cho Huấn luyện viên (PT Guide)
+
+### [2026-09-25] docs(userguide): soạn thảo cẩm nang Hướng dẫn Hội viên sử dụng AI gợi ý lịch tập
+- **Thời gian:** `2026-09-25 10:25:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(userguide): soạn thảo cẩm nang Hướng dẫn Hội viên sử dụng AI gợi ý lịch tập
