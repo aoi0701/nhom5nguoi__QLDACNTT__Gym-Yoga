@@ -379,3 +379,8 @@
 - **Thời gian:** `2026-09-24 16:30:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(userguide): soạn thảo tài liệu Hướng dẫn sử dụng phân hệ Quản trị viên (Admin Guide)
+
+### [2026-09-25] docs(userguide): soạn thảo tài liệu Hướng dẫn sử dụng dành cho Huấn luyện viên (PT Guide)
+- **Thời gian:** `2026-09-25 08:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(userguide): soạn thảo tài liệu Hướng dẫn sử dụng dành cho Huấn luyện viên (PT Guide)
