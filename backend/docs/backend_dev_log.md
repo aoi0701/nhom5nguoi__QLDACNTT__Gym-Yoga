@@ -394,3 +394,8 @@
 - **Thời gian:** `2026-09-25 13:30:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(ai): xây dựng Prompt Builder tích hợp thông tin thể trạng, BMI, bệnh lý và mục tiêu
+
+### [2026-09-25] feat(ai): xây dựng JSON Parser phân tích cú pháp kết quả trả về từ AI thành giáo án tuần
+- **Thời gian:** `2026-09-25 15:45:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): xây dựng JSON Parser phân tích cú pháp kết quả trả về từ AI thành giáo án tuần
