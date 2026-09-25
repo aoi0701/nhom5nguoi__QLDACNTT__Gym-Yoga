@@ -379,3 +379,8 @@
 - **Thời gian:** `2026-09-24 16:30:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(catalog): thêm bộ lọc chuyển đổi nhanh giữa bài tập GYM và bài tập YOGA
+
+### [2026-09-25] feat(catalog): thêm bộ lọc theo mức độ khó: Dễ, Trung bình, Nâng cao
+- **Thời gian:** `2026-09-25 08:50:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(catalog): thêm bộ lọc theo mức độ khó: Dễ, Trung bình, Nâng cao
