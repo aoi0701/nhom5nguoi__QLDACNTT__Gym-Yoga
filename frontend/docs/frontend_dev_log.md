@@ -399,3 +399,8 @@
 - **Thời gian:** `2026-09-25 15:45:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(wizard): hoàn thiện màn hình Khảo sát AI Wizard gợi ý lịch tập cá nhân hóa
+
+### [2026-09-25] feat(wizard): thiết kế quy trình khảo sát đa bước (Step Wizard): Mục tiêu -> Thể trạng -> Lịch tập
+- **Thời gian:** `2026-09-25 19:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(wizard): thiết kế quy trình khảo sát đa bước (Step Wizard): Mục tiêu -> Thể trạng -> Lịch tập
