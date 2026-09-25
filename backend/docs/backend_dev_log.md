@@ -399,3 +399,8 @@
 - **Thời gian:** `2026-09-25 15:45:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(ai): xây dựng JSON Parser phân tích cú pháp kết quả trả về từ AI thành giáo án tuần
+
+### [2026-09-25] feat(ai): xây dựng Rule-based Fallback Engine sinh lịch tập chuẩn khi AI bị lỗi hoặc timeout
+- **Thời gian:** `2026-09-25 19:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): xây dựng Rule-based Fallback Engine sinh lịch tập chuẩn khi AI bị lỗi hoặc timeout
