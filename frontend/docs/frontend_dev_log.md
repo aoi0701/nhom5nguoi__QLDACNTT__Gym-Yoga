@@ -394,3 +394,8 @@
 - **Thời gian:** `2026-09-25 13:30:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(catalog): hiển thị chi tiết bài tập: nhóm cơ tác động, dụng cụ cần thiết và hướng dẫn
+
+### [2026-09-25] feat(wizard): hoàn thiện màn hình Khảo sát AI Wizard gợi ý lịch tập cá nhân hóa
+- **Thời gian:** `2026-09-25 15:45:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(wizard): hoàn thiện màn hình Khảo sát AI Wizard gợi ý lịch tập cá nhân hóa
