@@ -394,3 +394,8 @@
 - **Thời gian:** `2026-09-25 13:30:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(security): kiểm thử bảo mật lỗ hổng SQL Injection trên các tham số tìm kiếm bài tập
+
+### [2026-09-25] test(security): kiểm thử bảo mật lỗ hổng Cross-Site Scripting (XSS) trên form đăng ký
+- **Thời gian:** `2026-09-25 15:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(security): kiểm thử bảo mật lỗ hổng Cross-Site Scripting (XSS) trên form đăng ký
