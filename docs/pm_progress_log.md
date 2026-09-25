@@ -379,3 +379,8 @@
 - **Thời gian:** `2026-09-24 16:30:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(security): rà soát bảo mật JWT, ngăn ngừa lộ token và cấu hình CORS chặt chẽ
+
+### [2026-09-25] chore(sync): kiểm tra đồng bộ trạng thái 200 tasks trên Jira và GitHub
+- **Thời gian:** `2026-09-25 08:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(sync): kiểm tra đồng bộ trạng thái 200 tasks trên Jira và GitHub
