@@ -399,3 +399,8 @@
 - **Thời gian:** `2026-09-25 15:45:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(acceptance): thực hiện kiểm thử chấp nhận người dùng User Acceptance Testing (UAT)
+
+### [2026-09-25] docs(acceptance): ghi nhận danh sách phản hồi UAT và bàn giao dev xử lý
+- **Thời gian:** `2026-09-25 19:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(acceptance): ghi nhận danh sách phản hồi UAT và bàn giao dev xử lý
