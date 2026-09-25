@@ -379,3 +379,8 @@
 - **Thời gian:** `2026-09-24 16:30:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(ai): khởi tạo module ai_engine kết nối API Google Gemini và OpenAI GPT-4o
+
+### [2026-09-25] feat(ai): xây dựng lớp AIService quản lý kết nối và gửi prompt đến LLM
+- **Thời gian:** `2026-09-25 08:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): xây dựng lớp AIService quản lý kết nối và gửi prompt đến LLM
