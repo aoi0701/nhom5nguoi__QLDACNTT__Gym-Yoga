@@ -389,3 +389,8 @@
 - **Thời gian:** `2026-09-25 10:25:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(ui): kiểm thử tính tương thích trên các trình duyệt Chrome, Edge, Firefox, Safari
+
+### [2026-09-25] test(security): kiểm thử bảo mật lỗ hổng SQL Injection trên các tham số tìm kiếm bài tập
+- **Thời gian:** `2026-09-25 13:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(security): kiểm thử bảo mật lỗ hổng SQL Injection trên các tham số tìm kiếm bài tập
