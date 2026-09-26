@@ -404,3 +404,8 @@
 - **Thời gian:** `2026-09-25 19:20:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(acceptance): ghi nhận danh sách phản hồi UAT và bàn giao dev xử lý
+
+### [2026-09-26] docs(acceptance): xác nhận nghiệm thu các tính năng đã sửa lỗi đạt chuẩn
+- **Thời gian:** `2026-09-26 09:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(acceptance): xác nhận nghiệm thu các tính năng đã sửa lỗi đạt chuẩn
