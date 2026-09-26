@@ -419,3 +419,8 @@
 - **Thời gian:** `2026-09-26 14:00:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** fix(cors): bổ sung cấu hình cho phép các header Authorization từ Frontend Client
+
+### [2026-09-26] fix(ai): khắc phục lỗi timeout khi gọi API Gemini bằng cơ chế retry và fallback tự động
+- **Thời gian:** `2026-09-26 16:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** fix(ai): khắc phục lỗi timeout khi gọi API Gemini bằng cơ chế retry và fallback tự động
