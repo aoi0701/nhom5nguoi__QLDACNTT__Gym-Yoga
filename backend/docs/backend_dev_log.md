@@ -409,3 +409,8 @@
 - **Thời gian:** `2026-09-26 09:15:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(ai): xây dựng API endpoint sinh lịch tập thông minh /api/v2/ai/recommend-workout/
+
+### [2026-09-26] feat(cache): tích hợp Redis Caching cho danh sách bài tập giảm tải truy vấn CSDL
+- **Thời gian:** `2026-09-26 11:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(cache): tích hợp Redis Caching cho danh sách bài tập giảm tải truy vấn CSDL
