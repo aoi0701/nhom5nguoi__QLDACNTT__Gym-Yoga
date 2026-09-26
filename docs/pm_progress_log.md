@@ -419,3 +419,8 @@
 - **Thời gian:** `2026-09-26 14:00:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(sprint3): lập báo cáo tổng kết Sprint 3 Review: Các mục tiêu đã đạt được
+
+### [2026-09-26] docs(sprint3): ghi nhận bài học kinh nghiệm Sprint 3 Retrospective
+- **Thời gian:** `2026-09-26 16:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint3): ghi nhận bài học kinh nghiệm Sprint 3 Retrospective
