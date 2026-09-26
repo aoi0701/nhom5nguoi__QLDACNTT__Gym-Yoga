@@ -424,3 +424,8 @@
 - **Thời gian:** `2026-09-26 16:20:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(sprint3): ghi nhận bài học kinh nghiệm Sprint 3 Retrospective
+
+### [2026-09-26] docs(dod): ký duyệt biên bản nghiệm thu kỹ thuật theo chuẩn Definition of Done
+- **Thời gian:** `2026-09-26 18:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(dod): ký duyệt biên bản nghiệm thu kỹ thuật theo chuẩn Definition of Done
