@@ -409,3 +409,8 @@
 - **Thời gian:** `2026-09-26 09:15:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(userguide): rà soát tài liệu hướng dẫn sử dụng cho Quản trị viên và PT
+
+### [2026-09-26] docs(userguide): rà soát cẩm nang hướng dẫn hội viên trải nghiệm AI gợi ý bài tập
+- **Thời gian:** `2026-09-26 11:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(userguide): rà soát cẩm nang hướng dẫn hội viên trải nghiệm AI gợi ý bài tập
