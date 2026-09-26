@@ -424,3 +424,8 @@
 - **Thời gian:** `2026-09-26 16:20:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** fix(ai): khắc phục lỗi timeout khi gọi API Gemini bằng cơ chế retry và fallback tự động
+
+### [2026-09-26] test(api): viết integration test cho toàn bộ luồng tạo User, lọc bài tập và gọi AI
+- **Thời gian:** `2026-09-26 18:40:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** test(api): viết integration test cho toàn bộ luồng tạo User, lọc bài tập và gọi AI
