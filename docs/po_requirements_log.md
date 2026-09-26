@@ -424,3 +424,8 @@
 - **Thời gian:** `2026-09-26 16:20:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(feedback): thu thập đánh giá của học viên trải nghiệm thử phiên bản demo v0.3.0
+
+### [2026-09-26] docs(roadmap): chuẩn bị kế hoạch phát triển các tính năng nâng cao cho Sprint 4
+- **Thời gian:** `2026-09-26 18:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(roadmap): chuẩn bị kế hoạch phát triển các tính năng nâng cao cho Sprint 4
