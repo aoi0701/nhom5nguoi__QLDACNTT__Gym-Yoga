@@ -414,3 +414,8 @@
 - **Thời gian:** `2026-09-26 11:10:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(wizard): thêm lựa chọn số buổi tập mỗi tuần (3, 4, 5 buổi) và thời lượng
+
+### [2026-09-26] feat(wizard): kết nối API Backend gọi AI sinh lịch tập và hiển thị trạng thái loading spinner
+- **Thời gian:** `2026-09-26 14:00:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(wizard): kết nối API Backend gọi AI sinh lịch tập và hiển thị trạng thái loading spinner
