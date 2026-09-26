@@ -414,3 +414,8 @@
 - **Thời gian:** `2026-09-26 11:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(userguide): rà soát cẩm nang hướng dẫn hội viên trải nghiệm AI gợi ý bài tập
+
+### [2026-09-26] docs(sprint3): lập báo cáo tổng kết Sprint 3 Review: Các mục tiêu đã đạt được
+- **Thời gian:** `2026-09-26 14:00:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint3): lập báo cáo tổng kết Sprint 3 Review: Các mục tiêu đã đạt được
