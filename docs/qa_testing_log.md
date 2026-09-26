@@ -419,3 +419,8 @@
 - **Thời gian:** `2026-09-26 14:00:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(regression): lập kế hoạch và thực thi kiểm thử hồi quy Regression Testing toàn hệ thống
+
+### [2026-09-26] test(coverage): đo lường độ bao phủ kiểm thử toàn dự án đạt 88.5%
+- **Thời gian:** `2026-09-26 16:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(coverage): đo lường độ bao phủ kiểm thử toàn dự án đạt 88.5%
