@@ -419,3 +419,8 @@
 - **Thời gian:** `2026-09-26 14:00:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(wizard): kết nối API Backend gọi AI sinh lịch tập và hiển thị trạng thái loading spinner
+
+### [2026-09-26] feat(wizard): hiển thị lịch tập 7 ngày do AI gợi ý dưới dạng thời khóa biểu trực quan
+- **Thời gian:** `2026-09-26 16:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(wizard): hiển thị lịch tập 7 ngày do AI gợi ý dưới dạng thời khóa biểu trực quan
