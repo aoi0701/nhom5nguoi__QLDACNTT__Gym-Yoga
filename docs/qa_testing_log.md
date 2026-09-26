@@ -409,3 +409,8 @@
 - **Thời gian:** `2026-09-26 09:15:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(bugs): mở báo cáo lỗi QA-BUG-04: API Fallback trả về thiếu trường calories_burned
+
+### [2026-09-26] test(retest): kiểm tra xác nhận đóng lỗi QA-BUG-03 và QA-BUG-04 sau khi Dev fix
+- **Thời gian:** `2026-09-26 11:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(retest): kiểm tra xác nhận đóng lỗi QA-BUG-03 và QA-BUG-04 sau khi Dev fix
