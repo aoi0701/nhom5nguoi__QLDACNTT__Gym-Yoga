@@ -404,3 +404,8 @@
 - **Thời gian:** `2026-09-25 19:20:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(ai): xây dựng Rule-based Fallback Engine sinh lịch tập chuẩn khi AI bị lỗi hoặc timeout
+
+### [2026-09-26] feat(ai): xây dựng API endpoint sinh lịch tập thông minh /api/v2/ai/recommend-workout/
+- **Thời gian:** `2026-09-26 09:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): xây dựng API endpoint sinh lịch tập thông minh /api/v2/ai/recommend-workout/
