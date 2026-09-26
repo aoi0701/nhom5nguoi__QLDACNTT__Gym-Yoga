@@ -409,3 +409,8 @@
 - **Thời gian:** `2026-09-26 09:15:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(wizard): thêm lựa chọn mục tiêu: Giảm mỡ, Tăng cơ bắp, Tăng độ dẻo dai với Yoga
+
+### [2026-09-26] feat(wizard): thêm lựa chọn số buổi tập mỗi tuần (3, 4, 5 buổi) và thời lượng
+- **Thời gian:** `2026-09-26 11:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(wizard): thêm lựa chọn số buổi tập mỗi tuần (3, 4, 5 buổi) và thời lượng
