@@ -404,3 +404,8 @@
 - **Thời gian:** `2026-09-25 19:20:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(wizard): thiết kế quy trình khảo sát đa bước (Step Wizard): Mục tiêu -> Thể trạng -> Lịch tập
+
+### [2026-09-26] feat(wizard): thêm lựa chọn mục tiêu: Giảm mỡ, Tăng cơ bắp, Tăng độ dẻo dai với Yoga
+- **Thời gian:** `2026-09-26 09:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(wizard): thêm lựa chọn mục tiêu: Giảm mỡ, Tăng cơ bắp, Tăng độ dẻo dai với Yoga
