@@ -414,3 +414,8 @@
 - **Thời gian:** `2026-09-26 11:10:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** feat(cache): tích hợp Redis Caching cho danh sách bài tập giảm tải truy vấn CSDL
+
+### [2026-09-26] fix(cors): bổ sung cấu hình cho phép các header Authorization từ Frontend Client
+- **Thời gian:** `2026-09-26 14:00:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** fix(cors): bổ sung cấu hình cho phép các header Authorization từ Frontend Client
