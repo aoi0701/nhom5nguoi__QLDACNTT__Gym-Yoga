@@ -404,3 +404,8 @@
 - **Thời gian:** `2026-09-25 19:20:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(bugs): mở báo cáo lỗi QA-BUG-03: Bộ lọc không giữ trạng thái khi chuyển trang phân trang
+
+### [2026-09-26] docs(bugs): mở báo cáo lỗi QA-BUG-04: API Fallback trả về thiếu trường calories_burned
+- **Thời gian:** `2026-09-26 09:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(bugs): mở báo cáo lỗi QA-BUG-04: API Fallback trả về thiếu trường calories_burned
