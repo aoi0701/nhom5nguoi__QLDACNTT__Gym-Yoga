@@ -424,3 +424,8 @@
 - **Thời gian:** `2026-09-26 16:20:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** feat(wizard): hiển thị lịch tập 7 ngày do AI gợi ý dưới dạng thời khóa biểu trực quan
+
+### [2026-09-26] style(responsive): tối ưu hiển thị giao diện hoàn hảo trên Mobile, Tablet và Desktop
+- **Thời gian:** `2026-09-26 18:40:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** style(responsive): tối ưu hiển thị giao diện hoàn hảo trên Mobile, Tablet và Desktop
