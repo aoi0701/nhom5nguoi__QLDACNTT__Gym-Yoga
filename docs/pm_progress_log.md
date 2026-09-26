@@ -404,3 +404,8 @@
 - **Thời gian:** `2026-09-25 19:20:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(review): tổ chức buổi sơ duyệt tính năng Sprint 3 trước toàn thể nhóm
+
+### [2026-09-26] docs(userguide): rà soát tài liệu hướng dẫn sử dụng cho Quản trị viên và PT
+- **Thời gian:** `2026-09-26 09:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(userguide): rà soát tài liệu hướng dẫn sử dụng cho Quản trị viên và PT
