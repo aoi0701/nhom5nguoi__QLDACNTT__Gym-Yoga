@@ -414,3 +414,8 @@
 - **Thời gian:** `2026-09-26 11:10:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(retest): kiểm tra xác nhận đóng lỗi QA-BUG-03 và QA-BUG-04 sau khi Dev fix
+
+### [2026-09-26] test(regression): lập kế hoạch và thực thi kiểm thử hồi quy Regression Testing toàn hệ thống
+- **Thời gian:** `2026-09-26 14:00:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(regression): lập kế hoạch và thực thi kiểm thử hồi quy Regression Testing toàn hệ thống
