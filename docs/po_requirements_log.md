@@ -419,3 +419,8 @@
 - **Thời gian:** `2026-09-26 14:00:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(sprint3): tổng hợp kết quả bàn giao tính năng Sprint 3 theo góc độ nghiệp vụ
+
+### [2026-09-26] docs(feedback): thu thập đánh giá của học viên trải nghiệm thử phiên bản demo v0.3.0
+- **Thời gian:** `2026-09-26 16:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(feedback): thu thập đánh giá của học viên trải nghiệm thử phiên bản demo v0.3.0
