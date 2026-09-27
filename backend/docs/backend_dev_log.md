@@ -1,4 +1,4 @@
-# NHẬT KÝ HOẠT ĐỘNG SPRINT 1+2 - VAI TRÒ BE
+# NHẬT KÝ HOẠT ĐỘNG TOÀN DIỆN - VAI TRÒ BE
 
 ### [2026-09-07] chore(backend): khảo sát kiến trúc mã nguồn mở wger và phân tích các module cốt lõi
 - **Thời gian:** `2026-09-07 08:30:00 +0700`
@@ -299,3 +299,153 @@
 - **Thời gian:** `2026-09-20 16:50:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** docs(milestone2): xác nhận nghiệm thu kỹ thuật phân hệ Backend mốc Milestone 2
+
+### [2026-09-21] docs(sprint3): họp kỹ thuật thống nhất API bài tập và tích hợp AI với toàn nhóm
+- **Thời gian:** `2026-09-21 08:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** docs(sprint3): họp kỹ thuật thống nhất API bài tập và tích hợp AI với toàn nhóm
+
+### [2026-09-21] feat(admin): xây dựng API quản lý danh sách người dùng cho Admin /api/v2/admin/users/
+- **Thời gian:** `2026-09-21 10:45:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(admin): xây dựng API quản lý danh sách người dùng cho Admin /api/v2/admin/users/
+
+### [2026-09-21] feat(admin): xây dựng API xem chi tiết, cập nhật trạng thái và khóa tài khoản
+- **Thời gian:** `2026-09-21 14:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(admin): xây dựng API xem chi tiết, cập nhật trạng thái và khóa tài khoản
+
+### [2026-09-21] feat(admin): xây dựng API quản lý danh sách Roles và gán vai trò cho người dùng
+- **Thời gian:** `2026-09-21 16:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(admin): xây dựng API quản lý danh sách Roles và gán vai trò cho người dùng
+
+### [2026-09-22] feat(admin): xây dựng API gán và hủy quyền hạn của vai trò (Role-Permission Mapping)
+- **Thời gian:** `2026-09-22 09:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(admin): xây dựng API gán và hủy quyền hạn của vai trò (Role-Permission Mapping)
+
+### [2026-09-22] feat(admin): xây dựng API thống kê tổng số người dùng, bài tập cho Admin Dashboard
+- **Thời gian:** `2026-09-22 11:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(admin): xây dựng API thống kê tổng số người dùng, bài tập cho Admin Dashboard
+
+### [2026-09-22] feat(exercises): xây dựng model MuscleGroup lưu trữ các nhóm cơ tập luyện
+- **Thời gian:** `2026-09-22 13:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng model MuscleGroup lưu trữ các nhóm cơ tập luyện
+
+### [2026-09-22] feat(exercises): xây dựng model Equipment lưu trữ danh mục dụng cụ tập
+- **Thời gian:** `2026-09-22 17:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng model Equipment lưu trữ danh mục dụng cụ tập
+
+### [2026-09-23] feat(exercises): xây dựng model Exercise lưu trữ chi tiết bài tập Gym và Yoga
+- **Thời gian:** `2026-09-23 08:45:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng model Exercise lưu trữ chi tiết bài tập Gym và Yoga
+
+### [2026-09-23] feat(exercises): xây dựng ExerciseSerializer kèm thông tin chi tiết nhóm cơ và thiết bị
+- **Thời gian:** `2026-09-23 10:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng ExerciseSerializer kèm thông tin chi tiết nhóm cơ và thiết bị
+
+### [2026-09-23] feat(exercises): xây dựng API lấy danh sách bài tập kèm phân trang /api/v2/exercises/
+- **Thời gian:** `2026-09-23 14:40:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng API lấy danh sách bài tập kèm phân trang /api/v2/exercises/
+
+### [2026-09-23] feat(exercises): xây dựng bộ lọc đa tiêu chí theo thể loại (Gym/Yoga), độ khó và nhóm cơ
+- **Thời gian:** `2026-09-23 18:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng bộ lọc đa tiêu chí theo thể loại (Gym/Yoga), độ khó và nhóm cơ
+
+### [2026-09-24] feat(exercises): xây dựng tính năng tìm kiếm bài tập theo tên và mô tả bằng search query
+- **Thời gian:** `2026-09-24 09:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng tính năng tìm kiếm bài tập theo tên và mô tả bằng search query
+
+### [2026-09-24] feat(exercises): xây dựng API thêm mới, cập nhật và xóa bài tập (chỉ dành cho Admin/PT)
+- **Thời gian:** `2026-09-24 11:40:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(exercises): xây dựng API thêm mới, cập nhật và xóa bài tập (chỉ dành cho Admin/PT)
+
+### [2026-09-24] feat(ratings): xây dựng model và API đánh giá chấm sao 1-5 cho bài tập /api/v2/ratings/
+- **Thời gian:** `2026-09-24 14:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ratings): xây dựng model và API đánh giá chấm sao 1-5 cho bài tập /api/v2/ratings/
+
+### [2026-09-24] feat(ai): khởi tạo module ai_engine kết nối API Google Gemini và OpenAI GPT-4o
+- **Thời gian:** `2026-09-24 16:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): khởi tạo module ai_engine kết nối API Google Gemini và OpenAI GPT-4o
+
+### [2026-09-25] feat(ai): xây dựng lớp AIService quản lý kết nối và gửi prompt đến LLM
+- **Thời gian:** `2026-09-25 08:50:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): xây dựng lớp AIService quản lý kết nối và gửi prompt đến LLM
+
+### [2026-09-25] feat(ai): thiết kế System Prompt chuẩn hóa đóng vai trò Huấn luyện viên thể hình chuyên nghiệp
+- **Thời gian:** `2026-09-25 10:25:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): thiết kế System Prompt chuẩn hóa đóng vai trò Huấn luyện viên thể hình chuyên nghiệp
+
+### [2026-09-25] feat(ai): xây dựng Prompt Builder tích hợp thông tin thể trạng, BMI, bệnh lý và mục tiêu
+- **Thời gian:** `2026-09-25 13:30:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): xây dựng Prompt Builder tích hợp thông tin thể trạng, BMI, bệnh lý và mục tiêu
+
+### [2026-09-25] feat(ai): xây dựng JSON Parser phân tích cú pháp kết quả trả về từ AI thành giáo án tuần
+- **Thời gian:** `2026-09-25 15:45:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): xây dựng JSON Parser phân tích cú pháp kết quả trả về từ AI thành giáo án tuần
+
+### [2026-09-25] feat(ai): xây dựng Rule-based Fallback Engine sinh lịch tập chuẩn khi AI bị lỗi hoặc timeout
+- **Thời gian:** `2026-09-25 19:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): xây dựng Rule-based Fallback Engine sinh lịch tập chuẩn khi AI bị lỗi hoặc timeout
+
+### [2026-09-26] feat(ai): xây dựng API endpoint sinh lịch tập thông minh /api/v2/ai/recommend-workout/
+- **Thời gian:** `2026-09-26 09:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(ai): xây dựng API endpoint sinh lịch tập thông minh /api/v2/ai/recommend-workout/
+
+### [2026-09-26] feat(cache): tích hợp Redis Caching cho danh sách bài tập giảm tải truy vấn CSDL
+- **Thời gian:** `2026-09-26 11:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** feat(cache): tích hợp Redis Caching cho danh sách bài tập giảm tải truy vấn CSDL
+
+### [2026-09-26] fix(cors): bổ sung cấu hình cho phép các header Authorization từ Frontend Client
+- **Thời gian:** `2026-09-26 14:00:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** fix(cors): bổ sung cấu hình cho phép các header Authorization từ Frontend Client
+
+### [2026-09-26] fix(ai): khắc phục lỗi timeout khi gọi API Gemini bằng cơ chế retry và fallback tự động
+- **Thời gian:** `2026-09-26 16:20:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** fix(ai): khắc phục lỗi timeout khi gọi API Gemini bằng cơ chế retry và fallback tự động
+
+### [2026-09-26] test(api): viết integration test cho toàn bộ luồng tạo User, lọc bài tập và gọi AI
+- **Thời gian:** `2026-09-26 18:40:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** test(api): viết integration test cho toàn bộ luồng tạo User, lọc bài tập và gọi AI
+
+### [2026-09-27] perf(query): sử dụng select_related và prefetch_related tối ưu câu lệnh SQL query
+- **Thời gian:** `2026-09-27 08:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** perf(query): sử dụng select_related và prefetch_related tối ưu câu lệnh SQL query
+
+### [2026-09-27] docs(api): cập nhật hoàn thiện tài liệu Swagger UI cho tất cả các endpoint mới
+- **Thời gian:** `2026-09-27 09:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** docs(api): cập nhật hoàn thiện tài liệu Swagger UI cho tất cả các endpoint mới
+
+### [2026-09-27] chore(cleanup): dọn dẹp mã nguồn thừa, chuẩn hóa logging phục vụ triển khai
+- **Thời gian:** `2026-09-27 10:05:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** chore(cleanup): dọn dẹp mã nguồn thừa, chuẩn hóa logging phục vụ triển khai
+
+### [2026-09-27] docs(milestone3): hoàn thành trọn vẹn mục tiêu phát triển Backend & AI Milestone 3
+- **Thời gian:** `2026-09-27 11:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** docs(milestone3): hoàn thành trọn vẹn mục tiêu phát triển Backend & AI Milestone 3

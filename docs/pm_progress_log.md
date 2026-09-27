@@ -1,4 +1,4 @@
-# NHẬT KÝ HOẠT ĐỘNG SPRINT 1+2 - VAI TRÒ PM
+# NHẬT KÝ HOẠT ĐỘNG TOÀN DIỆN - VAI TRÒ PM
 
 ### [2026-09-07] docs(charter): khởi tạo dự thảo tôn chỉ dự án Project Charter và mục tiêu 8 tuần
 - **Thời gian:** `2026-09-07 08:30:00 +0700`
@@ -299,3 +299,153 @@
 - **Thời gian:** `2026-09-20 16:50:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(milestone2): hoàn thành hồ sơ nghiệm thu mốc Milestone 2 của đồ án
+
+### [2026-09-21] docs(sprint3): khởi động cuộc họp Sprint 3 Kickoff bước vào giai đoạn code tính năng
+- **Thời gian:** `2026-09-21 08:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint3): khởi động cuộc họp Sprint 3 Kickoff bước vào giai đoạn code tính năng
+
+### [2026-09-21] docs(sprint3): phân công chi tiết 27 task trọng tâm cho 5 thành viên trên Jira
+- **Thời gian:** `2026-09-21 10:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint3): phân công chi tiết 27 task trọng tâm cho 5 thành viên trên Jira
+
+### [2026-09-21] docs(daily): giám sát Daily Standup ngày 21/09 về tích hợp Auth JWT
+- **Thời gian:** `2026-09-21 14:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): giám sát Daily Standup ngày 21/09 về tích hợp Auth JWT
+
+### [2026-09-21] docs(tracking): kiểm tra tiến độ xây dựng API CRUD User và Role của backend
+- **Thời gian:** `2026-09-21 16:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(tracking): kiểm tra tiến độ xây dựng API CRUD User và Role của backend
+
+### [2026-09-22] docs(tracking): kiểm tra tiến độ xây dựng bộ Component và Layout của frontend
+- **Thời gian:** `2026-09-22 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(tracking): kiểm tra tiến độ xây dựng bộ Component và Layout của frontend
+
+### [2026-09-22] docs(tracking): theo dõi việc seed dữ liệu 50+ bài tập của đội Database QA
+- **Thời gian:** `2026-09-22 11:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(tracking): theo dõi việc seed dữ liệu 50+ bài tập của đội Database QA
+
+### [2026-09-22] docs(daily): giám sát Daily Standup ngày 23/09 về ma trận phân quyền RBAC
+- **Thời gian:** `2026-09-22 13:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): giám sát Daily Standup ngày 23/09 về ma trận phân quyền RBAC
+
+### [2026-09-22] docs(impediment): xử lý vấn đề nghẽn cổ chai trong việc mapping Role-Permission
+- **Thời gian:** `2026-09-22 17:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(impediment): xử lý vấn đề nghẽn cổ chai trong việc mapping Role-Permission
+
+### [2026-09-23] docs(coordination): tổ chức phiên họp kỹ thuật giữa Backend và Frontend về API contract
+- **Thời gian:** `2026-09-23 08:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(coordination): tổ chức phiên họp kỹ thuật giữa Backend và Frontend về API contract
+
+### [2026-09-23] docs(burndown): cập nhật biểu đồ burndown chart Sprint 3 theo thời gian thực
+- **Thời gian:** `2026-09-23 10:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(burndown): cập nhật biểu đồ burndown chart Sprint 3 theo thời gian thực
+
+### [2026-09-23] docs(tracking): theo dõi tiến độ tích hợp AI Gemini Prompt Engine và Fallback
+- **Thời gian:** `2026-09-23 14:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(tracking): theo dõi tiến độ tích hợp AI Gemini Prompt Engine và Fallback
+
+### [2026-09-23] docs(tracking): kiểm tra giao diện AI Wizard khảo sát bài tập trên frontend
+- **Thời gian:** `2026-09-23 18:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(tracking): kiểm tra giao diện AI Wizard khảo sát bài tập trên frontend
+
+### [2026-09-24] docs(daily): giám sát Daily Standup ngày 25/09 về tiến độ hoàn thiện bộ lọc bài tập
+- **Thời gian:** `2026-09-24 09:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): giám sát Daily Standup ngày 25/09 về tiến độ hoàn thiện bộ lọc bài tập
+
+### [2026-09-24] docs(quality): rà soát độ bao phủ kiểm thử QA Test Coverage đạt trên 80%
+- **Thời gian:** `2026-09-24 11:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(quality): rà soát độ bao phủ kiểm thử QA Test Coverage đạt trên 80%
+
+### [2026-09-24] docs(risk): kiểm tra kịch bản Fallback Engine hoạt động ổn định khi ngắt mạng AI
+- **Thời gian:** `2026-09-24 14:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(risk): kiểm tra kịch bản Fallback Engine hoạt động ổn định khi ngắt mạng AI
+
+### [2026-09-24] docs(security): rà soát bảo mật JWT, ngăn ngừa lộ token và cấu hình CORS chặt chẽ
+- **Thời gian:** `2026-09-24 16:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(security): rà soát bảo mật JWT, ngăn ngừa lộ token và cấu hình CORS chặt chẽ
+
+### [2026-09-25] chore(sync): kiểm tra đồng bộ trạng thái 200 tasks trên Jira và GitHub
+- **Thời gian:** `2026-09-25 08:50:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(sync): kiểm tra đồng bộ trạng thái 200 tasks trên Jira và GitHub
+
+### [2026-09-25] docs(daily): giám sát Daily Standup ngày 26/09 về kiểm thử liên thông End-to-End
+- **Thời gian:** `2026-09-25 10:25:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(daily): giám sát Daily Standup ngày 26/09 về kiểm thử liên thông End-to-End
+
+### [2026-09-25] docs(performance): đánh giá thời gian phản hồi của API gợi ý bài tập dưới 3 giây
+- **Thời gian:** `2026-09-25 13:30:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(performance): đánh giá thời gian phản hồi của API gợi ý bài tập dưới 3 giây
+
+### [2026-09-25] docs(usability): đánh giá tính trực quan và khả năng tương thích của giao diện
+- **Thời gian:** `2026-09-25 15:45:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(usability): đánh giá tính trực quan và khả năng tương thích của giao diện
+
+### [2026-09-25] docs(review): tổ chức buổi sơ duyệt tính năng Sprint 3 trước toàn thể nhóm
+- **Thời gian:** `2026-09-25 19:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(review): tổ chức buổi sơ duyệt tính năng Sprint 3 trước toàn thể nhóm
+
+### [2026-09-26] docs(userguide): rà soát tài liệu hướng dẫn sử dụng cho Quản trị viên và PT
+- **Thời gian:** `2026-09-26 09:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(userguide): rà soát tài liệu hướng dẫn sử dụng cho Quản trị viên và PT
+
+### [2026-09-26] docs(userguide): rà soát cẩm nang hướng dẫn hội viên trải nghiệm AI gợi ý bài tập
+- **Thời gian:** `2026-09-26 11:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(userguide): rà soát cẩm nang hướng dẫn hội viên trải nghiệm AI gợi ý bài tập
+
+### [2026-09-26] docs(sprint3): lập báo cáo tổng kết Sprint 3 Review: Các mục tiêu đã đạt được
+- **Thời gian:** `2026-09-26 14:00:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint3): lập báo cáo tổng kết Sprint 3 Review: Các mục tiêu đã đạt được
+
+### [2026-09-26] docs(sprint3): ghi nhận bài học kinh nghiệm Sprint 3 Retrospective
+- **Thời gian:** `2026-09-26 16:20:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(sprint3): ghi nhận bài học kinh nghiệm Sprint 3 Retrospective
+
+### [2026-09-26] docs(dod): ký duyệt biên bản nghiệm thu kỹ thuật theo chuẩn Definition of Done
+- **Thời gian:** `2026-09-26 18:40:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(dod): ký duyệt biên bản nghiệm thu kỹ thuật theo chuẩn Definition of Done
+
+### [2026-09-27] docs(release): soạn thảo tài liệu ghi chú phát hành Release Notes phiên bản v0.3.0
+- **Thời gian:** `2026-09-27 08:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(release): soạn thảo tài liệu ghi chú phát hành Release Notes phiên bản v0.3.0
+
+### [2026-09-27] docs(report): hoàn thiện báo cáo tiến độ tuần 3 nộp giảng viên phụ trách môn học
+- **Thời gian:** `2026-09-27 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(report): hoàn thiện báo cáo tiến độ tuần 3 nộp giảng viên phụ trách môn học
+
+### [2026-09-27] chore(cleanup): chuẩn hóa lại cây thư mục tài liệu và chuẩn bị cho Sprint 4
+- **Thời gian:** `2026-09-27 10:05:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(cleanup): chuẩn hóa lại cây thư mục tài liệu và chuẩn bị cho Sprint 4
+
+### [2026-09-27] docs(milestone3): chốt thành công Milestone 3 - Tích hợp toàn diện các module cốt lõi
+- **Thời gian:** `2026-09-27 11:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(milestone3): chốt thành công Milestone 3 - Tích hợp toàn diện các module cốt lõi

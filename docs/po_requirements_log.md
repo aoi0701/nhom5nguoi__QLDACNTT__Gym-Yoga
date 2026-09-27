@@ -1,4 +1,4 @@
-# NHẬT KÝ HOẠT ĐỘNG SPRINT 1+2 - VAI TRÒ PO
+# NHẬT KÝ HOẠT ĐỘNG TOÀN DIỆN - VAI TRÒ PO
 
 ### [2026-09-07] docs(survey): lên kế hoạch khảo sát thực tế tại các phòng tập Gym và Yoga
 - **Thời gian:** `2026-09-07 08:30:00 +0700`
@@ -299,3 +299,153 @@
 - **Thời gian:** `2026-09-20 16:50:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(milestone2): xác nhận hoàn thành chỉ tiêu phân tích nghiệp vụ Milestone 2
+
+### [2026-09-21] docs(sprint3): họp thẩm định tiêu chí nghiệm thu các User Stories trong Sprint 3
+- **Thời gian:** `2026-09-21 08:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(sprint3): họp thẩm định tiêu chí nghiệm thu các User Stories trong Sprint 3
+
+### [2026-09-21] feat(stories): soạn thảo User Story US121 đến US140: Đánh giá, chấm sao và bình luận bài tập
+- **Thời gian:** `2026-09-21 10:45:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US121 đến US140: Đánh giá, chấm sao và bình luận bài tập
+
+### [2026-09-21] feat(stories): soạn thảo User Story US141 đến US160: Quản lý danh sách người dùng và gán vai trò
+- **Thời gian:** `2026-09-21 14:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US141 đến US160: Quản lý danh sách người dùng và gán vai trò
+
+### [2026-09-21] feat(stories): soạn thảo User Story US161 đến US180: Bảng thống kê số liệu người dùng và bài tập
+- **Thời gian:** `2026-09-21 16:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US161 đến US180: Bảng thống kê số liệu người dùng và bài tập
+
+### [2026-09-22] feat(stories): soạn thảo User Story US181 đến US200: Nhật ký hệ thống và kiểm toán bảo mật
+- **Thời gian:** `2026-09-22 09:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** feat(stories): soạn thảo User Story US181 đến US200: Nhật ký hệ thống và kiểm toán bảo mật
+
+### [2026-09-22] docs(ac): rà soát Acceptance Criteria cho chức năng Admin CRUD User & Role
+- **Thời gian:** `2026-09-22 11:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): rà soát Acceptance Criteria cho chức năng Admin CRUD User & Role
+
+### [2026-09-22] docs(ac): rà soát Acceptance Criteria cho chức năng lọc bài tập đa tiêu chí
+- **Thời gian:** `2026-09-22 13:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): rà soát Acceptance Criteria cho chức năng lọc bài tập đa tiêu chí
+
+### [2026-09-22] docs(ac): rà soát Acceptance Criteria cho kịch bản AI Wizard sinh lịch tập
+- **Thời gian:** `2026-09-22 17:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ac): rà soát Acceptance Criteria cho kịch bản AI Wizard sinh lịch tập
+
+### [2026-09-23] docs(validation): kiểm tra thực tế giao diện Đăng nhập và Đăng ký trên React
+- **Thời gian:** `2026-09-23 08:45:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(validation): kiểm tra thực tế giao diện Đăng nhập và Đăng ký trên React
+
+### [2026-09-23] docs(validation): kiểm tra tính chính xác của công thức tính BMI và phân loại thể trạng
+- **Thời gian:** `2026-09-23 10:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(validation): kiểm tra tính chính xác của công thức tính BMI và phân loại thể trạng
+
+### [2026-09-23] docs(validation): kiểm tra ma trận phân quyền RBAC: chặn đúng mã lỗi 403 khi sai vai trò
+- **Thời gian:** `2026-09-23 14:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(validation): kiểm tra ma trận phân quyền RBAC: chặn đúng mã lỗi 403 khi sai vai trò
+
+### [2026-09-23] docs(validation): kiểm tra kết quả trả về của API bài tập khi lọc theo Gym/Yoga
+- **Thời gian:** `2026-09-23 18:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(validation): kiểm tra kết quả trả về của API bài tập khi lọc theo Gym/Yoga
+
+### [2026-09-24] docs(ai-eval): đánh giá chất lượng các lịch tập mẫu do AI sinh ra theo tiêu chuẩn PT
+- **Thời gian:** `2026-09-24 09:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ai-eval): đánh giá chất lượng các lịch tập mẫu do AI sinh ra theo tiêu chuẩn PT
+
+### [2026-09-24] docs(ai-eval): tinh chỉnh các ràng buộc an toàn: cảnh báo bài tập nặng với người có bệnh lý
+- **Thời gian:** `2026-09-24 11:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(ai-eval): tinh chỉnh các ràng buộc an toàn: cảnh báo bài tập nặng với người có bệnh lý
+
+### [2026-09-24] docs(fallback): kiểm nghiệm trải nghiệm người dùng khi kích hoạt cơ chế Rule-based Fallback
+- **Thời gian:** `2026-09-24 14:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(fallback): kiểm nghiệm trải nghiệm người dùng khi kích hoạt cơ chế Rule-based Fallback
+
+### [2026-09-24] docs(userguide): soạn thảo tài liệu Hướng dẫn sử dụng phân hệ Quản trị viên (Admin Guide)
+- **Thời gian:** `2026-09-24 16:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(userguide): soạn thảo tài liệu Hướng dẫn sử dụng phân hệ Quản trị viên (Admin Guide)
+
+### [2026-09-25] docs(userguide): soạn thảo tài liệu Hướng dẫn sử dụng dành cho Huấn luyện viên (PT Guide)
+- **Thời gian:** `2026-09-25 08:50:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(userguide): soạn thảo tài liệu Hướng dẫn sử dụng dành cho Huấn luyện viên (PT Guide)
+
+### [2026-09-25] docs(userguide): soạn thảo cẩm nang Hướng dẫn Hội viên sử dụng AI gợi ý lịch tập
+- **Thời gian:** `2026-09-25 10:25:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(userguide): soạn thảo cẩm nang Hướng dẫn Hội viên sử dụng AI gợi ý lịch tập
+
+### [2026-09-25] docs(qa-sync): phối hợp với QA rà soát ma trận truy vết yêu cầu (Traceability Matrix)
+- **Thời gian:** `2026-09-25 13:30:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(qa-sync): phối hợp với QA rà soát ma trận truy vết yêu cầu (Traceability Matrix)
+
+### [2026-09-25] docs(acceptance): thực hiện kiểm thử chấp nhận người dùng User Acceptance Testing (UAT)
+- **Thời gian:** `2026-09-25 15:45:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(acceptance): thực hiện kiểm thử chấp nhận người dùng User Acceptance Testing (UAT)
+
+### [2026-09-25] docs(acceptance): ghi nhận danh sách phản hồi UAT và bàn giao dev xử lý
+- **Thời gian:** `2026-09-25 19:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(acceptance): ghi nhận danh sách phản hồi UAT và bàn giao dev xử lý
+
+### [2026-09-26] docs(acceptance): xác nhận nghiệm thu các tính năng đã sửa lỗi đạt chuẩn
+- **Thời gian:** `2026-09-26 09:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(acceptance): xác nhận nghiệm thu các tính năng đã sửa lỗi đạt chuẩn
+
+### [2026-09-26] docs(review): đối chiếu toàn bộ 200 User Stories với tiến độ thực tế trên Jira
+- **Thời gian:** `2026-09-26 11:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(review): đối chiếu toàn bộ 200 User Stories với tiến độ thực tế trên Jira
+
+### [2026-09-26] docs(sprint3): tổng hợp kết quả bàn giao tính năng Sprint 3 theo góc độ nghiệp vụ
+- **Thời gian:** `2026-09-26 14:00:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(sprint3): tổng hợp kết quả bàn giao tính năng Sprint 3 theo góc độ nghiệp vụ
+
+### [2026-09-26] docs(feedback): thu thập đánh giá của học viên trải nghiệm thử phiên bản demo v0.3.0
+- **Thời gian:** `2026-09-26 16:20:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(feedback): thu thập đánh giá của học viên trải nghiệm thử phiên bản demo v0.3.0
+
+### [2026-09-26] docs(roadmap): chuẩn bị kế hoạch phát triển các tính năng nâng cao cho Sprint 4
+- **Thời gian:** `2026-09-26 18:40:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(roadmap): chuẩn bị kế hoạch phát triển các tính năng nâng cao cho Sprint 4
+
+### [2026-09-27] docs(dod): ký duyệt biên bản nghiệm thu nghiệp vụ Product Acceptance
+- **Thời gian:** `2026-09-27 08:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(dod): ký duyệt biên bản nghiệm thu nghiệp vụ Product Acceptance
+
+### [2026-09-27] docs(srs): phát hành tài liệu Đặc tả Yêu cầu SRS phiên bản chính thức v3.0
+- **Thời gian:** `2026-09-27 09:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(srs): phát hành tài liệu Đặc tả Yêu cầu SRS phiên bản chính thức v3.0
+
+### [2026-09-27] chore(cleanup): lưu trữ các biểu mẫu khảo sát và tài liệu nghiệp vụ vào thư mục docs/
+- **Thời gian:** `2026-09-27 10:05:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** chore(cleanup): lưu trữ các biểu mẫu khảo sát và tài liệu nghiệp vụ vào thư mục docs/
+
+### [2026-09-27] docs(milestone3): hoàn thành xuất sắc vai trò Product Owner cho giai đoạn Milestone 3
+- **Thời gian:** `2026-09-27 11:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(milestone3): hoàn thành xuất sắc vai trò Product Owner cho giai đoạn Milestone 3
