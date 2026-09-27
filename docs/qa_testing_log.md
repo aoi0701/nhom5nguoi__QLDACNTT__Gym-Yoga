@@ -434,3 +434,8 @@
 - **Thời gian:** `2026-09-27 08:15:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(qa): lập Báo cáo Tổng kết Kiểm thử (Test Summary Report) kết thúc giai đoạn 1
+
+### [2026-09-27] test(acceptance): hỗ trợ Product Owner trong buổi kiểm thử chấp nhận UAT
+- **Thời gian:** `2026-09-27 09:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(acceptance): hỗ trợ Product Owner trong buổi kiểm thử chấp nhận UAT
