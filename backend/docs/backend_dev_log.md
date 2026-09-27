@@ -429,3 +429,8 @@
 - **Thời gian:** `2026-09-26 18:40:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** test(api): viết integration test cho toàn bộ luồng tạo User, lọc bài tập và gọi AI
+
+### [2026-09-27] perf(query): sử dụng select_related và prefetch_related tối ưu câu lệnh SQL query
+- **Thời gian:** `2026-09-27 08:15:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** perf(query): sử dụng select_related và prefetch_related tối ưu câu lệnh SQL query
