@@ -434,3 +434,8 @@
 - **Thời gian:** `2026-09-27 08:15:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** perf(query): sử dụng select_related và prefetch_related tối ưu câu lệnh SQL query
+
+### [2026-09-27] docs(api): cập nhật hoàn thiện tài liệu Swagger UI cho tất cả các endpoint mới
+- **Thời gian:** `2026-09-27 09:10:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** docs(api): cập nhật hoàn thiện tài liệu Swagger UI cho tất cả các endpoint mới
