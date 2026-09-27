@@ -429,3 +429,8 @@
 - **Thời gian:** `2026-09-26 18:40:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(dod): ký duyệt biên bản nghiệm thu kỹ thuật theo chuẩn Definition of Done
+
+### [2026-09-27] docs(release): soạn thảo tài liệu ghi chú phát hành Release Notes phiên bản v0.3.0
+- **Thời gian:** `2026-09-27 08:15:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(release): soạn thảo tài liệu ghi chú phát hành Release Notes phiên bản v0.3.0
