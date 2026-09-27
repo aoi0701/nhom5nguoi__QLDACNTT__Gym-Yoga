@@ -429,3 +429,8 @@
 - **Thời gian:** `2026-09-26 18:40:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(roadmap): chuẩn bị kế hoạch phát triển các tính năng nâng cao cho Sprint 4
+
+### [2026-09-27] docs(dod): ký duyệt biên bản nghiệm thu nghiệp vụ Product Acceptance
+- **Thời gian:** `2026-09-27 08:15:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(dod): ký duyệt biên bản nghiệm thu nghiệp vụ Product Acceptance
