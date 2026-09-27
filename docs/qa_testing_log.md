@@ -439,3 +439,8 @@
 - **Thời gian:** `2026-09-27 09:10:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** test(acceptance): hỗ trợ Product Owner trong buổi kiểm thử chấp nhận UAT
+
+### [2026-09-27] chore(cleanup): chuẩn hóa lại các bộ collection Postman và tài liệu kiểm thử
+- **Thời gian:** `2026-09-27 10:05:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** chore(cleanup): chuẩn hóa lại các bộ collection Postman và tài liệu kiểm thử
