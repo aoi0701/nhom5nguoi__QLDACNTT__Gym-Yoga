@@ -1,4 +1,4 @@
-# NHẬT KÝ HOẠT ĐỘNG SPRINT 1+2 - VAI TRÒ QA
+# NHẬT KÝ HOẠT ĐỘNG TOÀN DIỆN - VAI TRÒ QA
 
 ### [2026-09-07] docs(erd): khảo sát các thực thể dữ liệu cốt lõi trong hệ thống quản lý Gym-Yoga
 - **Thời gian:** `2026-09-07 08:30:00 +0700`
@@ -299,3 +299,153 @@
 - **Thời gian:** `2026-09-20 16:50:00 +0700`
 - **Người thực hiện:** Đỗ Minh Nhật
 - **Nội dung:** docs(milestone2): hoàn thành xuất sắc mục tiêu kiểm thử và chuẩn hóa CSDL Milestone 2
+
+### [2026-09-21] docs(sprint3): khởi động kế hoạch kiểm thử toàn diện Sprint 3 cho các tính năng mới
+- **Thời gian:** `2026-09-21 08:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(sprint3): khởi động kế hoạch kiểm thử toàn diện Sprint 3 cho các tính năng mới
+
+### [2026-09-21] database(seeds): biên soạn script nạp dữ liệu mẫu database/seeds.sql cho 50+ bài tập
+- **Thời gian:** `2026-09-21 10:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(seeds): biên soạn script nạp dữ liệu mẫu database/seeds.sql cho 50+ bài tập
+
+### [2026-09-21] database(seeds): thêm dữ liệu nhóm cơ: Ngực, Lưng, Chân, Vai, Tay, Bụng và Cột sống
+- **Thời gian:** `2026-09-21 14:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(seeds): thêm dữ liệu nhóm cơ: Ngực, Lưng, Chân, Vai, Tay, Bụng và Cột sống
+
+### [2026-09-21] database(seeds): thêm dữ liệu thiết bị: Tạ đơn, Tạ đòn, Máy kéo cáp, Thảm yoga, Dây kháng lực
+- **Thời gian:** `2026-09-21 16:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(seeds): thêm dữ liệu thiết bị: Tạ đơn, Tạ đòn, Máy kéo cáp, Thảm yoga, Dây kháng lực
+
+### [2026-09-22] database(seeds): nạp tài khoản mẫu cho 3 vai trò: Admin, PT Coach và Hội viên Member
+- **Thời gian:** `2026-09-22 09:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(seeds): nạp tài khoản mẫu cho 3 vai trò: Admin, PT Coach và Hội viên Member
+
+### [2026-09-22] database(index): tạo chỉ mục B-tree trên bảng exercises cho category, difficulty và muscle_group
+- **Thời gian:** `2026-09-22 11:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(index): tạo chỉ mục B-tree trên bảng exercises cho category, difficulty và muscle_group
+
+### [2026-09-22] database(index): tạo chỉ mục B-tree trên bảng users cho email và created_at
+- **Thời gian:** `2026-09-22 13:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** database(index): tạo chỉ mục B-tree trên bảng users cho email và created_at
+
+### [2026-09-22] test(perf): đo lường thời gian truy vấn danh mục bài tập trước và sau khi đánh index (< 50ms)
+- **Thời gian:** `2026-09-22 17:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(perf): đo lường thời gian truy vấn danh mục bài tập trước và sau khi đánh index (< 50ms)
+
+### [2026-09-23] test(rbac): viết 20 Test Cases kiểm thử ma trận phân quyền RBAC trên API và giao diện
+- **Thời gian:** `2026-09-23 08:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(rbac): viết 20 Test Cases kiểm thử ma trận phân quyền RBAC trên API và giao diện
+
+### [2026-09-23] test(rbac): kiểm thử quyền Admin: được phép CRUD User, CRUD Role, cấu hình phân quyền
+- **Thời gian:** `2026-09-23 10:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(rbac): kiểm thử quyền Admin: được phép CRUD User, CRUD Role, cấu hình phân quyền
+
+### [2026-09-23] test(rbac): kiểm thử quyền PT Coach: được phép quản lý bài tập, bị chặn vào trang quản lý User
+- **Thời gian:** `2026-09-23 14:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(rbac): kiểm thử quyền PT Coach: được phép quản lý bài tập, bị chặn vào trang quản lý User
+
+### [2026-09-23] test(rbac): kiểm thử quyền Member: chỉ được xem bài tập và dùng AI Wizard, bị chặn sửa xóa
+- **Thời gian:** `2026-09-23 18:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(rbac): kiểm thử quyền Member: chỉ được xem bài tập và dùng AI Wizard, bị chặn sửa xóa
+
+### [2026-09-24] test(filter): viết 15 Test Cases kiểm thử bộ lọc bài tập theo Gym/Yoga, độ khó và nhóm cơ
+- **Thời gian:** `2026-09-24 09:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(filter): viết 15 Test Cases kiểm thử bộ lọc bài tập theo Gym/Yoga, độ khó và nhóm cơ
+
+### [2026-09-24] test(ai): viết 15 Test Cases kiểm định tính hợp lệ của JSON schema kết quả gợi ý AI
+- **Thời gian:** `2026-09-24 11:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(ai): viết 15 Test Cases kiểm định tính hợp lệ của JSON schema kết quả gợi ý AI
+
+### [2026-09-24] test(fallback): viết 10 Test Cases kiểm thử cơ chế Fallback Engine khi ngắt kết nối AI
+- **Thời gian:** `2026-09-24 14:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(fallback): viết 10 Test Cases kiểm thử cơ chế Fallback Engine khi ngắt kết nối AI
+
+### [2026-09-24] test(postman): cập nhật Postman Collection cho các API Exercises, RBAC và AI Engine
+- **Thời gian:** `2026-09-24 16:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(postman): cập nhật Postman Collection cho các API Exercises, RBAC và AI Engine
+
+### [2026-09-25] test(ui): kiểm thử giao diện Responsive trên các kích thước Mobile (375px), Tablet (768px), PC (1440px)
+- **Thời gian:** `2026-09-25 08:50:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(ui): kiểm thử giao diện Responsive trên các kích thước Mobile (375px), Tablet (768px), PC (1440px)
+
+### [2026-09-25] test(ui): kiểm thử tính tương thích trên các trình duyệt Chrome, Edge, Firefox, Safari
+- **Thời gian:** `2026-09-25 10:25:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(ui): kiểm thử tính tương thích trên các trình duyệt Chrome, Edge, Firefox, Safari
+
+### [2026-09-25] test(security): kiểm thử bảo mật lỗ hổng SQL Injection trên các tham số tìm kiếm bài tập
+- **Thời gian:** `2026-09-25 13:30:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(security): kiểm thử bảo mật lỗ hổng SQL Injection trên các tham số tìm kiếm bài tập
+
+### [2026-09-25] test(security): kiểm thử bảo mật lỗ hổng Cross-Site Scripting (XSS) trên form đăng ký
+- **Thời gian:** `2026-09-25 15:45:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(security): kiểm thử bảo mật lỗ hổng Cross-Site Scripting (XSS) trên form đăng ký
+
+### [2026-09-25] docs(bugs): mở báo cáo lỗi QA-BUG-03: Bộ lọc không giữ trạng thái khi chuyển trang phân trang
+- **Thời gian:** `2026-09-25 19:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(bugs): mở báo cáo lỗi QA-BUG-03: Bộ lọc không giữ trạng thái khi chuyển trang phân trang
+
+### [2026-09-26] docs(bugs): mở báo cáo lỗi QA-BUG-04: API Fallback trả về thiếu trường calories_burned
+- **Thời gian:** `2026-09-26 09:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(bugs): mở báo cáo lỗi QA-BUG-04: API Fallback trả về thiếu trường calories_burned
+
+### [2026-09-26] test(retest): kiểm tra xác nhận đóng lỗi QA-BUG-03 và QA-BUG-04 sau khi Dev fix
+- **Thời gian:** `2026-09-26 11:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(retest): kiểm tra xác nhận đóng lỗi QA-BUG-03 và QA-BUG-04 sau khi Dev fix
+
+### [2026-09-26] test(regression): lập kế hoạch và thực thi kiểm thử hồi quy Regression Testing toàn hệ thống
+- **Thời gian:** `2026-09-26 14:00:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(regression): lập kế hoạch và thực thi kiểm thử hồi quy Regression Testing toàn hệ thống
+
+### [2026-09-26] test(coverage): đo lường độ bao phủ kiểm thử toàn dự án đạt 88.5%
+- **Thời gian:** `2026-09-26 16:20:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(coverage): đo lường độ bao phủ kiểm thử toàn dự án đạt 88.5%
+
+### [2026-09-26] docs(qa): hoàn thiện báo cáo Test Execution Report Sprint 3 đầy đủ số liệu và biểu đồ
+- **Thời gian:** `2026-09-26 18:40:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(qa): hoàn thiện báo cáo Test Execution Report Sprint 3 đầy đủ số liệu và biểu đồ
+
+### [2026-09-27] docs(qa): lập Báo cáo Tổng kết Kiểm thử (Test Summary Report) kết thúc giai đoạn 1
+- **Thời gian:** `2026-09-27 08:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(qa): lập Báo cáo Tổng kết Kiểm thử (Test Summary Report) kết thúc giai đoạn 1
+
+### [2026-09-27] test(acceptance): hỗ trợ Product Owner trong buổi kiểm thử chấp nhận UAT
+- **Thời gian:** `2026-09-27 09:10:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** test(acceptance): hỗ trợ Product Owner trong buổi kiểm thử chấp nhận UAT
+
+### [2026-09-27] chore(cleanup): chuẩn hóa lại các bộ collection Postman và tài liệu kiểm thử
+- **Thời gian:** `2026-09-27 10:05:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** chore(cleanup): chuẩn hóa lại các bộ collection Postman và tài liệu kiểm thử
+
+### [2026-09-27] docs(milestone3): chốt nghiệm thu chất lượng hệ thống sẵn sàng bàn giao Milestone 3
+- **Thời gian:** `2026-09-27 11:15:00 +0700`
+- **Người thực hiện:** Đỗ Minh Nhật
+- **Nội dung:** docs(milestone3): chốt nghiệm thu chất lượng hệ thống sẵn sàng bàn giao Milestone 3

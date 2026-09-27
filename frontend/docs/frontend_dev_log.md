@@ -1,4 +1,4 @@
-# NHẬT KÝ HOẠT ĐỘNG SPRINT 1+2 - VAI TRÒ FE
+# NHẬT KÝ HOẠT ĐỘNG TOÀN DIỆN - VAI TRÒ FE
 
 ### [2026-09-07] chore(frontend): khảo sát các xu hướng thiết kế UI/UX ứng dụng fitness hiện đại
 - **Thời gian:** `2026-09-07 08:30:00 +0700`
@@ -299,3 +299,153 @@
 - **Thời gian:** `2026-09-20 16:50:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** docs(milestone2): xác nhận nghiệm thu kỹ thuật phân hệ Frontend mốc Milestone 2
+
+### [2026-09-21] docs(sprint3): họp thống nhất các component và kết nối API tính năng Sprint 3
+- **Thời gian:** `2026-09-21 08:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** docs(sprint3): họp thống nhất các component và kết nối API tính năng Sprint 3
+
+### [2026-09-21] feat(context): xây dựng Global AuthContext quản lý thông tin user và trạng thái đăng nhập
+- **Thời gian:** `2026-09-21 10:45:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(context): xây dựng Global AuthContext quản lý thông tin user và trạng thái đăng nhập
+
+### [2026-09-21] feat(context): bổ sung phương thức login, logout và tự động nạp user profile khi tải trang
+- **Thời gian:** `2026-09-21 14:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(context): bổ sung phương thức login, logout và tự động nạp user profile khi tải trang
+
+### [2026-09-21] feat(context): cung cấp hook useAuth() tiện lợi cho các component sử dụng
+- **Thời gian:** `2026-09-21 16:50:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(context): cung cấp hook useAuth() tiện lợi cho các component sử dụng
+
+### [2026-09-22] feat(components): xây dựng component Button tái sử dụng với các variant: primary, secondary, outline
+- **Thời gian:** `2026-09-22 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(components): xây dựng component Button tái sử dụng với các variant: primary, secondary, outline
+
+### [2026-09-22] feat(components): xây dựng component Input với nhãn label, placeholder và hiển thị lỗi đỏ
+- **Thời gian:** `2026-09-22 11:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(components): xây dựng component Input với nhãn label, placeholder và hiển thị lỗi đỏ
+
+### [2026-09-22] feat(components): xây dựng component Modal hộp thoại xác nhận thao tác hoặc hiển thị chi tiết
+- **Thời gian:** `2026-09-22 13:50:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(components): xây dựng component Modal hộp thoại xác nhận thao tác hoặc hiển thị chi tiết
+
+### [2026-09-22] feat(components): xây dựng component Badge hiển thị nhãn GYM, YOGA, độ khó và trạng thái
+- **Thời gian:** `2026-09-22 17:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(components): xây dựng component Badge hiển thị nhãn GYM, YOGA, độ khó và trạng thái
+
+### [2026-09-23] feat(components): xây dựng component Toast thông báo thao tác thành công hoặc thất bại
+- **Thời gian:** `2026-09-23 08:45:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(components): xây dựng component Toast thông báo thao tác thành công hoặc thất bại
+
+### [2026-09-23] feat(components): xây dựng component Dropdown lựa chọn vai trò và các tùy chọn
+- **Thời gian:** `2026-09-23 10:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(components): xây dựng component Dropdown lựa chọn vai trò và các tùy chọn
+
+### [2026-09-23] feat(admin): nâng cấp giao diện Bảng điều khiển Quản trị viên Admin Dashboard
+- **Thời gian:** `2026-09-23 14:40:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(admin): nâng cấp giao diện Bảng điều khiển Quản trị viên Admin Dashboard
+
+### [2026-09-23] feat(admin): xây dựng bảng ma trận phân quyền RBAC phân tách rõ quyền Admin, PT và Member
+- **Thời gian:** `2026-09-23 18:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(admin): xây dựng bảng ma trận phân quyền RBAC phân tách rõ quyền Admin, PT và Member
+
+### [2026-09-24] feat(admin): thêm danh sách người dùng kèm nút gán vai trò và thao tác khóa tài khoản
+- **Thời gian:** `2026-09-24 09:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(admin): thêm danh sách người dùng kèm nút gán vai trò và thao tác khóa tài khoản
+
+### [2026-09-24] feat(admin): thêm các thẻ thống kê tổng quan: Tổng hội viên, Tổng bài tập, Lịch tập đã tạo
+- **Thời gian:** `2026-09-24 11:40:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(admin): thêm các thẻ thống kê tổng quan: Tổng hội viên, Tổng bài tập, Lịch tập đã tạo
+
+### [2026-09-24] feat(catalog): hoàn thiện giao diện Thư viện bài tập Gym & Yoga dạng lưới thẻ Grid
+- **Thời gian:** `2026-09-24 14:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(catalog): hoàn thiện giao diện Thư viện bài tập Gym & Yoga dạng lưới thẻ Grid
+
+### [2026-09-24] feat(catalog): thêm bộ lọc chuyển đổi nhanh giữa bài tập GYM và bài tập YOGA
+- **Thời gian:** `2026-09-24 16:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(catalog): thêm bộ lọc chuyển đổi nhanh giữa bài tập GYM và bài tập YOGA
+
+### [2026-09-25] feat(catalog): thêm bộ lọc theo mức độ khó: Dễ, Trung bình, Nâng cao
+- **Thời gian:** `2026-09-25 08:50:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(catalog): thêm bộ lọc theo mức độ khó: Dễ, Trung bình, Nâng cao
+
+### [2026-09-25] feat(catalog): thêm thanh tìm kiếm bài tập theo từ khóa hỗ trợ tra cứu nhanh
+- **Thời gian:** `2026-09-25 10:25:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(catalog): thêm thanh tìm kiếm bài tập theo từ khóa hỗ trợ tra cứu nhanh
+
+### [2026-09-25] feat(catalog): hiển thị chi tiết bài tập: nhóm cơ tác động, dụng cụ cần thiết và hướng dẫn
+- **Thời gian:** `2026-09-25 13:30:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(catalog): hiển thị chi tiết bài tập: nhóm cơ tác động, dụng cụ cần thiết và hướng dẫn
+
+### [2026-09-25] feat(wizard): hoàn thiện màn hình Khảo sát AI Wizard gợi ý lịch tập cá nhân hóa
+- **Thời gian:** `2026-09-25 15:45:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(wizard): hoàn thiện màn hình Khảo sát AI Wizard gợi ý lịch tập cá nhân hóa
+
+### [2026-09-25] feat(wizard): thiết kế quy trình khảo sát đa bước (Step Wizard): Mục tiêu -> Thể trạng -> Lịch tập
+- **Thời gian:** `2026-09-25 19:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(wizard): thiết kế quy trình khảo sát đa bước (Step Wizard): Mục tiêu -> Thể trạng -> Lịch tập
+
+### [2026-09-26] feat(wizard): thêm lựa chọn mục tiêu: Giảm mỡ, Tăng cơ bắp, Tăng độ dẻo dai với Yoga
+- **Thời gian:** `2026-09-26 09:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(wizard): thêm lựa chọn mục tiêu: Giảm mỡ, Tăng cơ bắp, Tăng độ dẻo dai với Yoga
+
+### [2026-09-26] feat(wizard): thêm lựa chọn số buổi tập mỗi tuần (3, 4, 5 buổi) và thời lượng
+- **Thời gian:** `2026-09-26 11:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(wizard): thêm lựa chọn số buổi tập mỗi tuần (3, 4, 5 buổi) và thời lượng
+
+### [2026-09-26] feat(wizard): kết nối API Backend gọi AI sinh lịch tập và hiển thị trạng thái loading spinner
+- **Thời gian:** `2026-09-26 14:00:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(wizard): kết nối API Backend gọi AI sinh lịch tập và hiển thị trạng thái loading spinner
+
+### [2026-09-26] feat(wizard): hiển thị lịch tập 7 ngày do AI gợi ý dưới dạng thời khóa biểu trực quan
+- **Thời gian:** `2026-09-26 16:20:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** feat(wizard): hiển thị lịch tập 7 ngày do AI gợi ý dưới dạng thời khóa biểu trực quan
+
+### [2026-09-26] style(responsive): tối ưu hiển thị giao diện hoàn hảo trên Mobile, Tablet và Desktop
+- **Thời gian:** `2026-09-26 18:40:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** style(responsive): tối ưu hiển thị giao diện hoàn hảo trên Mobile, Tablet và Desktop
+
+### [2026-09-27] style(effects): thêm hiệu ứng hover, transition mượt mà và animation tạo cảm giác chuyên nghiệp
+- **Thời gian:** `2026-09-27 08:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** style(effects): thêm hiệu ứng hover, transition mượt mà và animation tạo cảm giác chuyên nghiệp
+
+### [2026-09-27] fix(routing): bảo vệ các tuyến đường Admin (Protected Route) chặn người dùng không có quyền
+- **Thời gian:** `2026-09-27 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** fix(routing): bảo vệ các tuyến đường Admin (Protected Route) chặn người dùng không có quyền
+
+### [2026-09-27] chore(cleanup): dọn dẹp mã nguồn, tối ưu kích thước bundle build của Vite
+- **Thời gian:** `2026-09-27 10:05:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** chore(cleanup): dọn dẹp mã nguồn, tối ưu kích thước bundle build của Vite
+
+### [2026-09-27] docs(milestone3): hoàn thành xuất sắc toàn bộ giao diện người dùng bàn giao Milestone 3
+- **Thời gian:** `2026-09-27 11:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** docs(milestone3): hoàn thành xuất sắc toàn bộ giao diện người dùng bàn giao Milestone 3
