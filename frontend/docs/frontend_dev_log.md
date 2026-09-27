@@ -429,3 +429,8 @@
 - **Thời gian:** `2026-09-26 18:40:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** style(responsive): tối ưu hiển thị giao diện hoàn hảo trên Mobile, Tablet và Desktop
+
+### [2026-09-27] style(effects): thêm hiệu ứng hover, transition mượt mà và animation tạo cảm giác chuyên nghiệp
+- **Thời gian:** `2026-09-27 08:15:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** style(effects): thêm hiệu ứng hover, transition mượt mà và animation tạo cảm giác chuyên nghiệp
