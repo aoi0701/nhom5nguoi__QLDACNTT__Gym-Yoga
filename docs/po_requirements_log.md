@@ -439,3 +439,8 @@
 - **Thời gian:** `2026-09-27 09:10:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(srs): phát hành tài liệu Đặc tả Yêu cầu SRS phiên bản chính thức v3.0
+
+### [2026-09-27] chore(cleanup): lưu trữ các biểu mẫu khảo sát và tài liệu nghiệp vụ vào thư mục docs/
+- **Thời gian:** `2026-09-27 10:05:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** chore(cleanup): lưu trữ các biểu mẫu khảo sát và tài liệu nghiệp vụ vào thư mục docs/
