@@ -439,3 +439,8 @@
 - **Thời gian:** `2026-09-27 09:10:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(report): hoàn thiện báo cáo tiến độ tuần 3 nộp giảng viên phụ trách môn học
+
+### [2026-09-27] chore(cleanup): chuẩn hóa lại cây thư mục tài liệu và chuẩn bị cho Sprint 4
+- **Thời gian:** `2026-09-27 10:05:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** chore(cleanup): chuẩn hóa lại cây thư mục tài liệu và chuẩn bị cho Sprint 4
