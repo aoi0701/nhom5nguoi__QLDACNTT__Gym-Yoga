@@ -439,3 +439,8 @@
 - **Thời gian:** `2026-09-27 09:10:00 +0700`
 - **Người thực hiện:** Bùi Nguyễn Công Nghiệp
 - **Nội dung:** docs(api): cập nhật hoàn thiện tài liệu Swagger UI cho tất cả các endpoint mới
+
+### [2026-09-27] chore(cleanup): dọn dẹp mã nguồn thừa, chuẩn hóa logging phục vụ triển khai
+- **Thời gian:** `2026-09-27 10:05:00 +0700`
+- **Người thực hiện:** Bùi Nguyễn Công Nghiệp
+- **Nội dung:** chore(cleanup): dọn dẹp mã nguồn thừa, chuẩn hóa logging phục vụ triển khai
