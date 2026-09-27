@@ -434,3 +434,8 @@
 - **Thời gian:** `2026-09-27 08:15:00 +0700`
 - **Người thực hiện:** Lê Quốc Anh
 - **Nội dung:** docs(dod): ký duyệt biên bản nghiệm thu nghiệp vụ Product Acceptance
+
+### [2026-09-27] docs(srs): phát hành tài liệu Đặc tả Yêu cầu SRS phiên bản chính thức v3.0
+- **Thời gian:** `2026-09-27 09:10:00 +0700`
+- **Người thực hiện:** Lê Quốc Anh
+- **Nội dung:** docs(srs): phát hành tài liệu Đặc tả Yêu cầu SRS phiên bản chính thức v3.0
