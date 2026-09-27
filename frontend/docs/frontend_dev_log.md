@@ -434,3 +434,8 @@
 - **Thời gian:** `2026-09-27 08:15:00 +0700`
 - **Người thực hiện:** Nguyễn Chí Nhân
 - **Nội dung:** style(effects): thêm hiệu ứng hover, transition mượt mà và animation tạo cảm giác chuyên nghiệp
+
+### [2026-09-27] fix(routing): bảo vệ các tuyến đường Admin (Protected Route) chặn người dùng không có quyền
+- **Thời gian:** `2026-09-27 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Chí Nhân
+- **Nội dung:** fix(routing): bảo vệ các tuyến đường Admin (Protected Route) chặn người dùng không có quyền
