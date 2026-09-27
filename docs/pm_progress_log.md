@@ -434,3 +434,8 @@
 - **Thời gian:** `2026-09-27 08:15:00 +0700`
 - **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
 - **Nội dung:** docs(release): soạn thảo tài liệu ghi chú phát hành Release Notes phiên bản v0.3.0
+
+### [2026-09-27] docs(report): hoàn thiện báo cáo tiến độ tuần 3 nộp giảng viên phụ trách môn học
+- **Thời gian:** `2026-09-27 09:10:00 +0700`
+- **Người thực hiện:** Nguyễn Phan Ngọc Trưởng
+- **Nội dung:** docs(report): hoàn thiện báo cáo tiến độ tuần 3 nộp giảng viên phụ trách môn học
