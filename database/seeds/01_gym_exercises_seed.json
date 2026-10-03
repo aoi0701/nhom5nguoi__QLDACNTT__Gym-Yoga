@@ -1,0 +1,7 @@
+[
+  {"id": 1, "title": "Barbell Bench Press", "category": "gym", "muscle_group": "Chest", "difficulty": "intermediate", "equipment": "Barbell, Bench"},
+  {"id": 2, "title": "Barbell Back Squat", "category": "gym", "muscle_group": "Quads & Glutes", "difficulty": "advanced", "equipment": "Barbell, Squat Rack"},
+  {"id": 3, "title": "Deadlift", "category": "gym", "muscle_group": "Back & Hamstrings", "difficulty": "advanced", "equipment": "Barbell"},
+  {"id": 4, "title": "Dumbbell Shoulder Press", "category": "gym", "muscle_group": "Shoulders", "difficulty": "beginner", "equipment": "Dumbbells"},
+  {"id": 5, "title": "Lat Pulldown", "category": "gym", "muscle_group": "Lats", "difficulty": "beginner", "equipment": "Cable Machine"}
+]
