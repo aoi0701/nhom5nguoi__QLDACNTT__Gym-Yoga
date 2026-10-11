@@ -1,0 +1,30 @@
+{
+  "info": {
+    "name": "GymYoga_Sprint5_API_Automated_Tests",
+    "_postman_id": "c71a396e-5591-4e78-9a67-d861219b1285",
+    "description": "Bộ kiểm thử tự động Sprint 5 cho Rating API và AI Recommendation API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "GET /api/v1/exercises/1/rating-analytics/",
+      "request": {
+        "method": "GET",
+        "header": [{"key": "Authorization", "value": "Bearer {{jwt_token}}"}],
+        "url": {"raw": "{{base_url}}/api/v1/exercises/1/rating-analytics/", "host": ["{{base_url}}"], "path": ["api", "v1", "exercises", "1", "rating-analytics"]}
+      }
+    },
+    {
+      "name": "POST /api/v1/ai/generate-weekly-plan/",
+      "request": {
+        "method": "POST",
+        "header": [{"key": "Content-Type", "value": "application/json"}, {"key": "Authorization", "value": "Bearer {{jwt_token}}"}],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"height\": 175, \"weight\": 68, \"goal\": \"Tăng cơ\"}"
+        },
+        "url": {"raw": "{{base_url}}/api/v1/ai/generate-weekly-plan/", "host": ["{{base_url}}"], "path": ["api", "v1", "ai", "generate-weekly-plan"]}
+      }
+    }
+  ]
+}
