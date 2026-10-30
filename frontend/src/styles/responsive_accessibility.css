@@ -1,0 +1,23 @@
+/* WBS 5.58 / SCRUM-236, SCRUM-237, SCRUM-239: Responsive Layout & Accessibility */
+@media (max-width: 768px) {
+  .mobile-nav-toggle {
+    display: block;
+    min-height: 44px;
+    min-width: 44px;
+  }
+  .exercise-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .exercise-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* WCAG AA High Contrast & Keyboard Navigation */
+:focus-visible {
+  outline: 3px solid #4f46e5;
+  outline-offset: 2px;
+}
