@@ -1,0 +1,13 @@
+/data/
+/coach-auth/
+/.env
+/.env.*
+!/.env.example
+/media/
+!/catalogue/media/
+!/scripts/media/
+node_modules/
+dist/
+build/
+coverage/
+*.log

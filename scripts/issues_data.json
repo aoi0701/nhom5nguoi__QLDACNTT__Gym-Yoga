@@ -1,0 +1,4036 @@
+[
+  {
+    "id": 1,
+    "title": "[PM-01] Khởi tạo Project Charter và xác lập tôn chỉ dự án",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "documentation",
+      "pmbok"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: khởi tạo project charter và xác lập tôn chỉ dự án.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Khởi tạo Project Charter và xác lập tôn chỉ dự án' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "[PM-02] Xác định mục tiêu, phạm vi và tiêu chí thành công dự án",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "pmbok",
+      "scope"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: xác định mục tiêu, phạm vi và tiêu chí thành công dự án.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Xác định mục tiêu, phạm vi và tiêu chí thành công dự án' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "[PM-03] Xây dựng cấu trúc phân rã công việc WBS 6 nhóm công việc",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "wbs",
+      "pmbok"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: xây dựng cấu trúc phân rã công việc wbs 6 nhóm công việc.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Xây dựng cấu trúc phân rã công việc WBS 6 nhóm công việc' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "[PM-04] Xây dựng ma trận phân công trách nhiệm RACI cho 5 thành viên",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "raci",
+      "pmbok"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: xây dựng ma trận phân công trách nhiệm raci cho 5 thành viên.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Xây dựng ma trận phân công trách nhiệm RACI cho 5 thành viên' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "[PM-05] Lập kế hoạch quản lý ngân sách dự toán 90.000.000 VNĐ",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P2",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "budget",
+      "pmbok"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: lập kế hoạch quản lý ngân sách dự toán 90.000.000 vnđ.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Lập kế hoạch quản lý ngân sách dự toán 90.000.000 VNĐ' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "[PM-06] Xây dựng bảng nhận diện và kế hoạch kiểm soát rủi ro dự án",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "risk",
+      "pmbok"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: xây dựng bảng nhận diện và kế hoạch kiểm soát rủi ro dự án.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Xây dựng bảng nhận diện và kế hoạch kiểm soát rủi ro dự án' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "[PM-07] Thiết lập quy chế làm việc nhóm, chuẩn GitFlow và quy ước commit",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "gitflow",
+      "governance"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: thiết lập quy chế làm việc nhóm, chuẩn gitflow và quy ước commit.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Thiết lập quy chế làm việc nhóm, chuẩn GitFlow và quy ước commit' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "[PM-08] Tổ chức Sprint 1 Kickoff & phân bổ khối lượng nỗ lực (Story Points)",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "agile",
+      "sprint"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: tổ chức sprint 1 kickoff & phân bổ khối lượng nỗ lực (story points).",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Tổ chức Sprint 1 Kickoff & phân bổ khối lượng nỗ lực (Story Points)' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "[PM-09] Giám sát Daily Standup tuần 1 và cập nhật tiến độ công việc",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P2",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "agile",
+      "daily-standup"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: giám sát daily standup tuần 1 và cập nhật tiến độ công việc.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Giám sát Daily Standup tuần 1 và cập nhật tiến độ công việc' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "[PM-10] Tổ chức Sprint 1 Review & Retrospective đánh giá tuần 1",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P2",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "agile",
+      "sprint-review"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: tổ chức sprint 1 review & retrospective đánh giá tuần 1.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Tổ chức Sprint 1 Review & Retrospective đánh giá tuần 1' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "[PM-11] Điều phối giải quyết xung đột kỹ thuật giữa Frontend và Backend",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P2",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "management",
+      "coordination"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: điều phối giải quyết xung đột kỹ thuật giữa frontend và backend.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Điều phối giải quyết xung đột kỹ thuật giữa Frontend và Backend' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "[PM-12] Đánh giá và phê duyệt các sản phẩm chuyển giao (Deliverables) Sprint 1",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "deliverables",
+      "review"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: đánh giá và phê duyệt các sản phẩm chuyển giao (deliverables) sprint 1.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Đánh giá và phê duyệt các sản phẩm chuyển giao (Deliverables) Sprint 1' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "[PM-13] Lập kế hoạch chi tiết Sprint 2: Nền tảng CSDL, Auth & Phân quyền RBAC",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "agile",
+      "sprint-planning"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: lập kế hoạch chi tiết sprint 2: nền tảng csdl, auth & phân quyền rbac.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Lập kế hoạch chi tiết Sprint 2: Nền tảng CSDL, Auth & Phân quyền RBAC' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "[PM-14] Kiểm soát phạm vi dự án, xử lý yêu cầu thay đổi (Change Control)",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "scope",
+      "change-management"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: kiểm soát phạm vi dự án, xử lý yêu cầu thay đổi (change control).",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Kiểm soát phạm vi dự án, xử lý yêu cầu thay đổi (Change Control)' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "[PM-15] Quản lý chi phí bản quyền công cụ & hạn mức credit API AI",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "budget",
+      "cost-control"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: quản lý chi phí bản quyền công cụ & hạn mức credit api ai.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Quản lý chi phí bản quyền công cụ & hạn mức credit API AI' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "[PM-16] Thiết lập tiêu chuẩn Definition of Done (DoD) và Definition of Ready (DoR)",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "agile",
+      "quality-gate"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: thiết lập tiêu chuẩn definition of done (dod) và definition of ready (dor).",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Thiết lập tiêu chuẩn Definition of Done (DoD) và Definition of Ready (DoR)' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "[PM-17] Lập kế hoạch truyền thông, báo cáo định kỳ với Giảng viên hướng dẫn",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "communication",
+      "reporting"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: lập kế hoạch truyền thông, báo cáo định kỳ với giảng viên hướng dẫn.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Lập kế hoạch truyền thông, báo cáo định kỳ với Giảng viên hướng dẫn' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "[PM-18] Rà soát tuân thủ an toàn thông tin & giấy phép mã nguồn mở AGPL-3.0",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "compliance",
+      "license"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: rà soát tuân thủ an toàn thông tin & giấy phép mã nguồn mở agpl-3.0.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Rà soát tuân thủ an toàn thông tin & giấy phép mã nguồn mở AGPL-3.0' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "[PM-19] Chuẩn bị khung bộ tài liệu nghiệm thu kỹ thuật và chuyển giao hệ thống",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P3",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "documentation",
+      "handover"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: chuẩn bị khung bộ tài liệu nghiệm thu kỹ thuật và chuyển giao hệ thống.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Chuẩn bị khung bộ tài liệu nghiệm thu kỹ thuật và chuyển giao hệ thống' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "[PM-20] Tổ chức đánh giá mốc Milestone 1: Hoàn tất Thiết kế & Khung dự án",
+    "epic": "Epic 1: Quản trị dự án & PMBOK",
+    "assignee": "Nguyễn Phan Ngọc Trưởng",
+    "assignee_role": "Project Manager",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "milestone",
+      "review"
+    ],
+    "description": "Thực hiện công tác quản trị dự án theo chuẩn PMBOK và Agile/Scrum: tổ chức đánh giá mốc milestone 1: hoàn tất thiết kế & khung dự án.",
+    "acceptance_criteria": [
+      "Tài liệu / biên bản liên quan đến 'Tổ chức đánh giá mốc Milestone 1: Hoàn tất Thiết kế & Khung dự án' được ban hành đầy đủ và phê duyệt bởi PM.",
+      "Các thành viên trong nhóm nắm rõ nội dung và tuân thủ thống nhất.",
+      "Lưu trữ tại thư mục docs/ của repository theo đúng quy chuẩn."
+    ]
+  },
+  {
+    "id": 21,
+    "title": "[PO-21] Khảo sát thực tế nhu cầu tập luyện Gym và Yoga của người dùng cá nhân",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "survey",
+      "requirements"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: khảo sát thực tế nhu cầu tập luyện gym và yoga của người dùng cá nhân.",
+    "acceptance_criteria": [
+      "Nội dung của 'Khảo sát thực tế nhu cầu tập luyện Gym và Yoga của người dùng cá nhân' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 22,
+    "title": "[PO-22] Phỏng vấn huấn luyện viên (PT) về quy trình lên giáo án cá nhân hóa",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "interview",
+      "requirements"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: phỏng vấn huấn luyện viên (pt) về quy trình lên giáo án cá nhân hóa.",
+    "acceptance_criteria": [
+      "Nội dung của 'Phỏng vấn huấn luyện viên (PT) về quy trình lên giáo án cá nhân hóa' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "[PO-23] Soạn thảo tài liệu đặc tả yêu cầu người dùng (URD)",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "srs",
+      "documentation"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: soạn thảo tài liệu đặc tả yêu cầu người dùng (urd).",
+    "acceptance_criteria": [
+      "Nội dung của 'Soạn thảo tài liệu đặc tả yêu cầu người dùng (URD)' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "[PO-24] Soạn thảo tài liệu đặc tả yêu cầu phần mềm (SRS) - Yêu cầu chức năng",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "srs",
+      "functional"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: soạn thảo tài liệu đặc tả yêu cầu phần mềm (srs) - yêu cầu chức năng.",
+    "acceptance_criteria": [
+      "Nội dung của 'Soạn thảo tài liệu đặc tả yêu cầu phần mềm (SRS) - Yêu cầu chức năng' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "[PO-25] Soạn thảo tài liệu đặc tả yêu cầu phần mềm (SRS) - Yêu cầu phi chức năng",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "srs",
+      "non-functional"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: soạn thảo tài liệu đặc tả yêu cầu phần mềm (srs) - yêu cầu phi chức năng.",
+    "acceptance_criteria": [
+      "Nội dung của 'Soạn thảo tài liệu đặc tả yêu cầu phần mềm (SRS) - Yêu cầu phi chức năng' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 26,
+    "title": "[PO-26] Xây dựng sơ đồ Use Case tổng quan cho toàn bộ hệ thống Gym-Yoga",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "usecase",
+      "uml"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: xây dựng sơ đồ use case tổng quan cho toàn bộ hệ thống gym-yoga.",
+    "acceptance_criteria": [
+      "Nội dung của 'Xây dựng sơ đồ Use Case tổng quan cho toàn bộ hệ thống Gym-Yoga' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 27,
+    "title": "[PO-27] Đặc tả chi tiết Use Case: Đăng ký & Đăng nhập tài khoản an toàn",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "usecase",
+      "auth"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: đặc tả chi tiết use case: đăng ký & đăng nhập tài khoản an toàn.",
+    "acceptance_criteria": [
+      "Nội dung của 'Đặc tả chi tiết Use Case: Đăng ký & Đăng nhập tài khoản an toàn' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 28,
+    "title": "[PO-28] Đặc tả chi tiết Use Case: Cập nhật hồ sơ thể trạng và mục tiêu tập luyện",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "usecase",
+      "profile"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: đặc tả chi tiết use case: cập nhật hồ sơ thể trạng và mục tiêu tập luyện.",
+    "acceptance_criteria": [
+      "Nội dung của 'Đặc tả chi tiết Use Case: Cập nhật hồ sơ thể trạng và mục tiêu tập luyện' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 29,
+    "title": "[PO-29] Đặc tả chi tiết Use Case: Quản trị người dùng, vai trò & phân quyền RBAC",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "usecase",
+      "rbac"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: đặc tả chi tiết use case: quản trị người dùng, vai trò & phân quyền rbac.",
+    "acceptance_criteria": [
+      "Nội dung của 'Đặc tả chi tiết Use Case: Quản trị người dùng, vai trò & phân quyền RBAC' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 30,
+    "title": "[PO-30] Đặc tả chi tiết Use Case: Tra cứu & Lọc danh mục bài tập Gym/Yoga",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "usecase",
+      "catalog"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: đặc tả chi tiết use case: tra cứu & lọc danh mục bài tập gym/yoga.",
+    "acceptance_criteria": [
+      "Nội dung của 'Đặc tả chi tiết Use Case: Tra cứu & Lọc danh mục bài tập Gym/Yoga' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 31,
+    "title": "[PO-31] Đặc tả chi tiết Use Case: Xem chi tiết kỹ thuật và minh họa bài tập",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P2",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "usecase",
+      "exercise-detail"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: đặc tả chi tiết use case: xem chi tiết kỹ thuật và minh họa bài tập.",
+    "acceptance_criteria": [
+      "Nội dung của 'Đặc tả chi tiết Use Case: Xem chi tiết kỹ thuật và minh họa bài tập' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 32,
+    "title": "[PO-32] Đặc tả chi tiết Use Case: Gửi yêu cầu AI gợi ý lịch tập cá nhân hóa",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "usecase",
+      "ai-wizard"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: đặc tả chi tiết use case: gửi yêu cầu ai gợi ý lịch tập cá nhân hóa.",
+    "acceptance_criteria": [
+      "Nội dung của 'Đặc tả chi tiết Use Case: Gửi yêu cầu AI gợi ý lịch tập cá nhân hóa' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 33,
+    "title": "[PO-33] Đặc tả chi tiết Use Case: Đánh giá (rating) và viết nhận xét bài tập",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P2",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "usecase",
+      "feedback"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: đặc tả chi tiết use case: đánh giá (rating) và viết nhận xét bài tập.",
+    "acceptance_criteria": [
+      "Nội dung của 'Đặc tả chi tiết Use Case: Đánh giá (rating) và viết nhận xét bài tập' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 34,
+    "title": "[PO-34] Xây dựng Ma trận phân quyền người dùng (Permission Matrix) sơ bộ",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "rbac",
+      "matrix"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: xây dựng ma trận phân quyền người dùng (permission matrix) sơ bộ.",
+    "acceptance_criteria": [
+      "Nội dung của 'Xây dựng Ma trận phân quyền người dùng (Permission Matrix) sơ bộ' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 35,
+    "title": "[PO-35] Khởi tạo Product Backlog tổng thể và phân bổ điểm nỗ lực Story Points",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "product-backlog",
+      "agile"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: khởi tạo product backlog tổng thể và phân bổ điểm nỗ lực story points.",
+    "acceptance_criteria": [
+      "Nội dung của 'Khởi tạo Product Backlog tổng thể và phân bổ điểm nỗ lực Story Points' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 36,
+    "title": "[PO-36] Viết User Story US01: Đăng ký tài khoản người dùng mới kèm xác thực dữ liệu",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "user-story",
+      "auth"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: viết user story us01: đăng ký tài khoản người dùng mới kèm xác thực dữ liệu.",
+    "acceptance_criteria": [
+      "Nội dung của 'Viết User Story US01: Đăng ký tài khoản người dùng mới kèm xác thực dữ liệu' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 37,
+    "title": "[PO-37] Viết User Story US02: Đăng nhập hệ thống và cấp phát JWT token an toàn",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "user-story",
+      "auth"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: viết user story us02: đăng nhập hệ thống và cấp phát jwt token an toàn.",
+    "acceptance_criteria": [
+      "Nội dung của 'Viết User Story US02: Đăng nhập hệ thống và cấp phát JWT token an toàn' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 38,
+    "title": "[PO-38] Viết User Story US03: Cập nhật hồ sơ thể trạng (chiều cao, cân nặng, BMI, mục tiêu)",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "user-story",
+      "profile"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: viết user story us03: cập nhật hồ sơ thể trạng (chiều cao, cân nặng, bmi, mục tiêu).",
+    "acceptance_criteria": [
+      "Nội dung của 'Viết User Story US03: Cập nhật hồ sơ thể trạng (chiều cao, cân nặng, BMI, mục tiêu)' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 39,
+    "title": "[PO-39] Viết User Story US04: Khảo sát bệnh lý, chấn thương và thiết bị tập hiện có",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "user-story",
+      "profile"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: viết user story us04: khảo sát bệnh lý, chấn thương và thiết bị tập hiện có.",
+    "acceptance_criteria": [
+      "Nội dung của 'Viết User Story US04: Khảo sát bệnh lý, chấn thương và thiết bị tập hiện có' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 40,
+    "title": "[PO-40] Viết User Story US05: Quản trị viên phân quyền Role và Permissions trực quan",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "user-story",
+      "rbac"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: viết user story us05: quản trị viên phân quyền role và permissions trực quan.",
+    "acceptance_criteria": [
+      "Nội dung của 'Viết User Story US05: Quản trị viên phân quyền Role và Permissions trực quan' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 41,
+    "title": "[PO-41] Viết User Story US06: Huấn luyện viên tạo mới và chỉnh sửa bài tập Gym/Yoga",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P2",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "user-story",
+      "exercise"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: viết user story us06: huấn luyện viên tạo mới và chỉnh sửa bài tập gym/yoga.",
+    "acceptance_criteria": [
+      "Nội dung của 'Viết User Story US06: Huấn luyện viên tạo mới và chỉnh sửa bài tập Gym/Yoga' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 42,
+    "title": "[PO-42] Viết User Story US07: Người dùng lọc bài tập theo nhóm cơ, độ khó và thời lượng",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "user-story",
+      "filter"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: viết user story us07: người dùng lọc bài tập theo nhóm cơ, độ khó và thời lượng.",
+    "acceptance_criteria": [
+      "Nội dung của 'Viết User Story US07: Người dùng lọc bài tập theo nhóm cơ, độ khó và thời lượng' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 43,
+    "title": "[PO-43] Viết User Story US08: Người dùng gửi khảo sát AI Wizard để nhận lịch tập cá nhân",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "user-story",
+      "ai"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: viết user story us08: người dùng gửi khảo sát ai wizard để nhận lịch tập cá nhân.",
+    "acceptance_criteria": [
+      "Nội dung của 'Viết User Story US08: Người dùng gửi khảo sát AI Wizard để nhận lịch tập cá nhân' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 44,
+    "title": "[PO-44] Viết User Story US09: Lưu lịch sử và theo dõi tiến độ các bài tập đã hoàn thành",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P2",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "user-story",
+      "history"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: viết user story us09: lưu lịch sử và theo dõi tiến độ các bài tập đã hoàn thành.",
+    "acceptance_criteria": [
+      "Nội dung của 'Viết User Story US09: Lưu lịch sử và theo dõi tiến độ các bài tập đã hoàn thành' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 45,
+    "title": "[PO-45] Viết User Story US10: Đánh giá chất lượng và chấm sao cho bài tập",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P2",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "user-story",
+      "rating"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: viết user story us10: đánh giá chất lượng và chấm sao cho bài tập.",
+    "acceptance_criteria": [
+      "Nội dung của 'Viết User Story US10: Đánh giá chất lượng và chấm sao cho bài tập' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 46,
+    "title": "[PO-46] Xác định tiêu chí nghiệm thu Acceptance Criteria (AC) cho Module Authentication",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "acceptance-criteria",
+      "auth"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: xác định tiêu chí nghiệm thu acceptance criteria (ac) cho module authentication.",
+    "acceptance_criteria": [
+      "Nội dung của 'Xác định tiêu chí nghiệm thu Acceptance Criteria (AC) cho Module Authentication' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 47,
+    "title": "[PO-47] Xác định tiêu chí nghiệm thu Acceptance Criteria (AC) cho Module RBAC",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "acceptance-criteria",
+      "rbac"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: xác định tiêu chí nghiệm thu acceptance criteria (ac) cho module rbac.",
+    "acceptance_criteria": [
+      "Nội dung của 'Xác định tiêu chí nghiệm thu Acceptance Criteria (AC) cho Module RBAC' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 48,
+    "title": "[PO-48] Xác định tiêu chí nghiệm thu Acceptance Criteria (AC) cho Module Exercise Catalog",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "acceptance-criteria",
+      "exercise"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: xác định tiêu chí nghiệm thu acceptance criteria (ac) cho module exercise catalog.",
+    "acceptance_criteria": [
+      "Nội dung của 'Xác định tiêu chí nghiệm thu Acceptance Criteria (AC) cho Module Exercise Catalog' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 49,
+    "title": "[PO-49] Xác định tiêu chí nghiệm thu Acceptance Criteria (AC) cho Module AI Recommendation",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "acceptance-criteria",
+      "ai"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: xác định tiêu chí nghiệm thu acceptance criteria (ac) cho module ai recommendation.",
+    "acceptance_criteria": [
+      "Nội dung của 'Xác định tiêu chí nghiệm thu Acceptance Criteria (AC) cho Module AI Recommendation' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 50,
+    "title": "[PO-50] Nghiệm thu và bàn giao hồ sơ Yêu cầu & Product Backlog Sprint 1",
+    "epic": "Epic 2: Phân tích nghiệp vụ & Yêu cầu (BA/PO)",
+    "assignee": "Lê Quốc Anh",
+    "assignee_role": "Product Owner",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "handover",
+      "srs"
+    ],
+    "description": "Xây dựng tài liệu nghiệp vụ, mô hình Use Case và User Story: nghiệm thu và bàn giao hồ sơ yêu cầu & product backlog sprint 1.",
+    "acceptance_criteria": [
+      "Nội dung của 'Nghiệm thu và bàn giao hồ sơ Yêu cầu & Product Backlog Sprint 1' tuân thủ chuẩn INVEST và có Acceptance Criteria rõ ràng.",
+      "Được các thành viên Dev và QA thống nhất trước khi bước vào Sprint phát triển.",
+      "Được lưu trữ trong thư mục docs/srs/ của repository."
+    ]
+  },
+  {
+    "id": 51,
+    "title": "[QA-51] Lập Master Test Plan tổng thể xác định chiến lược kiểm thử 4 Sprint",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "test-plan",
+      "qa"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: lập master test plan tổng thể xác định chiến lược kiểm thử 4 sprint.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Lập Master Test Plan tổng thể xác định chiến lược kiểm thử 4 Sprint'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 52,
+    "title": "[QA-52] Thiết kế mô hình dữ liệu quan hệ ERD thực thể (Entities) chuẩn hóa 3NF",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "erd",
+      "database"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: thiết kế mô hình dữ liệu quan hệ erd thực thể (entities) chuẩn hóa 3nf.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Thiết kế mô hình dữ liệu quan hệ ERD thực thể (Entities) chuẩn hóa 3NF'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 53,
+    "title": "[QA-53] Thiết kế quan hệ n-n cho các bảng phân quyền RBAC (Users, Roles, Permissions)",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "erd",
+      "rbac"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: thiết kế quan hệ n-n cho các bảng phân quyền rbac (users, roles, permissions).",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Thiết kế quan hệ n-n cho các bảng phân quyền RBAC (Users, Roles, Permissions)'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 54,
+    "title": "[QA-54] Thiết kế cấu trúc bảng Exercises, MuscleGroups, Equipments và Categories",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "erd",
+      "exercise"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: thiết kế cấu trúc bảng exercises, musclegroups, equipments và categories.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Thiết kế cấu trúc bảng Exercises, MuscleGroups, Equipments và Categories'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 55,
+    "title": "[QA-55] Thiết kế cấu trúc bảng UserProfile, FitnessGoals, BodyMetrics và HealthHistory",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "erd",
+      "profile"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: thiết kế cấu trúc bảng userprofile, fitnessgoals, bodymetrics và healthhistory.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Thiết kế cấu trúc bảng UserProfile, FitnessGoals, BodyMetrics và HealthHistory'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 56,
+    "title": "[QA-56] Thiết kế cấu trúc bảng AIRecommendationLogs, WorkoutPlans và WorkoutPlanItems",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "erd",
+      "ai"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: thiết kế cấu trúc bảng airecommendationlogs, workoutplans và workoutplanitems.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Thiết kế cấu trúc bảng AIRecommendationLogs, WorkoutPlans và WorkoutPlanItems'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 57,
+    "title": "[QA-57] Thiết kế cấu trúc bảng ExerciseRatings, Comments và UserAuditLogs",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "erd",
+      "feedback"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: thiết kế cấu trúc bảng exerciseratings, comments và userauditlogs.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Thiết kế cấu trúc bảng ExerciseRatings, Comments và UserAuditLogs'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 58,
+    "title": "[QA-58] Viết script DDL tạo bảng chuẩn hóa có ràng buộc Foreign Key và Unique",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "ddl",
+      "database"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: viết script ddl tạo bảng chuẩn hóa có ràng buộc foreign key và unique.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Viết script DDL tạo bảng chuẩn hóa có ràng buộc Foreign Key và Unique'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 59,
+    "title": "[QA-59] Thiết lập hệ thống Data Migration có đánh số phiên bản trên Django/DB",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "migration",
+      "database"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: thiết lập hệ thống data migration có đánh số phiên bản trên django/db.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Thiết lập hệ thống Data Migration có đánh số phiên bản trên Django/DB'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 60,
+    "title": "[QA-60] Xây dựng bộ dữ liệu mẫu (Seed Data) cho 50+ bài tập Gym chuẩn",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "seed-data",
+      "gym"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: xây dựng bộ dữ liệu mẫu (seed data) cho 50+ bài tập gym chuẩn.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Xây dựng bộ dữ liệu mẫu (Seed Data) cho 50+ bài tập Gym chuẩn'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 61,
+    "title": "[QA-61] Xây dựng bộ dữ liệu mẫu (Seed Data) cho 30+ bài tập Yoga chuẩn",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "seed-data",
+      "yoga"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: xây dựng bộ dữ liệu mẫu (seed data) cho 30+ bài tập yoga chuẩn.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Xây dựng bộ dữ liệu mẫu (Seed Data) cho 30+ bài tập Yoga chuẩn'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 62,
+    "title": "[QA-62] Nạp dữ liệu danh mục nhóm cơ, thiết bị và các cấp độ khó chuẩn hóa",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "seed-data",
+      "category"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: nạp dữ liệu danh mục nhóm cơ, thiết bị và các cấp độ khó chuẩn hóa.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Nạp dữ liệu danh mục nhóm cơ, thiết bị và các cấp độ khó chuẩn hóa'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 63,
+    "title": "[QA-63] Nạp dữ liệu tài khoản mẫu cho 3 vai trò: Admin, PT (Coach) và Member",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "seed-data",
+      "rbac"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: nạp dữ liệu tài khoản mẫu cho 3 vai trò: admin, pt (coach) và member.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Nạp dữ liệu tài khoản mẫu cho 3 vai trò: Admin, PT (Coach) và Member'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 64,
+    "title": "[QA-64] Tối ưu hóa Database Index trên các cột tra cứu chính (nhóm cơ, độ khó, loại hình)",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "database",
+      "indexing"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: tối ưu hóa database index trên các cột tra cứu chính (nhóm cơ, độ khó, loại hình).",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Tối ưu hóa Database Index trên các cột tra cứu chính (nhóm cơ, độ khó, loại hình)'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 65,
+    "title": "[QA-65] Viết bộ Test Cases kiểm thử chức năng Đăng ký tài khoản (Positive/Negative)",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "testcase",
+      "auth"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: viết bộ test cases kiểm thử chức năng đăng ký tài khoản (positive/negative).",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Viết bộ Test Cases kiểm thử chức năng Đăng ký tài khoản (Positive/Negative)'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 66,
+    "title": "[QA-66] Viết bộ Test Cases kiểm thử chức năng Đăng nhập & Cấp phát JWT token",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "testcase",
+      "auth"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: viết bộ test cases kiểm thử chức năng đăng nhập & cấp phát jwt token.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Viết bộ Test Cases kiểm thử chức năng Đăng nhập & Cấp phát JWT token'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 67,
+    "title": "[QA-67] Viết bộ Test Cases kiểm thử chức năng Cập nhật hồ sơ thể trạng người dùng",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "testcase",
+      "profile"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: viết bộ test cases kiểm thử chức năng cập nhật hồ sơ thể trạng người dùng.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Viết bộ Test Cases kiểm thử chức năng Cập nhật hồ sơ thể trạng người dùng'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 68,
+    "title": "[QA-68] Viết bộ Test Cases kiểm thử cơ chế bảo mật phân quyền RBAC (Chặn IDOR/403)",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "testcase",
+      "security",
+      "rbac"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: viết bộ test cases kiểm thử cơ chế bảo mật phân quyền rbac (chặn idor/403).",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Viết bộ Test Cases kiểm thử cơ chế bảo mật phân quyền RBAC (Chặn IDOR/403)'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 69,
+    "title": "[QA-69] Viết bộ Test Cases kiểm thử leo thang đặc quyền trái phép (Privilege Escalation)",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "testcase",
+      "security",
+      "rbac"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: viết bộ test cases kiểm thử leo thang đặc quyền trái phép (privilege escalation).",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Viết bộ Test Cases kiểm thử leo thang đặc quyền trái phép (Privilege Escalation)'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 70,
+    "title": "[QA-70] Viết bộ Test Cases kiểm thử CRUD danh mục bài tập Gym & Yoga",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "testcase",
+      "exercise"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: viết bộ test cases kiểm thử crud danh mục bài tập gym & yoga.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Viết bộ Test Cases kiểm thử CRUD danh mục bài tập Gym & Yoga'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 71,
+    "title": "[QA-71] Viết bộ Test Cases kiểm thử bộ lọc đa tiêu chí bài tập (Filter & Search)",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "testcase",
+      "filter"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: viết bộ test cases kiểm thử bộ lọc đa tiêu chí bài tập (filter & search).",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Viết bộ Test Cases kiểm thử bộ lọc đa tiêu chí bài tập (Filter & Search)'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 72,
+    "title": "[QA-72] Viết bộ Test Cases kiểm thử tính năng Đánh giá & Chấm sao bài tập",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P3",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "testcase",
+      "feedback"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: viết bộ test cases kiểm thử tính năng đánh giá & chấm sao bài tập.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Viết bộ Test Cases kiểm thử tính năng Đánh giá & Chấm sao bài tập'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 73,
+    "title": "[QA-73] Viết bộ Test Cases kiểm định tính hợp lệ và cấu trúc schema kết quả gợi ý AI",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "testcase",
+      "ai"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: viết bộ test cases kiểm định tính hợp lệ và cấu trúc schema kết quả gợi ý ai.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Viết bộ Test Cases kiểm định tính hợp lệ và cấu trúc schema kết quả gợi ý AI'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 74,
+    "title": "[QA-74] Viết bộ Test Cases kiểm thử cơ chế dự phòng Fallback khi AI gặp sự cố",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "testcase",
+      "ai",
+      "fallback"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: viết bộ test cases kiểm thử cơ chế dự phòng fallback khi ai gặp sự cố.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Viết bộ Test Cases kiểm thử cơ chế dự phòng Fallback khi AI gặp sự cố'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 75,
+    "title": "[QA-75] Xây dựng Postman Collection kiểm thử tự động cho toàn bộ Auth API",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "postman",
+      "api-testing"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: xây dựng postman collection kiểm thử tự động cho toàn bộ auth api.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Xây dựng Postman Collection kiểm thử tự động cho toàn bộ Auth API'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 76,
+    "title": "[QA-76] Xây dựng Postman Collection kiểm thử tự động cho RBAC Permission API",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "postman",
+      "api-testing",
+      "rbac"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: xây dựng postman collection kiểm thử tự động cho rbac permission api.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Xây dựng Postman Collection kiểm thử tự động cho RBAC Permission API'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 77,
+    "title": "[QA-77] Xây dựng Postman Collection kiểm thử tự động cho Exercise Catalog API",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "postman",
+      "api-testing"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: xây dựng postman collection kiểm thử tự động cho exercise catalog api.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Xây dựng Postman Collection kiểm thử tự động cho Exercise Catalog API'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 78,
+    "title": "[QA-78] Xây dựng Postman Collection kiểm thử tự động cho AI Recommendation API",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "postman",
+      "api-testing",
+      "ai"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: xây dựng postman collection kiểm thử tự động cho ai recommendation api.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Xây dựng Postman Collection kiểm thử tự động cho AI Recommendation API'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 79,
+    "title": "[QA-79] Thực thi kiểm thử chức năng Auth và lập Bug Report Sprint 2",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "bug-report",
+      "qa"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: thực thi kiểm thử chức năng auth và lập bug report sprint 2.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Thực thi kiểm thử chức năng Auth và lập Bug Report Sprint 2'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 80,
+    "title": "[QA-80] Thực thi kiểm thử ma trận phân quyền RBAC trên API và giao diện",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "rbac",
+      "qa-execution"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: thực thi kiểm thử ma trận phân quyền rbac trên api và giao diện.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Thực thi kiểm thử ma trận phân quyền RBAC trên API và giao diện'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 81,
+    "title": "[QA-81] Kiểm thử tính toàn vẹn dữ liệu (Data Integrity) khi thao tác xóa Role hoặc User",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "database",
+      "integrity"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: kiểm thử tính toàn vẹn dữ liệu (data integrity) khi thao tác xóa role hoặc user.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Kiểm thử tính toàn vẹn dữ liệu (Data Integrity) khi thao tác xóa Role hoặc User'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 82,
+    "title": "[QA-82] Kiểm thử hiệu năng truy vấn CSDL khi tải thư viện bài tập và bộ lọc",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "performance",
+      "database"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: kiểm thử hiệu năng truy vấn csdl khi tải thư viện bài tập và bộ lọc.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Kiểm thử hiệu năng truy vấn CSDL khi tải thư viện bài tập và bộ lọc'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 83,
+    "title": "[QA-83] Thiết lập môi trường kiểm thử tự động hóa (Automated Testing CI Pipeline)",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "ci",
+      "automation"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: thiết lập môi trường kiểm thử tự động hóa (automated testing ci pipeline).",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Thiết lập môi trường kiểm thử tự động hóa (Automated Testing CI Pipeline)'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 84,
+    "title": "[QA-84] Kiểm thử giao diện tương thích trên các trình duyệt Chrome, Firefox, Edge, Safari",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "cross-browser",
+      "qa"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: kiểm thử giao diện tương thích trên các trình duyệt chrome, firefox, edge, safari.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Kiểm thử giao diện tương thích trên các trình duyệt Chrome, Firefox, Edge, Safari'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 85,
+    "title": "[QA-85] Kiểm thử Responsive trên các kích thước màn hình Mobile, Tablet, Desktop",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "responsive",
+      "qa"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: kiểm thử responsive trên các kích thước màn hình mobile, tablet, desktop.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Kiểm thử Responsive trên các kích thước màn hình Mobile, Tablet, Desktop'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 86,
+    "title": "[QA-86] Kiểm thử tải và đo lường độ trễ phản hồi của API gợi ý AI (< 5 giây)",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "performance",
+      "ai"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: kiểm thử tải và đo lường độ trễ phản hồi của api gợi ý ai (< 5 giây).",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Kiểm thử tải và đo lường độ trễ phản hồi của API gợi ý AI (< 5 giây)'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 87,
+    "title": "[QA-87] Kiểm thử bảo mật lỗ hổng SQL Injection và XSS trên các form nhập liệu",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "security",
+      "qa"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: kiểm thử bảo mật lỗ hổng sql injection và xss trên các form nhập liệu.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Kiểm thử bảo mật lỗ hổng SQL Injection và XSS trên các form nhập liệu'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 88,
+    "title": "[QA-88] Kiểm thử xử lý ngoại lệ và tính nhất quán của mã trạng thái HTTP trả về",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "error-handling"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: kiểm thử xử lý ngoại lệ và tính nhất quán của mã trạng thái http trả về.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Kiểm thử xử lý ngoại lệ và tính nhất quán của mã trạng thái HTTP trả về'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 89,
+    "title": "[QA-89] Theo dõi, phân loại mức độ nghiêm trọng và cập nhật lỗi trên Bug Tracker",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "bug-tracker",
+      "qa"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: theo dõi, phân loại mức độ nghiêm trọng và cập nhật lỗi trên bug tracker.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Theo dõi, phân loại mức độ nghiêm trọng và cập nhật lỗi trên Bug Tracker'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 90,
+    "title": "[QA-90] Xác nhận đóng lỗi (Bug Verification & Retest) sau khi Dev fix",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "verification",
+      "qa"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: xác nhận đóng lỗi (bug verification & retest) sau khi dev fix.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Xác nhận đóng lỗi (Bug Verification & Retest) sau khi Dev fix'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 91,
+    "title": "[QA-91] Lập kế hoạch kiểm thử hồi quy (Regression Test Plan) cho giai đoạn cuối",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "regression",
+      "qa"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: lập kế hoạch kiểm thử hồi quy (regression test plan) cho giai đoạn cuối.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Lập kế hoạch kiểm thử hồi quy (Regression Test Plan) cho giai đoạn cuối'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 92,
+    "title": "[QA-92] Thực thi kiểm thử hồi quy toàn diện trước ngày nghiệm thu bàn giao",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "regression",
+      "execution"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: thực thi kiểm thử hồi quy toàn diện trước ngày nghiệm thu bàn giao.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Thực thi kiểm thử hồi quy toàn diện trước ngày nghiệm thu bàn giao'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 93,
+    "title": "[QA-93] Đo lường độ bao phủ kiểm thử và lập báo cáo Test Coverage Report",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "coverage",
+      "qa"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: đo lường độ bao phủ kiểm thử và lập báo cáo test coverage report.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Đo lường độ bao phủ kiểm thử và lập báo cáo Test Coverage Report'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 94,
+    "title": "[QA-94] Kiểm thử quy trình sao lưu và phục hồi dữ liệu CSDL (Backup & Restore)",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P2",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "database",
+      "disaster-recovery"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: kiểm thử quy trình sao lưu và phục hồi dữ liệu csdl (backup & restore).",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Kiểm thử quy trình sao lưu và phục hồi dữ liệu CSDL (Backup & Restore)'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 95,
+    "title": "[QA-95] Lập Báo cáo Tổng kết Kiểm thử (Test Summary Report) kết thúc dự án",
+    "epic": "Epic 3: Cơ sở dữ liệu & Đảm bảo chất lượng (QA/DB)",
+    "assignee": "Đỗ Minh Nhật",
+    "assignee_role": "Database & QA/Tester",
+    "priority": "P1",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "test-summary",
+      "deliverables"
+    ],
+    "description": "Thiết kế CSDL quan hệ, kiểm thử phần mềm, bảo mật RBAC và kiểm định chất lượng: lập báo cáo tổng kết kiểm thử (test summary report) kết thúc dự án.",
+    "acceptance_criteria": [
+      "Hoàn thành các tiêu chí kiểm thử hoặc script CSDL cho 'Lập Báo cáo Tổng kết Kiểm thử (Test Summary Report) kết thúc dự án'.",
+      "Mọi lỗi phát sinh được ghi nhận và phân loại độ ưu tiên rõ ràng.",
+      "Tài liệu / Test Case được lưu trữ trong thư mục docs/ và tests/ của dự án."
+    ]
+  },
+  {
+    "id": 96,
+    "title": "[BE-96] Khởi tạo cấu trúc dự án Backend Django & Django REST Framework",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "backend",
+      "setup"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: khởi tạo cấu trúc dự án backend django & django rest framework.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Khởi tạo cấu trúc dự án Backend Django & Django REST Framework' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 97,
+    "title": "[BE-97] Thiết lập môi trường phát triển và tệp docker-compose cho backend",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "docker",
+      "backend"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: thiết lập môi trường phát triển và tệp docker-compose cho backend.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Thiết lập môi trường phát triển và tệp docker-compose cho backend' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 98,
+    "title": "[BE-98] Cấu hình kết nối cơ sở dữ liệu PostgreSQL/SQLite và quản lý file .env",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "database",
+      "config"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: cấu hình kết nối cơ sở dữ liệu postgresql/sqlite và quản lý file .env.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Cấu hình kết nối cơ sở dữ liệu PostgreSQL/SQLite và quản lý file .env' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 99,
+    "title": "[BE-99] Cài đặt và cấu hình Django REST Framework, phân trang và CORS Headers",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "drf",
+      "cors"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: cài đặt và cấu hình django rest framework, phân trang và cors headers.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Cài đặt và cấu hình Django REST Framework, phân trang và CORS Headers' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 100,
+    "title": "[BE-100] Thiết lập cơ chế logging tập trung và middleware xử lý ngoại lệ toàn cục",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "logging",
+      "middleware"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: thiết lập cơ chế logging tập trung và middleware xử lý ngoại lệ toàn cục.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Thiết lập cơ chế logging tập trung và middleware xử lý ngoại lệ toàn cục' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 101,
+    "title": "[BE-101] Xây dựng Custom User Model mở rộng từ AbstractUser phục vụ lưu thể trạng",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "models",
+      "auth"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng custom user model mở rộng từ abstractuser phục vụ lưu thể trạng.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng Custom User Model mở rộng từ AbstractUser phục vụ lưu thể trạng' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 102,
+    "title": "[BE-102] Xây dựng API Đăng ký tài khoản người dùng kèm mã hóa mật khẩu bcrypt",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "api",
+      "auth"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api đăng ký tài khoản người dùng kèm mã hóa mật khẩu bcrypt.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Đăng ký tài khoản người dùng kèm mã hóa mật khẩu bcrypt' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 103,
+    "title": "[BE-103] Xây dựng API Đăng nhập xác thực và cấp phát JWT (Access/Refresh Token)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "api",
+      "auth",
+      "jwt"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api đăng nhập xác thực và cấp phát jwt (access/refresh token).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Đăng nhập xác thực và cấp phát JWT (Access/Refresh Token)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 104,
+    "title": "[BE-104] Xây dựng API Làm mới Token (Refresh Token) và Đăng xuất (Blacklist Token)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "api",
+      "auth",
+      "jwt"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api làm mới token (refresh token) và đăng xuất (blacklist token).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Làm mới Token (Refresh Token) và Đăng xuất (Blacklist Token)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 105,
+    "title": "[BE-105] Xây dựng API Xem và Cập nhật hồ sơ thể trạng người dùng (UserProfile)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "api",
+      "profile"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api xem và cập nhật hồ sơ thể trạng người dùng (userprofile).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Xem và Cập nhật hồ sơ thể trạng người dùng (UserProfile)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 106,
+    "title": "[BE-106] Xây dựng cấu trúc Model Role, Permission và UserRoleMapping trong Django",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "models",
+      "rbac"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng cấu trúc model role, permission và userrolemapping trong django.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng cấu trúc Model Role, Permission và UserRoleMapping trong Django' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 107,
+    "title": "[BE-107] Phát triển RBAC Middleware chặn các truy cập trái phép theo vai trò",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "middleware",
+      "rbac",
+      "security"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: phát triển rbac middleware chặn các truy cập trái phép theo vai trò.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Phát triển RBAC Middleware chặn các truy cập trái phép theo vai trò' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 108,
+    "title": "[BE-108] Xây dựng Custom Permission Classes trong DRF (IsAdmin, IsTrainer, IsMember)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "drf",
+      "rbac",
+      "permissions"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng custom permission classes trong drf (isadmin, istrainer, ismember).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng Custom Permission Classes trong DRF (IsAdmin, IsTrainer, IsMember)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 109,
+    "title": "[BE-109] Xây dựng API Quản lý danh sách người dùng cho Admin (CRUD User)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "api",
+      "admin",
+      "users"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api quản lý danh sách người dùng cho admin (crud user).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Quản lý danh sách người dùng cho Admin (CRUD User)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 110,
+    "title": "[BE-110] Xây dựng API Quản lý danh sách vai trò (CRUD Role)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "api",
+      "admin",
+      "roles"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api quản lý danh sách vai trò (crud role).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Quản lý danh sách vai trò (CRUD Role)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 111,
+    "title": "[BE-111] Xây dựng API Gán và Hủy quyền của vai trò (Role-Permission Mapping)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "api",
+      "admin",
+      "rbac"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api gán và hủy quyền của vai trò (role-permission mapping).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Gán và Hủy quyền của vai trò (Role-Permission Mapping)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 112,
+    "title": "[BE-112] Xây dựng API Thống kê tổng số người dùng, bài tập cho Admin Dashboard",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "api",
+      "admin",
+      "stats"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api thống kê tổng số người dùng, bài tập cho admin dashboard.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Thống kê tổng số người dùng, bài tập cho Admin Dashboard' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 113,
+    "title": "[BE-113] Xây dựng Model Exercise, MuscleGroup, Equipment và ExerciseImage",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "models",
+      "exercise"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng model exercise, musclegroup, equipment và exerciseimage.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng Model Exercise, MuscleGroup, Equipment và ExerciseImage' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 114,
+    "title": "[BE-114] Xây dựng API Lấy danh sách bài tập kèm phân trang (Pagination)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "exercise"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api lấy danh sách bài tập kèm phân trang (pagination).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Lấy danh sách bài tập kèm phân trang (Pagination)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 115,
+    "title": "[BE-115] Xây dựng API Lọc bài tập theo loại hình (Gym/Yoga), nhóm cơ và độ khó",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "filter"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api lọc bài tập theo loại hình (gym/yoga), nhóm cơ và độ khó.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Lọc bài tập theo loại hình (Gym/Yoga), nhóm cơ và độ khó' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 116,
+    "title": "[BE-116] Xây dựng API Tìm kiếm bài tập theo từ khóa toàn văn (Search API)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "search"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api tìm kiếm bài tập theo từ khóa toàn văn (search api).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Tìm kiếm bài tập theo từ khóa toàn văn (Search API)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 117,
+    "title": "[BE-117] Xây dựng API Xem chi tiết bài tập kèm hình ảnh và hướng dẫn kỹ thuật",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "exercise-detail"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api xem chi tiết bài tập kèm hình ảnh và hướng dẫn kỹ thuật.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Xem chi tiết bài tập kèm hình ảnh và hướng dẫn kỹ thuật' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 118,
+    "title": "[BE-118] Xây dựng API Tạo bài tập mới dành cho Admin và Huấn luyện viên (PT)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "exercise",
+      "crud"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api tạo bài tập mới dành cho admin và huấn luyện viên (pt).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Tạo bài tập mới dành cho Admin và Huấn luyện viên (PT)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 119,
+    "title": "[BE-119] Xây dựng API Chỉnh sửa và Cập nhật thông tin bài tập Gym/Yoga",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "exercise",
+      "crud"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api chỉnh sửa và cập nhật thông tin bài tập gym/yoga.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Chỉnh sửa và Cập nhật thông tin bài tập Gym/Yoga' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 120,
+    "title": "[BE-120] Xây dựng API Xóa bài tập (Áp dụng Soft Delete bảo đảm toàn vẹn dữ liệu)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "exercise",
+      "crud"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api xóa bài tập (áp dụng soft delete bảo đảm toàn vẹn dữ liệu).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Xóa bài tập (Áp dụng Soft Delete bảo đảm toàn vẹn dữ liệu)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 121,
+    "title": "[BE-121] Xây dựng API Upload hình ảnh minh họa bài tập an toàn (Validate file type/size)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "upload"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api upload hình ảnh minh họa bài tập an toàn (validate file type/size).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Upload hình ảnh minh họa bài tập an toàn (Validate file type/size)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 122,
+    "title": "[BE-122] Xây dựng Model và API Đánh giá bài tập (Rating 1-5 sao kèm bình luận)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "models",
+      "api",
+      "feedback"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng model và api đánh giá bài tập (rating 1-5 sao kèm bình luận).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng Model và API Đánh giá bài tập (Rating 1-5 sao kèm bình luận)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 123,
+    "title": "[BE-123] Xây dựng API Tính điểm đánh giá trung bình và thống kê sao của bài tập",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "feedback"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api tính điểm đánh giá trung bình và thống kê sao của bài tập.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Tính điểm đánh giá trung bình và thống kê sao của bài tập' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 124,
+    "title": "[BE-124] Tích hợp thư viện OpenAI SDK / Google Gemini API vào cấu trúc Backend",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ai",
+      "sdk"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: tích hợp thư viện openai sdk / google gemini api vào cấu trúc backend.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Tích hợp thư viện OpenAI SDK / Google Gemini API vào cấu trúc Backend' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 125,
+    "title": "[BE-125] Thiết lập quản lý API Key an toàn qua biến môi trường hệ thống",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ai",
+      "security",
+      "env"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: thiết lập quản lý api key an toàn qua biến môi trường hệ thống.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Thiết lập quản lý API Key an toàn qua biến môi trường hệ thống' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 126,
+    "title": "[BE-126] Xây dựng cấu trúc Service Layer riêng biệt cho module AI Recommendation",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ai",
+      "service-layer"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng cấu trúc service layer riêng biệt cho module ai recommendation.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng cấu trúc Service Layer riêng biệt cho module AI Recommendation' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 127,
+    "title": "[BE-127] Thiết kế Prompt Engineering tối ưu hóa gợi ý bài tập theo thể trạng",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ai",
+      "prompt-engineering"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: thiết kế prompt engineering tối ưu hóa gợi ý bài tập theo thể trạng.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Thiết kế Prompt Engineering tối ưu hóa gợi ý bài tập theo thể trạng' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 128,
+    "title": "[BE-128] Định dạng prompt sinh lịch tập theo tuần chi tiết từ Thứ Hai đến Chủ Nhật",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ai",
+      "prompt-engineering"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: định dạng prompt sinh lịch tập theo tuần chi tiết từ thứ hai đến chủ nhật.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Định dạng prompt sinh lịch tập theo tuần chi tiết từ Thứ Hai đến Chủ Nhật' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 129,
+    "title": "[BE-129] Ràng buộc cấu trúc JSON Schema đầu ra cho kết quả trả về từ AI",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ai",
+      "schema-validation"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: ràng buộc cấu trúc json schema đầu ra cho kết quả trả về từ ai.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Ràng buộc cấu trúc JSON Schema đầu ra cho kết quả trả về từ AI' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 130,
+    "title": "[BE-130] Xây dựng bộ Parser và Validator kiểm tra tính hợp lệ của dữ liệu AI",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ai",
+      "validator"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng bộ parser và validator kiểm tra tính hợp lệ của dữ liệu ai.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng bộ Parser và Validator kiểm tra tính hợp lệ của dữ liệu AI' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 131,
+    "title": "[BE-131] Xây dựng cơ chế lọc và ánh xạ (Mapping) gợi ý AI với bài tập trong CSDL",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ai",
+      "database-mapping"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng cơ chế lọc và ánh xạ (mapping) gợi ý ai với bài tập trong csdl.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng cơ chế lọc và ánh xạ (Mapping) gợi ý AI với bài tập trong CSDL' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 132,
+    "title": "[BE-132] Xây dựng thuật toán Rule-based Fallback khi AI API gặp sự cố hoặc timeout",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ai",
+      "fallback"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng thuật toán rule-based fallback khi ai api gặp sự cố hoặc timeout.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng thuật toán Rule-based Fallback khi AI API gặp sự cố hoặc timeout' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 133,
+    "title": "[BE-133] Xây dựng API Tiếp nhận khảo sát thể trạng và kích hoạt sinh gợi ý AI",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "ai",
+      "wizard"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api tiếp nhận khảo sát thể trạng và kích hoạt sinh gợi ý ai.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Tiếp nhận khảo sát thể trạng và kích hoạt sinh gợi ý AI' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 134,
+    "title": "[BE-134] Xây dựng API Lưu trữ lịch sử gợi ý bài tập của người dùng vào CSDL",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "ai",
+      "history"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api lưu trữ lịch sử gợi ý bài tập của người dùng vào csdl.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Lưu trữ lịch sử gợi ý bài tập của người dùng vào CSDL' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 135,
+    "title": "[BE-135] Xây dựng API Lấy danh sách các lịch tập đã được gợi ý trước đó",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "ai",
+      "history"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api lấy danh sách các lịch tập đã được gợi ý trước đó.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Lấy danh sách các lịch tập đã được gợi ý trước đó' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 136,
+    "title": "[BE-136] Xây dựng API Đánh dấu hoàn thành bài tập trong lộ trình tập luyện",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "api",
+      "workout-tracking"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: xây dựng api đánh dấu hoàn thành bài tập trong lộ trình tập luyện.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Xây dựng API Đánh dấu hoàn thành bài tập trong lộ trình tập luyện' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 137,
+    "title": "[BE-137] Tối ưu hóa hiệu năng truy vấn ORM bằng select_related và prefetch_related",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "performance",
+      "orm"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: tối ưu hóa hiệu năng truy vấn orm bằng select_related và prefetch_related.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Tối ưu hóa hiệu năng truy vấn ORM bằng select_related và prefetch_related' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 138,
+    "title": "[BE-138] Cấu hình Redis Cache cho danh mục bài tập và nhóm cơ ít thay đổi",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "cache",
+      "redis"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: cấu hình redis cache cho danh mục bài tập và nhóm cơ ít thay đổi.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Cấu hình Redis Cache cho danh mục bài tập và nhóm cơ ít thay đổi' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 139,
+    "title": "[BE-139] Thiết lập Celery Task xử lý các tác vụ nền gửi thông báo và đồng bộ",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "celery",
+      "background-tasks"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: thiết lập celery task xử lý các tác vụ nền gửi thông báo và đồng bộ.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Thiết lập Celery Task xử lý các tác vụ nền gửi thông báo và đồng bộ' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 140,
+    "title": "[BE-140] Cấu hình bảo mật HTTP Security Headers (HSTS, X-Frame, X-Content-Type)",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "security",
+      "headers"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: cấu hình bảo mật http security headers (hsts, x-frame, x-content-type).",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Cấu hình bảo mật HTTP Security Headers (HSTS, X-Frame, X-Content-Type)' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 141,
+    "title": "[BE-141] Thiết lập Rate Limiting bảo vệ các endpoint Auth và AI Recommendation",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "security",
+      "rate-limit"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: thiết lập rate limiting bảo vệ các endpoint auth và ai recommendation.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Thiết lập Rate Limiting bảo vệ các endpoint Auth và AI Recommendation' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 142,
+    "title": "[BE-142] Tích hợp Swagger / OpenAPI 3.0 tự động sinh tài liệu API",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "swagger",
+      "documentation"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: tích hợp swagger / openapi 3.0 tự động sinh tài liệu api.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Tích hợp Swagger / OpenAPI 3.0 tự động sinh tài liệu API' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 143,
+    "title": "[BE-143] Hoàn thiện mô tả request/response schema cho 100% endpoint trên Swagger UI",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "swagger",
+      "schema"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: hoàn thiện mô tả request/response schema cho 100% endpoint trên swagger ui.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Hoàn thiện mô tả request/response schema cho 100% endpoint trên Swagger UI' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 144,
+    "title": "[BE-144] Viết Unit Test cho Module Authentication & Token Service",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "unittest",
+      "auth"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: viết unit test cho module authentication & token service.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Viết Unit Test cho Module Authentication & Token Service' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 145,
+    "title": "[BE-145] Viết Unit Test cho RBAC Middleware và Custom Permission Classes",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "unittest",
+      "rbac"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: viết unit test cho rbac middleware và custom permission classes.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Viết Unit Test cho RBAC Middleware và Custom Permission Classes' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 146,
+    "title": "[BE-146] Viết Unit Test cho CRUD Bài tập và bộ lọc tìm kiếm",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "unittest",
+      "exercise"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: viết unit test cho crud bài tập và bộ lọc tìm kiếm.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Viết Unit Test cho CRUD Bài tập và bộ lọc tìm kiếm' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 147,
+    "title": "[BE-147] Viết Integration Test cho luồng gợi ý AI và Fallback Engine",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "integration-test",
+      "ai"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: viết integration test cho luồng gợi ý ai và fallback engine.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Viết Integration Test cho luồng gợi ý AI và Fallback Engine' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 148,
+    "title": "[BE-148] Tối ưu hóa Dockerfile backend theo multi-stage build giảm kích thước",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P2",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "docker",
+      "optimization"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: tối ưu hóa dockerfile backend theo multi-stage build giảm kích thước.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Tối ưu hóa Dockerfile backend theo multi-stage build giảm kích thước' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 149,
+    "title": "[BE-149] Thiết lập cấu hình Nginx Reverse Proxy chuyển tiếp request an toàn tới backend",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "nginx",
+      "deployment"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: thiết lập cấu hình nginx reverse proxy chuyển tiếp request an toàn tới backend.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Thiết lập cấu hình Nginx Reverse Proxy chuyển tiếp request an toàn tới backend' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 150,
+    "title": "[BE-150] Đóng gói và chuẩn bị môi trường Backend sẵn sàng cho triển khai Cloud",
+    "epic": "Epic 4: Kiến trúc Backend & Tích hợp AI (Backend)",
+    "assignee": "Bùi Nguyễn Công Nghiệp",
+    "assignee_role": "Backend & AI",
+    "priority": "P1",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "deployment",
+      "cloud"
+    ],
+    "description": "Phát triển hệ thống API, cơ chế phân quyền RBAC và tích hợp trí tuệ nhân tạo: đóng gói và chuẩn bị môi trường backend sẵn sàng cho triển khai cloud.",
+    "acceptance_criteria": [
+      "Endpoint / logic cho 'Đóng gói và chuẩn bị môi trường Backend sẵn sàng cho triển khai Cloud' hoạt động chính xác theo API Contract.",
+      "Xử lý đầy đủ validate dữ liệu đầu vào và các mã lỗi HTTP chuẩn.",
+      "Kèm Unit Test và tài liệu cập nhật trên Swagger UI."
+    ]
+  },
+  {
+    "id": 151,
+    "title": "[FE-151] Nghiên cứu phong cách thiết kế, moodboard thể thao năng động và thẩm mỹ",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "ui-ux",
+      "research"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: nghiên cứu phong cách thiết kế, moodboard thể thao năng động và thẩm mỹ.",
+    "acceptance_criteria": [
+      "Giao diện của 'Nghiên cứu phong cách thiết kế, moodboard thể thao năng động và thẩm mỹ' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 152,
+    "title": "[FE-152] Xây dựng Design System (Bảng màu Gym/Yoga, Typography, Spacing, Icons)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "design-system",
+      "figma"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: xây dựng design system (bảng màu gym/yoga, typography, spacing, icons).",
+    "acceptance_criteria": [
+      "Giao diện của 'Xây dựng Design System (Bảng màu Gym/Yoga, Typography, Spacing, Icons)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 153,
+    "title": "[FE-153] Thiết kế Wireframe khung xương cho Client Portal và Admin Dashboard",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "wireframe",
+      "figma"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: thiết kế wireframe khung xương cho client portal và admin dashboard.",
+    "acceptance_criteria": [
+      "Giao diện của 'Thiết kế Wireframe khung xương cho Client Portal và Admin Dashboard' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 154,
+    "title": "[FE-154] Thiết kế bản vẽ High-Fidelity màn hình Đăng ký, Đăng nhập trên Figma",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "figma",
+      "auth"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: thiết kế bản vẽ high-fidelity màn hình đăng ký, đăng nhập trên figma.",
+    "acceptance_criteria": [
+      "Giao diện của 'Thiết kế bản vẽ High-Fidelity màn hình Đăng ký, Đăng nhập trên Figma' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 155,
+    "title": "[FE-155] Thiết kế bản vẽ High-Fidelity màn hình Hồ sơ thể trạng người dùng",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "figma",
+      "profile"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: thiết kế bản vẽ high-fidelity màn hình hồ sơ thể trạng người dùng.",
+    "acceptance_criteria": [
+      "Giao diện của 'Thiết kế bản vẽ High-Fidelity màn hình Hồ sơ thể trạng người dùng' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 156,
+    "title": "[FE-156] Thiết kế bản vẽ High-Fidelity màn hình Thư viện bài tập & Bộ lọc",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "figma",
+      "exercise"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: thiết kế bản vẽ high-fidelity màn hình thư viện bài tập & bộ lọc.",
+    "acceptance_criteria": [
+      "Giao diện của 'Thiết kế bản vẽ High-Fidelity màn hình Thư viện bài tập & Bộ lọc' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 157,
+    "title": "[FE-157] Thiết kế bản vẽ High-Fidelity màn hình Chi tiết bài tập Gym/Yoga",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "figma",
+      "exercise-detail"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: thiết kế bản vẽ high-fidelity màn hình chi tiết bài tập gym/yoga.",
+    "acceptance_criteria": [
+      "Giao diện của 'Thiết kế bản vẽ High-Fidelity màn hình Chi tiết bài tập Gym/Yoga' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 158,
+    "title": "[FE-158] Thiết kế bản vẽ High-Fidelity màn hình Khảo sát AI Wizard & Lịch tập tuần",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "figma",
+      "ai"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: thiết kế bản vẽ high-fidelity màn hình khảo sát ai wizard & lịch tập tuần.",
+    "acceptance_criteria": [
+      "Giao diện của 'Thiết kế bản vẽ High-Fidelity màn hình Khảo sát AI Wizard & Lịch tập tuần' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 159,
+    "title": "[FE-159] Thiết kế bản vẽ High-Fidelity giao diện Admin Dashboard & Ma trận RBAC",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "figma",
+      "admin",
+      "rbac"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: thiết kế bản vẽ high-fidelity giao diện admin dashboard & ma trận rbac.",
+    "acceptance_criteria": [
+      "Giao diện của 'Thiết kế bản vẽ High-Fidelity giao diện Admin Dashboard & Ma trận RBAC' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 160,
+    "title": "[FE-160] Xây dựng Prototype tương tác Clickable trên Figma để kiểm tra trải nghiệm",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "figma",
+      "prototype"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: xây dựng prototype tương tác clickable trên figma để kiểm tra trải nghiệm.",
+    "acceptance_criteria": [
+      "Giao diện của 'Xây dựng Prototype tương tác Clickable trên Figma để kiểm tra trải nghiệm' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 161,
+    "title": "[FE-161] Khởi tạo cấu trúc dự án Frontend (React/Modern JS) và cấu hình Tailwind CSS",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 1",
+    "status": "Done",
+    "labels": [
+      "frontend",
+      "setup"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: khởi tạo cấu trúc dự án frontend (react/modern js) và cấu hình tailwind css.",
+    "acceptance_criteria": [
+      "Giao diện của 'Khởi tạo cấu trúc dự án Frontend (React/Modern JS) và cấu hình Tailwind CSS' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 162,
+    "title": "[FE-162] Thiết lập cấu hình Routing và cơ chế Protected Routes dựa trên Role",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "routing",
+      "rbac"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: thiết lập cấu hình routing và cơ chế protected routes dựa trên role.",
+    "acceptance_criteria": [
+      "Giao diện của 'Thiết lập cấu hình Routing và cơ chế Protected Routes dựa trên Role' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 163,
+    "title": "[FE-163] Cấu hình Axios Client quản lý interceptor đính kèm JWT và tự động refresh token",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "axios",
+      "jwt",
+      "auth"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: cấu hình axios client quản lý interceptor đính kèm jwt và tự động refresh token.",
+    "acceptance_criteria": [
+      "Giao diện của 'Cấu hình Axios Client quản lý interceptor đính kèm JWT và tự động refresh token' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 164,
+    "title": "[FE-164] Xây dựng Global State Management (Auth Context / User Store)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "state",
+      "auth"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: xây dựng global state management (auth context / user store).",
+    "acceptance_criteria": [
+      "Giao diện của 'Xây dựng Global State Management (Auth Context / User Store)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 165,
+    "title": "[FE-165] Xây dựng bộ Component nền tảng (Button, Input, Modal, Dropdown, Toast, Badge)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "components",
+      "ui"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: xây dựng bộ component nền tảng (button, input, modal, dropdown, toast, badge).",
+    "acceptance_criteria": [
+      "Giao diện của 'Xây dựng bộ Component nền tảng (Button, Input, Modal, Dropdown, Toast, Badge)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 166,
+    "title": "[FE-166] Xây dựng Layout dùng chung: Header điều hướng, Sidebar Admin và Footer",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "layout",
+      "ui"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: xây dựng layout dùng chung: header điều hướng, sidebar admin và footer.",
+    "acceptance_criteria": [
+      "Giao diện của 'Xây dựng Layout dùng chung: Header điều hướng, Sidebar Admin và Footer' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 167,
+    "title": "[FE-167] Phát triển Giao diện Đăng ký tài khoản kèm kiểm tra dữ liệu form thời gian thực",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "ui",
+      "auth"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển giao diện đăng ký tài khoản kèm kiểm tra dữ liệu form thời gian thực.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Giao diện Đăng ký tài khoản kèm kiểm tra dữ liệu form thời gian thực' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 168,
+    "title": "[FE-168] Phát triển Giao diện Đăng nhập tài khoản và lưu trữ token an toàn",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "ui",
+      "auth"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển giao diện đăng nhập tài khoản và lưu trữ token an toàn.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Giao diện Đăng nhập tài khoản và lưu trữ token an toàn' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 169,
+    "title": "[FE-169] Phát triển Giao diện Quên mật khẩu và Đặt lại mật khẩu qua email",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "ui",
+      "auth"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển giao diện quên mật khẩu và đặt lại mật khẩu qua email.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Giao diện Quên mật khẩu và Đặt lại mật khẩu qua email' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 170,
+    "title": "[FE-170] Phát triển Giao diện Xem và Cập nhật Hồ sơ cá nhân (chiều cao, cân nặng)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "ui",
+      "profile"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển giao diện xem và cập nhật hồ sơ cá nhân (chiều cao, cân nặng).",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Giao diện Xem và Cập nhật Hồ sơ cá nhân (chiều cao, cân nặng)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 171,
+    "title": "[FE-171] Tích hợp chức năng tự động tính chỉ số BMI và hiển thị biểu đồ phân loại thể trạng",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "ui",
+      "bmi",
+      "chart"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: tích hợp chức năng tự động tính chỉ số bmi và hiển thị biểu đồ phân loại thể trạng.",
+    "acceptance_criteria": [
+      "Giao diện của 'Tích hợp chức năng tự động tính chỉ số BMI và hiển thị biểu đồ phân loại thể trạng' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 172,
+    "title": "[FE-172] Phát triển Giao diện Thư viện bài tập dạng lưới thẻ (Card Grid Layout)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "catalog"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển giao diện thư viện bài tập dạng lưới thẻ (card grid layout).",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Giao diện Thư viện bài tập dạng lưới thẻ (Card Grid Layout)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 173,
+    "title": "[FE-173] Phát triển Component Thẻ bài tập (Exercise Card) hiển thị ảnh, độ khó, nhóm cơ",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "exercise-card"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển component thẻ bài tập (exercise card) hiển thị ảnh, độ khó, nhóm cơ.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Component Thẻ bài tập (Exercise Card) hiển thị ảnh, độ khó, nhóm cơ' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 174,
+    "title": "[FE-174] Phát triển Thanh tìm kiếm từ khóa với cơ chế Debounce chống gửi request liên tục",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "search",
+      "debounce"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển thanh tìm kiếm từ khóa với cơ chế debounce chống gửi request liên tục.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Thanh tìm kiếm từ khóa với cơ chế Debounce chống gửi request liên tục' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 175,
+    "title": "[FE-175] Phát triển Bộ lọc đa tiêu chí (Phân loại Gym/Yoga, Nhóm cơ, Độ khó, Thiết bị)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "filter"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển bộ lọc đa tiêu chí (phân loại gym/yoga, nhóm cơ, độ khó, thiết bị).",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Bộ lọc đa tiêu chí (Phân loại Gym/Yoga, Nhóm cơ, Độ khó, Thiết bị)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 176,
+    "title": "[FE-176] Phát triển Thanh phân trang (Pagination) và hiển thị tổng số kết quả tìm thấy",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "pagination"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển thanh phân trang (pagination) và hiển thị tổng số kết quả tìm thấy.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Thanh phân trang (Pagination) và hiển thị tổng số kết quả tìm thấy' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 177,
+    "title": "[FE-177] Phát triển Trang Chi tiết bài tập hiển thị hình ảnh, mô tả và hướng dẫn kỹ thuật",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "exercise-detail"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển trang chi tiết bài tập hiển thị hình ảnh, mô tả và hướng dẫn kỹ thuật.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Trang Chi tiết bài tập hiển thị hình ảnh, mô tả và hướng dẫn kỹ thuật' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 178,
+    "title": "[FE-178] Phát triển Component Đánh giá sao (Star Rating) và gửi bình luận bài tập",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "rating"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển component đánh giá sao (star rating) và gửi bình luận bài tập.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Component Đánh giá sao (Star Rating) và gửi bình luận bài tập' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 179,
+    "title": "[FE-179] Phát triển Danh sách phản hồi và cảm nhận của cộng đồng về bài tập",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "comments"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển danh sách phản hồi và cảm nhận của cộng đồng về bài tập.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Danh sách phản hồi và cảm nhận của cộng đồng về bài tập' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 180,
+    "title": "[FE-180] Phát triển Giao diện Khảo sát AI Wizard đa bước (Multi-step Form)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "ai-wizard"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển giao diện khảo sát ai wizard đa bước (multi-step form).",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Giao diện Khảo sát AI Wizard đa bước (Multi-step Form)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 181,
+    "title": "[FE-181] Thiết kế hiệu ứng Loading / Skeleton mượt mà trong khi chờ AI sinh dữ liệu",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "skeleton",
+      "ux"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: thiết kế hiệu ứng loading / skeleton mượt mà trong khi chờ ai sinh dữ liệu.",
+    "acceptance_criteria": [
+      "Giao diện của 'Thiết kế hiệu ứng Loading / Skeleton mượt mà trong khi chờ AI sinh dữ liệu' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 182,
+    "title": "[FE-182] Phát triển Màn hình hiển thị Lịch tập tuần do AI gợi ý (Weekly Schedule View)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "workout-plan"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển màn hình hiển thị lịch tập tuần do ai gợi ý (weekly schedule view).",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Màn hình hiển thị Lịch tập tuần do AI gợi ý (Weekly Schedule View)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 183,
+    "title": "[FE-183] Phát triển Chức năng Tùy biến / Đổi bài tập khác trong lịch tập gợi ý",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "workout-plan"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển chức năng tùy biến / đổi bài tập khác trong lịch tập gợi ý.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Chức năng Tùy biến / Đổi bài tập khác trong lịch tập gợi ý' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 184,
+    "title": "[FE-184] Phát triển Màn hình Xem lại Lịch sử các lần gợi ý bài tập trước đây",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "history"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển màn hình xem lại lịch sử các lần gợi ý bài tập trước đây.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Màn hình Xem lại Lịch sử các lần gợi ý bài tập trước đây' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 185,
+    "title": "[FE-185] Phát triển Giao diện Admin Dashboard tổng quan (Biểu đồ thống kê User, Role)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "ui",
+      "admin",
+      "dashboard"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển giao diện admin dashboard tổng quan (biểu đồ thống kê user, role).",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Giao diện Admin Dashboard tổng quan (Biểu đồ thống kê User, Role)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 186,
+    "title": "[FE-186] Phát triển Giao diện Quản lý Danh sách Người dùng (User Management Table)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "ui",
+      "admin",
+      "users"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển giao diện quản lý danh sách người dùng (user management table).",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Giao diện Quản lý Danh sách Người dùng (User Management Table)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 187,
+    "title": "[FE-187] Phát triển Modal Chỉnh sửa thông tin và Gán vai trò (Assign Role) cho User",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "ui",
+      "admin",
+      "users"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển modal chỉnh sửa thông tin và gán vai trò (assign role) cho user.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Modal Chỉnh sửa thông tin và Gán vai trò (Assign Role) cho User' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 188,
+    "title": "[FE-188] Phát triển Giao diện Ma trận Phân quyền (RBAC Matrix Table) trực quan",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "ui",
+      "admin",
+      "rbac"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển giao diện ma trận phân quyền (rbac matrix table) trực quan.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Giao diện Ma trận Phân quyền (RBAC Matrix Table) trực quan' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 189,
+    "title": "[FE-189] Phát triển Tính năng Bật/Tắt quyền hạn của Role tức thời với hiệu ứng Toggle",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 2",
+    "status": "In Progress",
+    "labels": [
+      "ui",
+      "admin",
+      "rbac"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển tính năng bật/tắt quyền hạn của role tức thời với hiệu ứng toggle.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Tính năng Bật/Tắt quyền hạn của Role tức thời với hiệu ứng Toggle' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 190,
+    "title": "[FE-190] Phát triển Giao diện Quản trị Thư viện Bài tập (Admin Exercise CRUD Table)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "admin",
+      "exercises"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển giao diện quản trị thư viện bài tập (admin exercise crud table).",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Giao diện Quản trị Thư viện Bài tập (Admin Exercise CRUD Table)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 191,
+    "title": "[FE-191] Phát triển Modal Thêm mới bài tập kèm upload hình ảnh và xem trước (Preview)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "admin",
+      "exercises"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển modal thêm mới bài tập kèm upload hình ảnh và xem trước (preview).",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Modal Thêm mới bài tập kèm upload hình ảnh và xem trước (Preview)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 192,
+    "title": "[FE-192] Phát triển Modal Chỉnh sửa bài tập và cập nhật dữ liệu kỹ thuật",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "ui",
+      "admin",
+      "exercises"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: phát triển modal chỉnh sửa bài tập và cập nhật dữ liệu kỹ thuật.",
+    "acceptance_criteria": [
+      "Giao diện của 'Phát triển Modal Chỉnh sửa bài tập và cập nhật dữ liệu kỹ thuật' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 193,
+    "title": "[FE-193] Xử lý hệ thống Toast Notification thông báo thành công, cảnh báo và lỗi API",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "ui",
+      "toast"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: xử lý hệ thống toast notification thông báo thành công, cảnh báo và lỗi api.",
+    "acceptance_criteria": [
+      "Giao diện của 'Xử lý hệ thống Toast Notification thông báo thành công, cảnh báo và lỗi API' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 194,
+    "title": "[FE-194] Xây dựng trang thông báo lỗi 403 Forbidden và 404 Not Found thân thiện",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 2",
+    "status": "Done",
+    "labels": [
+      "ui",
+      "error-pages"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: xây dựng trang thông báo lỗi 403 forbidden và 404 not found thân thiện.",
+    "acceptance_criteria": [
+      "Giao diện của 'Xây dựng trang thông báo lỗi 403 Forbidden và 404 Not Found thân thiện' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 195,
+    "title": "[FE-195] Tối ưu hóa trải nghiệm Responsive trên thiết bị di động (Mobile Navigation, Tap targets)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "responsive",
+      "mobile"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: tối ưu hóa trải nghiệm responsive trên thiết bị di động (mobile navigation, tap targets).",
+    "acceptance_criteria": [
+      "Giao diện của 'Tối ưu hóa trải nghiệm Responsive trên thiết bị di động (Mobile Navigation, Tap targets)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 196,
+    "title": "[FE-196] Tối ưu hóa trải nghiệm Responsive trên máy tính bảng (Tablet Breakpoints)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 3",
+    "status": "To Do",
+    "labels": [
+      "responsive",
+      "tablet"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: tối ưu hóa trải nghiệm responsive trên máy tính bảng (tablet breakpoints).",
+    "acceptance_criteria": [
+      "Giao diện của 'Tối ưu hóa trải nghiệm Responsive trên máy tính bảng (Tablet Breakpoints)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 197,
+    "title": "[FE-197] Tối ưu hóa thời gian tải trang ban đầu (Lazy loading ảnh, Code splitting)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "performance",
+      "frontend"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: tối ưu hóa thời gian tải trang ban đầu (lazy loading ảnh, code splitting).",
+    "acceptance_criteria": [
+      "Giao diện của 'Tối ưu hóa thời gian tải trang ban đầu (Lazy loading ảnh, Code splitting)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 198,
+    "title": "[FE-198] Kiểm tra độ tương phản màu sắc và khả năng tiếp cận người dùng (WCAG AA)",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P2",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "accessibility",
+      "ux"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: kiểm tra độ tương phản màu sắc và khả năng tiếp cận người dùng (wcag aa).",
+    "acceptance_criteria": [
+      "Giao diện của 'Kiểm tra độ tương phản màu sắc và khả năng tiếp cận người dùng (WCAG AA)' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 199,
+    "title": "[FE-199] Đóng gói bản build Frontend và cấu hình Dockerfile production với Nginx",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "docker",
+      "frontend"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: đóng gói bản build frontend và cấu hình dockerfile production với nginx.",
+    "acceptance_criteria": [
+      "Giao diện của 'Đóng gói bản build Frontend và cấu hình Dockerfile production với Nginx' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  },
+  {
+    "id": 200,
+    "title": "[FE-200] Hoàn thiện toàn bộ giao diện, kết nối End-to-End với Backend API",
+    "epic": "Epic 5: Thiết kế UI/UX & Lập trình Frontend (Frontend)",
+    "assignee": "Nguyễn Chí Nhân",
+    "assignee_role": "Frontend UI/UX",
+    "priority": "P1",
+    "sprint": "Sprint 4",
+    "status": "To Do",
+    "labels": [
+      "e2e",
+      "integration"
+    ],
+    "description": "Thiết kế giao diện Figma, xây dựng các màn hình và kết nối RESTful API: hoàn thiện toàn bộ giao diện, kết nối end-to-end với backend api.",
+    "acceptance_criteria": [
+      "Giao diện của 'Hoàn thiện toàn bộ giao diện, kết nối End-to-End với Backend API' đáp ứng chuẩn thiết kế Figma, hiển thị responsive mượt mà.",
+      "Tương tác mượt mà, xử lý đầy đủ các trạng thái Loading, Empty và Error.",
+      "Kết nối API chính xác, tuân thủ ma trận phân quyền người dùng."
+    ]
+  }
+]

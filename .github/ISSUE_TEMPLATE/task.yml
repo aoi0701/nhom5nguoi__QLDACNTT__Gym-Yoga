@@ -1,0 +1,18 @@
+name: 📌 Sprint Task
+description: Tác vụ thực hiện theo kế hoạch Sprint WBS
+title: "[TASK]: "
+labels: ["task"]
+body:
+  - type: input
+    id: wbs_code
+    attributes:
+      label: Mã công việc WBS
+      placeholder: "Ví dụ: 3.2 hoặc 4.5"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Nội dung công việc
+    validations:
+      required: true

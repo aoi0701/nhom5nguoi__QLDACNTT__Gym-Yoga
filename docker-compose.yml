@@ -1,0 +1,54 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: gym_yoga_db
+    restart: always
+    environment:
+      POSTGRES_DB: gym_yoga_db
+      POSTGRES_USER: gym_user
+      POSTGRES_PASSWORD: gym_secure_password_2026
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/init.sql
+
+  redis:
+    image: redis:7-alpine
+    container_name: gym_yoga_redis
+    restart: always
+    ports:
+      - "6379:6379"
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: gym_yoga_backend
+    restart: always
+    environment:
+      DEBUG: "True"
+      DATABASE_URL: postgres://gym_user:gym_secure_password_2026@db:5432/gym_yoga_db
+      REDIS_URL: redis://redis:6379/1
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-your_gemini_key_here}
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+      - redis
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: gym_yoga_frontend
+    restart: always
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:
